@@ -1,0 +1,49 @@
+{
+	"acronym": "does",
+	"name": "Dayton Oaks",
+	"primary_color": "rgb(102, 153, 204)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-1571",
+		"fax": "410-313-1572"
+	},
+	"address": {
+		"street": "4691 Ten Oaks Road",
+		"city": "Dayton",
+		"postal_code": "21036",
+		"latitude": "39.2408616",
+		"longitude": "-76.9857596"
+	},
+	"principal": "Carol DeBord",
+	"hours": {
+		"open": "9:00 a.m.",
+		"close": "3:30 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "<no value>",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Ananta Hejeebu"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2009", "2014"]
+		}
+	
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"acronym": "hcms",
+	"name": "Harper’s Choice",
+	"primary_color": "rgb(0, 51, 153)",
+	"level": "ms",
+	"contact": {
+		"phone": "410-313-6929",
+		"fax": "410-313-5612"
+	},
+	"address": {
+		"street": "5450 Beaverkill Road",
+		"city": "Columbia",
+		"postal_code": "21044",
+		"latitude": "39.2246118",
+		"longitude": "-76.8898421"
+	},
+	"principal": "Adam Eldridge",
+	"hours": {
+		"open": "8:05 a.m.",
+		"close": "2:50 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "harpers-choice-ms-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Pat Saunderson",
+			"phone": "410-313-1260",
+			"email": "patrick_saunderson@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Ron Morris",
+			"phone": "410-313-6606",
+			"email": "ron_morris@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Kirsten Coombs"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2014"]
+		}
+	
+	]
+}

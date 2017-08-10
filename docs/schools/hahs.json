@@ -1,0 +1,49 @@
+{
+	"acronym": "hahs",
+	"name": "Hammond",
+	"primary_color": "rgb(133, 0, 0)",
+	"level": "hs",
+	"contact": {
+		"phone": "410-313-7615",
+		"fax": "410-313-7632"
+	},
+	"address": {
+		"street": "8800 Guilford Road",
+		"city": "Columbia",
+		"postal_code": "21046",
+		"latitude": "39.1678898",
+		"longitude": "-76.8628862"
+	},
+	"principal": "Marcy Leonard",
+	"hours": {
+		"open": "7:25 a.m.",
+		"close": "2:10 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "hammond-hs-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Mavis Ellis"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2014"]
+		}
+	
+	]
+}

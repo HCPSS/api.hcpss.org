@@ -1,0 +1,49 @@
+{
+	"acronym": "rbes",
+	"name": "Running Brook",
+	"primary_color": "rgb(87, 60, 103)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-6893",
+		"fax": "410-313-6898"
+	},
+	"address": {
+		"street": "5215 W. Running Brook Road",
+		"city": "Columbia",
+		"postal_code": "21044",
+		"latitude": "39.2288342",
+		"longitude": "-76.8597167"
+	},
+	"principal": "Troy Todd",
+	"hours": {
+		"open": "9:25 a.m.",
+		"close": "3:55 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "running-brook-es-walk-area.pdf",
+	"title_1": true,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Pat Saunderson",
+			"phone": "410-313-1260",
+			"email": "patrick_saunderson@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Ron Morris",
+			"phone": "410-313-6606",
+			"email": "ron_morris@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Kirsten Coombs"
+	},
+	"achievements": [
+		{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold"
+		}
+	
+	]
+}

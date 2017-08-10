@@ -1,0 +1,65 @@
+{{- $school := index .Site.Data.schools .Params.acronym -}}
+{{- $admin_cluster_id := string $school.cluster -}}
+{{- $admin_cluster := index .Site.Data.administrative_clusters $admin_cluster_id -}}
+{{- $boe_cluster := index .Site.Data.boe_clusters $school.boe_cluster -}}
+{
+	"acronym": "{{ $school.acronym }}",
+	"name": "{{ $school.name }}",
+	"primary_color": "{{ $school.primary_color }}",
+	"level": "{{ $school.level }}",
+	"contact": {
+		"phone": "{{ $school.contact.phone }}",
+		"fax": "{{ $school.contact.fax }}"
+	},
+	"address": {
+		"street": "{{ $school.address.street }}",
+		"city": "{{ $school.address.city }}",
+		"postal_code": "{{ $school.address.postal_code }}",
+		"latitude": "{{ $school.address.latitude }}",
+		"longitude": "{{ $school.address.longitude }}"
+	},
+	"principal": "{{ $school.principal }}",
+	"hours": {
+		"open": "{{ $school.hours.open }}",
+		"close": "{{ $school.hours.close }}"
+	},
+	"profile": {{ $school.profile }},
+	"msde_report": {{ $school.msde_report }},
+	"walk_area": "{{ $school.walk_area }}",
+	"title_1": {{ $school.title_1 }},
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "{{ $admin_cluster.community_superintendent.name }}",
+			"phone": "{{ $admin_cluster.community_superintendent.phone }}",
+			"email": "{{ $admin_cluster.community_superintendent.email }}"
+		},
+		"pec_officer": {
+			"name": "{{ $admin_cluster.pec_officer.name }}",
+			"phone": "{{ $admin_cluster.pec_officer.phone }}",
+			"email": "{{ $admin_cluster.pec_officer.email }}"
+		}
+	},
+	"boe_cluster": {
+		"representative": "{{ $boe_cluster.representative }}"
+	},
+	"achievements": [
+	{{- range $index, $award := $school.achievements }}
+		{{ if $index }},{{ end }}{
+			"machine_name": "{{ $award.machine_name }}",
+			"name": "{{ $award.name }}"
+			{{- if $award.level -}},
+			"level": "{{ $award.level }}"
+			{{- end -}}
+			{{- if $award.url -}},
+			"url": "{{ $award.url }}"
+			{{- end -}}
+			{{- if $award.color -}},
+			"color": "{{ $award.color }}"
+			{{- end -}}
+			{{- if $award.years -}},
+			"years": [{{ "\"" }}{{ delimit $award.years "\", \"" }}{{ "\"" }}]
+			{{- end }}
+		}
+	{{ end }}
+	]
+}

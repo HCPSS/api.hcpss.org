@@ -1,0 +1,31 @@
+acronym: emms
+name: 'Ellicott Mills'
+primary_color: 'rgb(0, 51, 153)'
+level: ms
+contact:
+  phone: 410-313-2839
+  fax: 410-313-2845
+address:
+  street: '4445 Montgomery Road'
+  city: 'Ellicott City'
+  postal_code: 21043
+  latitude: '39.2500543'
+  longitude: '-76.812856'
+principal: 'Christopher Rattay'
+hours:
+  open: '8:25 a.m.'
+  close: '3:10 p.m.'
+profile: true
+msde_report: true
+walk_area: ellicott-mills-ms-walk-area.pdf
+title_1: false
+cluster: 3
+boe_cluster: B
+achievements:
+  - machine_name: blue
+    name: 'Blue Ribbon School'
+    years:
+      - '2010'
+  - machine_name: healthy_howard
+    name: 'Healthy Howard School'
+    level: Gold

@@ -1,0 +1,56 @@
+{
+	"acronym": "cres",
+	"name": "Cradlerock",
+	"primary_color": "rgb(0, 0, 204)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-7610",
+		"fax": "410-313-7634"
+	},
+	"address": {
+		"street": "6700 Cradlerock Way",
+		"city": "Columbia",
+		"postal_code": "21045",
+		"latitude": "39.1915016",
+		"longitude": "-76.8458072"
+	},
+	"principal": "Jason McCoy",
+	"hours": {
+		"open": "8:15 a.m.",
+		"close": "2:45 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "cradlerock-es-walk-area.pdf",
+	"title_1": true,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Theo Cramer",
+			"phone": "410-313-5332",
+			"email": "theo_cramer@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "David Larner",
+			"phone": "410-313-1518",
+			"email": "david_larner@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Bess Altwerger, Ed.D."
+	},
+	"achievements": [
+		{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold"
+		}
+	
+	]
+}

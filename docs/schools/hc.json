@@ -1,0 +1,56 @@
+{
+	"acronym": "hc",
+	"name": "Homewood Center",
+	"primary_color": "rgb(134, 0, 7)",
+	"level": "ec",
+	"contact": {
+		"phone": "410-313-7081",
+		"fax": "410-313-7130"
+	},
+	"address": {
+		"street": "10914 Clarksville Pike (Route 108)",
+		"city": "Ellicott City",
+		"postal_code": "21042",
+		"latitude": "39.235378",
+		"longitude": "-76.8948001"
+	},
+	"principal": "Tina Maddox",
+	"hours": {
+		"open": "7:25 a.m.",
+		"close": "2:10 p.m."
+	},
+	"profile": false,
+	"msde_report": true,
+	"walk_area": "<no value>",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Christina Delmont-Small"
+	},
+	"achievements": [
+		{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold, Platinum"
+		}
+	
+	]
+}

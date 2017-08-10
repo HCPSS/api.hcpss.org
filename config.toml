@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "HCPSS API"
+uglyURLs = true
+publishDir = "docs"
+[outputs]
+  page = ["JSON"]

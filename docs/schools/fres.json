@@ -1,0 +1,62 @@
+{
+	"acronym": "fres",
+	"name": "Forest Ridge",
+	"primary_color": "rgb(0, 102, 204)",
+	"level": "es",
+	"contact": {
+		"phone": "410-880-5950",
+		"fax": "410-880-5956"
+	},
+	"address": {
+		"street": "9550 Gorman Road",
+		"city": "Laurel",
+		"postal_code": "20723",
+		"latitude": "39.1356831",
+		"longitude": "-76.8417055"
+	},
+	"principal": "Genee Varlack",
+	"hours": {
+		"open": "9:15 a.m.",
+		"close": "3:45 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "forest-ridge-es-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Mavis Ellis"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2009", "2013"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Silver",
+			"color": "A8A9AD"
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Platinum"
+		}
+	
+	]
+}

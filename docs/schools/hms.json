@@ -1,0 +1,68 @@
+{
+	"acronym": "hms",
+	"name": "Hammond",
+	"primary_color": "rgb(0, 102, 304)",
+	"level": "ms",
+	"contact": {
+		"phone": "410-880-5830",
+		"fax": "410-880-5837"
+	},
+	"address": {
+		"street": "8110 Aladdin Drive",
+		"city": "Laurel",
+		"postal_code": "20723",
+		"latitude": "39.1483545",
+		"longitude": "-76.880843"
+	},
+	"principal": "Kerry Dufresne",
+	"hours": {
+		"open": "8:05 a.m.",
+		"close": "2:50 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "hammond-ms-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Bess Altwerger, Ed.D."
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2002", "2006", "2010", "2014"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+		,{
+			"machine_name": "blue",
+			"name": "Blue Ribbon School",
+			"years": ["2009"]
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold"
+		}
+	
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"acronym": "ges",
+	"name": "Guilford",
+	"primary_color": "rgb(0, 51, 102)",
+	"level": "es",
+	"contact": {
+		"phone": "410-880-5930",
+		"fax": "410-880-5935"
+	},
+	"address": {
+		"street": "7335 Oakland Mills Road",
+		"city": "Columbia",
+		"postal_code": "21046",
+		"latitude": "39.1697818",
+		"longitude": "-76.8321456"
+	},
+	"principal": "Jonathan Davis",
+	"hours": {
+		"open": "9:25 a.m.",
+		"close": "3:55 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "guilford-es-walk-area.pdf",
+	"title_1": true,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Mavis Ellis"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2014"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Platinum"
+		}
+	
+	]
+}

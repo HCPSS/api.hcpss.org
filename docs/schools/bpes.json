@@ -1,0 +1,55 @@
+{
+	"acronym": "bpes",
+	"name": "Bushy Park",
+	"primary_color": "rgb(0, 51, 153)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-5500",
+		"fax": "410-313-5505"
+	},
+	"address": {
+		"street": "14601 Carrs Mill Road",
+		"city": "Glenwood",
+		"postal_code": "21738",
+		"latitude": "39.3025517",
+		"longitude": "-77.0206572"
+	},
+	"principal": "Molly Ketterer",
+	"hours": {
+		"open": "9:20 a.m.",
+		"close": "3:50 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "<no value>",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Theo Cramer",
+			"phone": "410-313-5332",
+			"email": "theo_cramer@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "David Larner",
+			"phone": "410-313-1518",
+			"email": "david_larner@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Kirsten Coombs"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2010", "2014"]
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold"
+		}
+	
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"acronym": "hes",
+	"name": "Hammond",
+	"primary_color": "rgb(0, 102, 102)",
+	"level": "es",
+	"contact": {
+		"phone": "410-880-5890",
+		"fax": "410-880-5895"
+	},
+	"address": {
+		"street": "8110 Aladdin Drive",
+		"city": "Laurel",
+		"postal_code": "20723",
+		"latitude": "39.1482806",
+		"longitude": "-76.8807615"
+	},
+	"principal": "Kim Pratesi",
+	"hours": {
+		"open": "9:00 a.m.",
+		"close": "3:30 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "hammond-es-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Bess Altwerger, Ed.D."
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2005", "2009", "2013"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Silver",
+			"color": "A8A9AD"
+		}
+	
+	]
+}

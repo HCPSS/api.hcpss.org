@@ -1,0 +1,43 @@
+{
+	"acronym": "cls",
+	"name": "Cedar Lane School",
+	"primary_color": "rgb(0, 102, 204)",
+	"level": "ec",
+	"contact": {
+		"phone": "410-888-8800",
+		"fax": "410-888-8878"
+	},
+	"address": {
+		"street": "11630 Scaggsville Road",
+		"city": "Fulton",
+		"postal_code": "20759",
+		"latitude": "39.1557382",
+		"longitude": "-76.9174575"
+	},
+	"principal": "Paul Owens",
+	"hours": {
+		"open": "7:55 a.m.",
+		"close": "2:25 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "<no value>",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Mavis Ellis"
+	},
+	"achievements": [
+	]
+}

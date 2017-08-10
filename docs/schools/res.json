@@ -1,0 +1,62 @@
+{
+	"acronym": "res",
+	"name": "Rockburn",
+	"primary_color": "rgb(51, 153, 0)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-5030",
+		"fax": "410-313-5036"
+	},
+	"address": {
+		"street": "6145 Montgomery Road",
+		"city": "Elkridge",
+		"postal_code": "21075",
+		"latitude": "39.215107",
+		"longitude": "-76.770499"
+	},
+	"principal": "Lauren Bauer",
+	"hours": {
+		"open": "8:50 a.m.",
+		"close": "3:20 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "<no value>",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Theo Cramer",
+			"phone": "410-313-5332",
+			"email": "theo_cramer@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "David Larner",
+			"phone": "410-313-1518",
+			"email": "david_larner@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Christina Delmont-Small"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2010", "2014"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold"
+		}
+	
+	]
+}

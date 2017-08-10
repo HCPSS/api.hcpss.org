@@ -1,0 +1,56 @@
+{
+	"acronym": "ses",
+	"name": "Swansfield",
+	"primary_color": "rgb(0, 51, 102)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-6907",
+		"fax": "410-313-6910"
+	},
+	"address": {
+		"street": "5610 Cedar Lane",
+		"city": "Columbia",
+		"postal_code": "21044",
+		"latitude": "39.2167617",
+		"longitude": "-76.8908621"
+	},
+	"principal": "Maisha Strong",
+	"hours": {
+		"open": "8:45 a.m.",
+		"close": "3:15 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "swansfield-es-walk-area.pdf",
+	"title_1": true,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Pat Saunderson",
+			"phone": "410-313-1260",
+			"email": "patrick_saunderson@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Ron Morris",
+			"phone": "410-313-6606",
+			"email": "ron_morris@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Kirsten Coombs"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2010", "2014"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"acronym": "tres",
+	"name": "Triadelphia Ridge",
+	"primary_color": "rgb(0, 102, 51)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-2560",
+		"fax": "410-313-2566"
+	},
+	"address": {
+		"street": "13400 Triadelphia Road",
+		"city": "Ellicott City",
+		"postal_code": "21042",
+		"latitude": "39.266243",
+		"longitude": "-76.9814639"
+	},
+	"principal": "Lisa Smithson",
+	"hours": {
+		"open": "8:55 a.m.",
+		"close": "3:25 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "<no value>",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Marcy Leonard",
+			"phone": "410-313-6760",
+			"email": "marcy_leonard@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Jason McCoy",
+			"phone": "410-313-6892",
+			"email": "jason_mccoy@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Ananta Hejeebu"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2002", "2007", "2010", "2014"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Platinum"
+		}
+	
+	]
+}

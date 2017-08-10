@@ -1,0 +1,49 @@
+{
+	"acronym": "ees",
+	"name": "Elkridge",
+	"primary_color": "rgb(0, 102, 204)",
+	"level": "es",
+	"contact": {
+		"phone": "410-313-5006",
+		"fax": "410-313-5074"
+	},
+	"address": {
+		"street": "7075 Montgomery Road",
+		"city": "<no value>",
+		"postal_code": "21075",
+		"latitude": "39.2564951",
+		"longitude": "-76.8343849"
+	},
+	"principal": "Michael Caldwell",
+	"hours": {
+		"open": "9:25 a.m.",
+		"close": "3:55 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "elkridge-es-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Theo Cramer",
+			"phone": "410-313-5332",
+			"email": "theo_cramer@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "David Larner",
+			"phone": "410-313-1518",
+			"email": "david_larner@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Christina Delmont-Small"
+	},
+	"achievements": [
+		{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Platinum"
+		}
+	
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"acronym": "mvms",
+	"name": "Mount View",
+	"primary_color": "rgb(153, 102, 153)",
+	"level": "ms",
+	"contact": {
+		"phone": "410-313-5545",
+		"fax": "410-313-5551"
+	},
+	"address": {
+		"street": "12101 Woodford Drive",
+		"city": "Marriottsville",
+		"postal_code": "21104",
+		"latitude": "39.3212504",
+		"longitude": "-76.9356472"
+	},
+	"principal": "Allen Cosentino",
+	"hours": {
+		"open": "7:40 a.m.",
+		"close": "2:25 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "mount-view-ms-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Pat Saunderson",
+			"phone": "410-313-1260",
+			"email": "patrick_saunderson@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Ron Morris",
+			"phone": "410-313-6606",
+			"email": "ron_morris@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Christina Delmont-Small"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2011", "2015"]
+		}
+	
+		,{
+			"machine_name": "pbis",
+			"name": "PBIS Maryland",
+			"level": "Gold",
+			"color": "FECC6A"
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold"
+		}
+	
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"acronym": "chs",
+	"name": "Centennial",
+	"primary_color": "rgb(0, 44, 119)",
+	"level": "hs",
+	"contact": {
+		"phone": "410-313-2856",
+		"fax": "410-313-2861"
+	},
+	"address": {
+		"street": "4300 Centennial Lane",
+		"city": "<no value>",
+		"postal_code": "21042",
+		"latitude": "39.2529102",
+		"longitude": "-76.8708201"
+	},
+	"principal": "Claire Hafets",
+	"hours": {
+		"open": "7:25 a.m.",
+		"close": "2:10 p.m."
+	},
+	"profile": true,
+	"msde_report": true,
+	"walk_area": "centennial-hs-walk-area.pdf",
+	"title_1": false,
+	"administrative_cluster": {
+		"community_superintendent": {
+			"name": "Pat Saunderson",
+			"phone": "410-313-1260",
+			"email": "patrick_saunderson@hcpss.org"
+		},
+		"pec_officer": {
+			"name": "Ron Morris",
+			"phone": "410-313-6606",
+			"email": "ron_morris@hcpss.org"
+		}
+	},
+	"boe_cluster": {
+		"representative": "Sandra H. French"
+	},
+	"achievements": [
+		{
+			"machine_name": "green",
+			"name": "Green School",
+			"years": ["2015"]
+		}
+	
+		,{
+			"machine_name": "nce",
+			"name": "National Council of Excellence",
+			"years": ["2015"]
+		}
+	
+		,{
+			"machine_name": "healthy_howard",
+			"name": "Healthy Howard School",
+			"level": "Gold"
+		}
+	
+	]
+}

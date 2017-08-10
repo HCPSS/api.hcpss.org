@@ -1,0 +1,30 @@
+acronym: does
+name: 'Dayton Oaks'
+primary_color: 'rgb(102, 153, 204)'
+level: es
+contact:
+  phone: 410-313-1571
+  fax: 410-313-1572
+address:
+  street: '4691 Ten Oaks Road'
+  city: Dayton
+  postal_code: 21036
+  latitude: '39.2408616'
+  longitude: '-76.9857596'
+principal: 'Carol DeBord'
+hours:
+  open: '9:00 a.m.'
+  close: '3:30 p.m.'
+profile: true
+msde_report: true
+walk_area: null
+title_1: false
+cluster: 1
+boe_cluster: F
+achievements:
+  - machine_name: green
+    name: 'Green School'
+    url: null
+    years:
+      - '2009'
+      - '2014'
