@@ -15,13 +15,14 @@ principal: 'Kathy Orlando'
 hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
-profile: true
-msde_report: true
-walk_area: oakland-mills-hs-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_hs_oaklandmills.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_hs_oaklandmills.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/oakland-mills-hs-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: A
 achievements:
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Silver

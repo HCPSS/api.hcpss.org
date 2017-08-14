@@ -15,23 +15,26 @@ principal: 'Tiffany Tresler'
 hours:
   open: '8:40 a.m.'
   close: '3:10 p.m.'
-profile: true
-msde_report: true
-walk_area: northfield-es-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_northfield.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_northfield.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/northfield-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F
 achievements:
-  - machine_name: green
+  -
+    machine_name: green
     name: 'Green School'
     url: null
     years:
       - '2010'
       - '2014'
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Platinum
-  - machine_name: leed
+  -
+    machine_name: leed
     name: 'LEED School'
     url: null
     level: Silver

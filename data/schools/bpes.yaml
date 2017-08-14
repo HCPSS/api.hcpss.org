@@ -15,19 +15,21 @@ principal: 'Molly Ketterer'
 hours:
   open: '9:20 a.m.'
   close: '3:50 p.m.'
-profile: true
-msde_report: true
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_bushypark.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_bushypark.pdf'
 walk_area: null
 title_1: false
 cluster: 2
 boe_cluster: C
 achievements:
-  - machine_name: green
+  -
+    machine_name: green
     name: 'Green School'
     url: null
     years:
       - '2010'
       - '2014'
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Gold

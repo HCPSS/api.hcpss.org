@@ -15,17 +15,19 @@ principal: 'Sharon Lewandowski'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: true
-msde_report: true
-walk_area: fulton-es-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_fulton.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_fulton.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/fulton-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: D
 achievements:
-  - machine_name: pbis
+  -
+    machine_name: pbis
     name: 'PBIS Maryland'
     level: Bronze
     color: BA8748
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Platinum

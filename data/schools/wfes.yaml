@@ -15,21 +15,23 @@ principal: 'Kaye Breon'
 hours:
   open: '9:15 a.m.'
   close: '3:45 p.m.'
-profile: true
-msde_report: true
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_westfriendship.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_westfriendship.pdf'
 walk_area: null
 title_1: false
 cluster: 3
 boe_cluster: E
 achievements:
-  - machine_name: green
+  -
+    machine_name: green
     name: 'Green School'
     url: null
     years:
       - '2007'
       - '2010'
       - '2014'
-  - machine_name: pbis
+  -
+    machine_name: pbis
     name: 'PBIS Maryland'
     level: Gold
     color: FECC6A

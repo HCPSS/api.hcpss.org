@@ -15,18 +15,20 @@ principal: 'Heidi Balter'
 hours:
   open: '8:50 a.m.'
   close: '3:20 p.m.'
-profile: true
-msde_report: true
-walk_area: ducketts-lane-es-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_duckettslane.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_duckettslane.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/ducketts-lane-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B
 achievements:
-  - machine_name: pbis
+  -
+    machine_name: pbis
     name: 'PBIS Maryland'
     level: Silver
     color: A8A9AD
-  - machine_name: leed
+  -
+    machine_name: leed
     name: 'LEED School'
     url: null
     level: Gold

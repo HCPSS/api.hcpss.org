@@ -1,5 +1,5 @@
 acronym: ees
-name: 'Elkridge'
+name: Elkridge
 primary_color: 'rgb(0, 102, 204)'
 level: es
 contact:
@@ -15,13 +15,14 @@ principal: 'Michael Caldwell'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: true
-msde_report: true
-walk_area: elkridge-es-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_elkridge.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_elkridge.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/elkridge-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: E
 achievements:
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Platinum

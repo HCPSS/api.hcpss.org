@@ -15,27 +15,31 @@ principal: 'Antoinette Roberson'
 hours:
   open: '8:00 a.m.'
   close: '2:45 p.m.'
-profile: true
-msde_report: true
-walk_area: burleigh-manor-ms-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_ms_burleighmanor.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_ms_burleighmanor.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/burleigh-manor-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: B
 achievements:
-  - machine_name: green
+  -
+    machine_name: green
     name: 'Green School'
     url: null
     years:
       - '2012'
-  - machine_name: blue
+  -
+    machine_name: blue
     name: 'Blue Ribbon School'
     years:
       - '2007'
-  - machine_name: nce
+  -
+    machine_name: nce
     name: 'National Council of Excellence'
     years:
       - '2013'
       - '2015'
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Gold

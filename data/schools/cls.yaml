@@ -15,8 +15,8 @@ principal: 'Paul Owens'
 hours:
   open: '7:55 a.m.'
   close: '2:25 p.m.'
-profile: true
-msde_report: true
+profile: 'http://www.hcpss.org/schools/profiles/prof_ec_cedarlaneschool.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_ec_cedarlaneschool.pdf'
 walk_area: null
 title_1: false
 cluster: 1

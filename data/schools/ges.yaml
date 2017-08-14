@@ -15,22 +15,25 @@ principal: 'Jonathan Davis'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: true
-msde_report: true
-walk_area: guilford-es-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_guilford.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_guilford.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/guilford-es-walk-area.pdf'
 title_1: true
 cluster: 1
 boe_cluster: D
 achievements:
-  - machine_name: green
+  -
+    machine_name: green
     name: 'Green School'
     url: null
     years:
       - '2014'
-  - machine_name: pbis
+  -
+    machine_name: pbis
     name: 'PBIS Maryland'
     level: Gold
     color: FECC6A
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Platinum

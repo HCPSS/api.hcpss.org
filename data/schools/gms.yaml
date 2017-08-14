@@ -15,20 +15,22 @@ principal: 'Robert Motley'
 hours:
   open: '7:40 a.m.'
   close: '2:25 p.m.'
-profile: true
-msde_report: true
+profile: 'http://www.hcpss.org/schools/profiles/prof_ms_glenwood.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_ms_glenwood.pdf'
 walk_area: null
 title_1: false
 cluster: 2
 boe_cluster: C
 achievements:
-  - machine_name: green
+  -
+    machine_name: green
     name: 'Green School'
     url: null
     years:
       - '2001'
       - '2009'
       - '2013'
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Platinum

@@ -15,17 +15,19 @@ principal: 'Tina Maddox'
 hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
-profile: false
-msde_report: true
+profile: null
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ec_homewood.pdf'
 walk_area: null
 title_1: false
 cluster: 1
 boe_cluster: E
 achievements:
-  - machine_name: pbis
+  -
+    machine_name: pbis
     name: 'PBIS Maryland'
     level: Gold
     color: FECC6A
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: 'Gold, Platinum'

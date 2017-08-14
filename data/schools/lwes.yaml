@@ -15,17 +15,19 @@ principal: 'Susan Brown'
 hours:
   open: '9:00 a.m.'
   close: '3:30 p.m.'
-profile: true
-msde_report: true
-walk_area: laurel-woods-es-walk-area.pdf
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_laurelwoods.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_laurelwoods.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/laurel-woods-es-walk-area.pdf'
 title_1: true
 cluster: 1
 boe_cluster: D
 achievements:
-  - machine_name: pbis
+  -
+    machine_name: pbis
     name: 'PBIS Maryland'
     level: Gold
     color: FECC6A
-  - machine_name: healthy_howard
+  -
+    machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Gold
