@@ -20,8 +20,8 @@
 	},
 	"principal": "{{ $school.principal }}",
 	"hours": {
-		"open": "{{ $school.hours.open }}",
-		"close": "{{ $school.hours.close }}"
+		"open": {{ if $school.hours.open }}"{{ $school.hours.open }}"{{ else }}null{{ end }},
+		"close": {{ if $school.hours.close }}"{{ $school.hours.close }}"{{ else }}null{{ end }}
 	},
 	"profile": {{ if $school.profile }}"{{ $school.profile }}"{{ else }}null{{ end }},
 	"msde_report": {{ if $school.msde_report }}"{{ $school.msde_report }}"{{ else }}null{{ end }},
