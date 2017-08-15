@@ -1,0 +1,22 @@
+{{- $cluster := index .Site.Data.administrative_clusters (string .Params.cluster) -}}
+{{- range $school := .Site.Data.schools -}}
+	{{- if eq $school.cluster $cluster.cluster -}}
+		{{- $.Scratch.Add "schools" (slice $school.acronym) -}}
+	{{- end -}}
+{{- end -}}
+{
+	"cluster": {{ $cluster.cluster }},
+	"community_superintendent": {
+		"name": "{{ $cluster.community_superintendent.name }}",
+		"phone": "{{ $cluster.community_superintendent.phone }}",
+		"email": "{{ $cluster.community_superintendent.email }}"
+	},
+	"pec_officer": {
+		"name": "{{ $cluster.pec_officer.name }}",
+		"phone": "{{ $cluster.pec_officer.phone }}",
+		"email": "{{ $cluster.pec_officer.email }}"
+	},
+	"schools": [
+		"{{ delimit ($.Scratch.Get "schools") "\", \"" }}"
+	]
+}
