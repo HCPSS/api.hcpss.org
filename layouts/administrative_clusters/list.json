@@ -1,0 +1,9 @@
+{{- range $data := .Site.Data.administrative_clusters -}}
+	{{- $.Scratch.Add "clusters" (slice $data) -}}
+{{- end -}}
+[
+	{{- range $index, $cluster := ($.Scratch.Get "clusters") -}}
+		{{- if $index -}},{{- end -}}
+		{{- partial "administrative_cluster.json" . -}}
+	{{- end -}}
+]

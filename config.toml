@@ -7,3 +7,4 @@ disableKinds = ["sitemap"]
 
 [outputs]
   page = ["JSON"]
+  section = ["JSON"]

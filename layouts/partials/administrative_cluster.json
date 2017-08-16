@@ -1,0 +1,13 @@
+{
+	"cluster": {{ .cluster }},
+	"community_superintendent": {
+		"name": "{{ .community_superintendent.name }}",
+		"phone": "{{ .community_superintendent.phone }}",
+		"email": "{{ .community_superintendent.email }}"
+	},
+	"pec_officer": {
+		"name": "{{ .pec_officer.name }}",
+		"phone": "{{ .pec_officer.phone }}",
+		"email": "{{ .pec_officer.email }}"
+	}
+}

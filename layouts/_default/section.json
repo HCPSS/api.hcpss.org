@@ -1,0 +1,9 @@
+{{- range $data := .Site.Data.schools -}}
+	{{- $.Scratch.Add "schools" (slice $data) -}}
+{{- end -}}
+[
+	{{- range $index, $school := ($.Scratch.Get "schools") -}}
+		{{- if $index }},{{ end -}}
+		{{- partial "school_teaser.json" . -}}
+	{{- end -}}
+]

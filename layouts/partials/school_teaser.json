@@ -1,0 +1,5 @@
+{
+	"acronym": "{{ .acronym }}",
+	"name": "{{ .name }}",
+	"level": "{{ .level }}"
+}
