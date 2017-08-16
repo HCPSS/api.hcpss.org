@@ -1,3 +1,38 @@
 ---
 acronym: dres
+name: 'Deep Run'
+primary_color: 'rgb(0, 102, 204)'
+level: es
+contact:
+  phone: 410-313-5000
+  fax: 410-313-5005
+address:
+  street: '6925 Old Waterloo Road'
+  city: Elkridge
+  postal_code: 21075
+  latitude: '39.1848609'
+  longitude: '-76.7889335'
+principal: 'Denise Lancaster'
+hours:
+  open: '9:25 a.m.'
+  close: '3:55 p.m.'
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_deeprun.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_deeprun.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/deep-run-es-walk-area.pdf'
+title_1: true
+cluster: 2
+boe_cluster: B
+achievements:
+  -
+    machine_name: green
+    name: 'Green School'
+    url: null
+    years:
+      - '2009'
+      - '2013'
+  -
+    machine_name: pbis
+    name: 'PBIS Maryland'
+    level: Gold
+    color: FECC6A
 ---

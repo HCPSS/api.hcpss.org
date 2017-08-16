@@ -1,3 +1,38 @@
 ---
 acronym: ahs
+name: Atholton
+primary_color: 'rgb(114,157,79)'
+level: hs
+contact:
+  phone: 410-313-7065
+  fax: 410-313-7078
+address:
+  street: '6520 Freetown Road'
+  city: Columbia
+  postal_code: 21044
+  latitude: '39.1883603'
+  longitude: '-76.8825817'
+principal: 'JoAnn Hutchens'
+hours:
+  open: '7:25 a.m.'
+  close: '2:10 p.m.'
+profile: 'http://www.hcpss.org/schools/profiles/prof_hs_atholton.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_hs_atholton.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/atholton-hs-walk-area.pdf'
+title_1: false
+cluster: 1
+boe_cluster: A
+achievements:
+  -
+    machine_name: healthy_howard
+    name: 'Healthy Howard School'
+    level: Silver
+  -
+    machine_name: leed
+    name: 'LEED School'
+    url: null
+    level: Gold
+    color: FECC6A
+    years:
+      - '2016'
 ---

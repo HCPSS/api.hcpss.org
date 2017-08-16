@@ -1,13 +1,12 @@
 {{- $cluster := index .Site.Data.boe_clusters .Params.cluster -}}
-{{- range $school := .Site.Data.schools -}}
-	{{- if eq $school.boe_cluster $cluster.cluster -}}
-		{{- $.Scratch.Add "schools" (slice $school.acronym) -}}
-	{{- end -}}
-{{- end -}}
+{{- $schools := where (where .Site.Pages "Section" "schools") ".Params.boe_cluster" $cluster.cluster -}}
 {
 	"cluster": "{{ $cluster.cluster }}",
 	"representative": "{{ $cluster.representative }}",
 	"schools": [
-		"{{ delimit ($.Scratch.Get "schools") "\", \"" }}"
+	{{- range $index, $school := $schools -}}
+		{{- if $index -}},{{- end -}}
+		"{{ $school.Params.acronym }}"
+	{{- end -}}
 	]
 }

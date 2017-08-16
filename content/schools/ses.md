@@ -1,3 +1,38 @@
 ---
 acronym: ses
+name: Swansfield
+primary_color: 'rgb(0, 51, 102)'
+level: es
+contact:
+  phone: 410-313-6907
+  fax: 410-313-6910
+address:
+  street: '5610 Cedar Lane'
+  city: Columbia
+  postal_code: 21044
+  latitude: '39.2167617'
+  longitude: '-76.8908621'
+principal: 'Maisha Strong'
+hours:
+  open: '8:45 a.m.'
+  close: '3:15 p.m.'
+profile: 'http://www.hcpss.org/schools/profiles/prof_es_swansfield.pdf'
+msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_swansfield.pdf'
+walk_area: 'http://www.hcpss.org/f/schools/swansfield-es-walk-area.pdf'
+title_1: true
+cluster: 3
+boe_cluster: C
+achievements:
+  -
+    machine_name: green
+    name: 'Green School'
+    url: null
+    years:
+      - '2010'
+      - '2014'
+  -
+    machine_name: pbis
+    name: 'PBIS Maryland'
+    level: Gold
+    color: FECC6A
 ---

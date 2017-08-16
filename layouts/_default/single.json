@@ -1,32 +1,31 @@
-{{- $school := index .Site.Data.schools .Params.acronym -}}
-{{- $admin_cluster_id := string $school.cluster -}}
+{{- $admin_cluster_id := string .Params.cluster -}}
 {{- $admin_cluster := index .Site.Data.administrative_clusters $admin_cluster_id -}}
-{{- $boe_cluster := index .Site.Data.boe_clusters $school.boe_cluster -}}
+{{- $boe_cluster := index .Site.Data.boe_clusters .Params.boe_cluster -}}
 {
-	"acronym": "{{ $school.acronym }}",
-	"name": "{{ $school.name }}",
-	"primary_color": "{{ $school.primary_color }}",
-	"level": "{{ $school.level }}",
+	"acronym": "{{ .Params.acronym }}",
+	"name": "{{ .Params.name }}",
+	"primary_color": "{{ .Params.primary_color }}",
+	"level": "{{ .Params.level }}",
 	"contact": {
-		"phone": "{{ $school.contact.phone }}",
-		"fax": "{{ $school.contact.fax }}"
+		"phone": "{{ .Params.contact.phone }}",
+		"fax": "{{ .Params.contact.fax }}"
 	},
 	"address": {
-		"street": "{{ $school.address.street }}",
-		"city": "{{ $school.address.city }}",
-		"postal_code": "{{ $school.address.postal_code }}",
-		"latitude": "{{ $school.address.latitude }}",
-		"longitude": "{{ $school.address.longitude }}"
+		"street": "{{ .Params.address.street }}",
+		"city": "{{ .Params.address.city }}",
+		"postal_code": "{{ .Params.address.postal_code }}",
+		"latitude": "{{ .Params.address.latitude }}",
+		"longitude": "{{ .Params.address.longitude }}"
 	},
-	"principal": "{{ $school.principal }}",
+	"principal": "{{ .Params.principal }}",
 	"hours": {
-		"open": {{ if $school.hours.open }}"{{ $school.hours.open }}"{{ else }}null{{ end }},
-		"close": {{ if $school.hours.close }}"{{ $school.hours.close }}"{{ else }}null{{ end }}
+		"open": {{ if .Params.hours.open }}"{{ .Params.hours.open }}"{{ else }}null{{ end }},
+		"close": {{ if .Params.hours.close }}"{{ .Params.hours.close }}"{{ else }}null{{ end }}
 	},
-	"profile": {{ if $school.profile }}"{{ $school.profile }}"{{ else }}null{{ end }},
-	"msde_report": {{ if $school.msde_report }}"{{ $school.msde_report }}"{{ else }}null{{ end }},
-	"walk_area": {{ if $school.walk_area }}"{{ $school.walk_area }}"{{ else }}null{{ end }},
-	"title_1": {{ $school.title_1 }},
+	"profile": {{ if .Params.profile }}"{{ .Params.profile }}"{{ else }}null{{ end }},
+	"msde_report": {{ if .Params.msde_report }}"{{ .Params.msde_report }}"{{ else }}null{{ end }},
+	"walk_area": {{ if .Params.walk_area }}"{{ .Params.walk_area }}"{{ else }}null{{ end }},
+	"title_1": {{ .Params.title_1 }},
 	"administrative_cluster": {
 		"community_superintendent": {
 			"name": "{{ $admin_cluster.community_superintendent.name }}",
@@ -43,7 +42,7 @@
 		"representative": "{{ $boe_cluster.representative }}"
 	},
 	"achievements": [
-	{{- range $index, $award := $school.achievements }}
+	{{- range $index, $award := .Params.achievements }}
 		{{ if $index }},{{ end }}{
 			"machine_name": "{{ $award.machine_name }}",
 			"name": "{{ $award.name }}"

@@ -1,9 +1,7 @@
-{{- range $data := .Site.Data.schools -}}
-	{{- $.Scratch.Add "schools" (slice $data) -}}
-{{- end -}}
+{{- $schools := where (where .Site.Pages "Section" "schools") "Kind" "page" -}}
 [
-	{{- range $index, $school := ($.Scratch.Get "schools") -}}
+	{{- range $index, $school := $schools -}}
 		{{- if $index }},{{ end -}}
-		{{- partial "school_teaser.json" . -}}
+		{{- partial "school_teaser.json" .Params -}}
 	{{- end -}}
 ]
