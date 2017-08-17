@@ -1,5 +1,5 @@
 {{- $admin_cluster_id := string .Params.cluster -}}
-{{- $admin_cluster := index .Site.Data.administrative_clusters $admin_cluster_id -}}
+{{- $admin_cluster := index (where (where .Site.Pages "Section" "administrative_clusters") ".Params.cluster" .Params.cluster) 0 -}}
 {{- $boe_cluster := index .Site.Data.boe_clusters .Params.boe_cluster -}}
 {
 	"acronym": "{{ .Params.acronym }}",
@@ -28,14 +28,14 @@
 	"title_1": {{ .Params.title_1 }},
 	"administrative_cluster": {
 		"community_superintendent": {
-			"name": "{{ $admin_cluster.community_superintendent.name }}",
-			"phone": "{{ $admin_cluster.community_superintendent.phone }}",
-			"email": "{{ $admin_cluster.community_superintendent.email }}"
+			"name": "{{ $admin_cluster.Params.community_superintendent.name }}",
+			"phone": "{{ $admin_cluster.Params.community_superintendent.phone }}",
+			"email": "{{ $admin_cluster.Params.community_superintendent.email }}"
 		},
 		"pec_officer": {
-			"name": "{{ $admin_cluster.pec_officer.name }}",
-			"phone": "{{ $admin_cluster.pec_officer.phone }}",
-			"email": "{{ $admin_cluster.pec_officer.email }}"
+			"name": "{{ $admin_cluster.Params.pec_officer.name }}",
+			"phone": "{{ $admin_cluster.Params.pec_officer.phone }}",
+			"email": "{{ $admin_cluster.Params.pec_officer.email }}"
 		}
 	},
 	"boe_cluster": {
