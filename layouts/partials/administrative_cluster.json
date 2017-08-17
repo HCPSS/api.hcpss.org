@@ -1,13 +1,13 @@
 {
-	"cluster": {{ .cluster }},
+	"cluster": {{ .Params.cluster }},
 	"community_superintendent": {
-		"name": "{{ .community_superintendent.name }}",
-		"phone": "{{ .community_superintendent.phone }}",
-		"email": "{{ .community_superintendent.email }}"
+		"name": "{{ .Params.community_superintendent.name }}",
+		"phone": "{{ .Params.community_superintendent.phone }}",
+		"email": "{{ .Params.community_superintendent.email }}"
 	},
 	"pec_officer": {
-		"name": "{{ .pec_officer.name }}",
-		"phone": "{{ .pec_officer.phone }}",
-		"email": "{{ .pec_officer.email }}"
+		"name": "{{ .Params.pec_officer.name }}",
+		"phone": "{{ .Params.pec_officer.phone }}",
+		"email": "{{ .Params.pec_officer.email }}"
 	}
 }
