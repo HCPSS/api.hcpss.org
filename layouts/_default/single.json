@@ -60,5 +60,13 @@
 			{{- end }}
 		}
 	{{ end }}
-	]
+	],
+
+	"common": {
+	{{- with .Site.GetPage "section" "schools" -}}
+		"school_bus_locator": "{{ .Params.school_bus_locator }}",
+		"online_payments": "{{ .Params.online_payments }}"
+	{{- end -}}
+	}
+
 }
