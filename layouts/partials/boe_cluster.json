@@ -1,4 +1,4 @@
 {
-	"cluster": "{{ .cluster }}",
-	"representative": "{{ .representative }}"
+	"cluster": "{{ .Params.cluster }}",
+	"representative": "{{ .Params.representative }}"
 }

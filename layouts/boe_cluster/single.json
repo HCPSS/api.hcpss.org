@@ -1,8 +1,7 @@
-{{- $cluster := index .Site.Data.boe_clusters .Params.cluster -}}
-{{- $schools := where (where .Site.Pages "Section" "schools") ".Params.boe_cluster" $cluster.cluster -}}
+{{- $schools := where (where .Site.Pages "Section" "schools") ".Params.boe_cluster" .Params.cluster -}}
 {
-	"cluster": "{{ $cluster.cluster }}",
-	"representative": "{{ $cluster.representative }}",
+	"cluster": "{{ .Params.cluster }}",
+	"representative": "{{ .Params.representative }}",
 	"schools": [
 	{{- range $index, $school := $schools -}}
 		{{- if $index -}},{{- end -}}

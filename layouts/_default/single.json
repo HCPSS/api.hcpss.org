@@ -1,6 +1,6 @@
 {{- $admin_cluster_id := string .Params.cluster -}}
 {{- $admin_cluster := index (where (where .Site.Pages "Section" "administrative_clusters") ".Params.cluster" .Params.cluster) 0 -}}
-{{- $boe_cluster := index .Site.Data.boe_clusters .Params.boe_cluster -}}
+{{- $boe_cluster := index (where (where .Site.Pages "Section" "boe_clusters") ".Params.cluster" .Params.boe_cluster) 0 -}}
 {
 	"acronym": "{{ .Params.acronym }}",
 	"name": "{{ .Params.name }}",
@@ -39,7 +39,7 @@
 		}
 	},
 	"boe_cluster": {
-		"representative": "{{ $boe_cluster.representative }}"
+		"representative": "{{ $boe_cluster.Params.representative }}"
 	},
 	"achievements": [
 	{{- range $index, $award := .Params.achievements }}
