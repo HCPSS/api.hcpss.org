@@ -1,5 +1,5 @@
 ---
 cluster: D
-representative: 'Mavis Ellis'
+representative: 'Bess Altwerger, Ed.D.'
 type: boe_cluster
 ---
