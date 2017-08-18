@@ -4,6 +4,7 @@
 {
 	"acronym": "{{ .Params.acronym }}",
 	"name": "{{ .Params.name }}",
+	"full_name": "{{ .Params.full_name }}",
 	"primary_color": "{{ .Params.primary_color }}",
 	"level": "{{ .Params.level }}",
 	"contact": {
