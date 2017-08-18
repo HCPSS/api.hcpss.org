@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://api.hocoschools.org/"
 languageCode = "en-us"
 title = "HCPSS API"
 uglyURLs = true
