@@ -1,6 +1,7 @@
 ---
 acronym: gces
 name: 'Gorman Crossing'
+full_name: 'Gorman Crossing Elementary School'
 primary_color: 'rgb(0, 102, 153)'
 level: es
 contact:

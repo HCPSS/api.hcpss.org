@@ -1,6 +1,7 @@
 ---
 acronym: cms
 name: Clarksville
+full_name: 'Clarksville Middle School'
 primary_color: 'rgb(0, 0, 0)'
 level: ms
 contact:

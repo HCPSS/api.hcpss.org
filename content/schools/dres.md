@@ -1,6 +1,7 @@
 ---
 acronym: dres
 name: 'Deep Run'
+full_name: 'Deep Run Elementary School'
 primary_color: 'rgb(0, 102, 204)'
 level: es
 contact:

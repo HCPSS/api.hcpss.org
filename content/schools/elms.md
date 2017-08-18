@@ -1,6 +1,7 @@
 ---
 acronym: elms
 name: 'Elkridge Landing'
+full_name: 'Elkridge Landing Middle School'
 primary_color: 'rgb(102, 0, 0)'
 level: ms
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: lkms
 name: 'Lime Kiln'
+full_name: 'Lime Kiln Middle School'
 primary_color: 'rgb(102, 153, 102)'
 level: ms
 contact:

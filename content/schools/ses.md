@@ -1,6 +1,7 @@
 ---
 acronym: ses
 name: Swansfield
+full_name: 'Swansfield Elementary School'
 primary_color: 'rgb(0, 51, 102)'
 level: es
 contact:

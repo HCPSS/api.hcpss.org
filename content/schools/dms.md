@@ -1,6 +1,7 @@
 ---
 acronym: dms
 name: Dunloggin
+full_name: 'Dunloggin Middle School'
 primary_color: 'rgb(102, 0, 0)'
 level: ms
 contact:

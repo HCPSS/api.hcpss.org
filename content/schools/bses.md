@@ -1,6 +1,7 @@
 ---
 acronym: bses
 name: 'Bellows Spring'
+full_name: 'Bellows Spring Elementary School'
 primary_color: 'rgb(153,0,0)'
 level: es
 contact:

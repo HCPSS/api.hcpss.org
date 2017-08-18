@@ -1,6 +1,7 @@
 ---
 acronym: mvms
 name: 'Mount View'
+full_name: 'Mount View Middle School'
 primary_color: 'rgb(153, 102, 153)'
 level: ms
 contact:

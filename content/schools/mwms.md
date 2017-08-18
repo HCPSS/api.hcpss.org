@@ -1,6 +1,7 @@
 ---
 acronym: mwms
 name: 'Mayfield Woods'
+full_name: 'Mayfield Woods Middle School'
 primary_color: 'rgb(0,0,0)'
 level: ms
 contact:

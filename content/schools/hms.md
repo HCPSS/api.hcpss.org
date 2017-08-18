@@ -1,6 +1,7 @@
 ---
 acronym: hms
 name: Hammond
+full_name: 'Hammond Middle School'
 primary_color: 'rgb(0, 102, 304)'
 level: ms
 contact:

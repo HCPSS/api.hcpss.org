@@ -1,6 +1,7 @@
 ---
 acronym: rhhs
 name: 'River Hill'
+full_name: 'River Hill High School'
 primary_color: 'rgb(80, 171, 221)'
 level: hs
 contact:

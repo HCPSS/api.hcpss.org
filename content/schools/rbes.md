@@ -1,6 +1,7 @@
 ---
 acronym: rbes
 name: 'Running Brook'
+full_name: 'Running Brook Elementary School'
 primary_color: 'rgb(87, 60, 103)'
 level: es
 contact:

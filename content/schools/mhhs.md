@@ -1,6 +1,7 @@
 ---
 acronym: mhhs
 name: 'Mount Hebron'
+full_name: 'Mount Hebron High School'
 primary_color: 'rgb(0, 0, 0)'
 level: hs
 contact:

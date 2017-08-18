@@ -1,6 +1,7 @@
 ---
 acronym: ves
 name: Veterans
+full_name: 'Veterans Elementary School'
 primary_color: 'rgb(0, 51, 102)'
 level: es
 contact:

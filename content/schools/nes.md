@@ -1,6 +1,7 @@
 ---
 acronym: nes
 name: Northfield
+full_name: 'Northfield Elementary School'
 primary_color: 'rgb(0, 0, 102)'
 level: es
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: pms
 name: Patapsco
+full_name: 'Patapsco Middle School'
 primary_color: 'rgb(0,0,153)'
 level: ms
 contact:

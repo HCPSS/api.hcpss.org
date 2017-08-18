@@ -1,6 +1,7 @@
 ---
 acronym: mhms
 name: 'Murray Hill'
+full_name: 'Murray Hill Middle School'
 primary_color: 'rgb(0, 0, 0)'
 level: ms
 contact:

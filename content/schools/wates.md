@@ -1,6 +1,7 @@
 ---
 acronym: wates
 name: Waterloo
+full_name: 'Waterloo Elementary School'
 primary_color: 'rgb(153, 0, 0)'
 level: es
 contact:

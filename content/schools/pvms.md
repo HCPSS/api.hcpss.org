@@ -1,6 +1,7 @@
 ---
 acronym: pvms
 name: 'Patuxent Valley'
+full_name: 'Patuxent Valley Middle School'
 primary_color: 'rgb(0,51,102)'
 level: ms
 contact:

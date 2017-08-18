@@ -1,6 +1,7 @@
 ---
 acronym: tvms
 name: 'Thomas Viaduct'
+full_name: 'Thomas Viaduct Middle School'
 primary_color: 'rgb(0, 102, 153)'
 level: ms
 contact:

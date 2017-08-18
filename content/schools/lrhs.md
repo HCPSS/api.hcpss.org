@@ -1,6 +1,7 @@
 ---
 acronym: lrhs
 name: 'Long Reach'
+full_name: 'Long Reach High School'
 primary_color: 'rgb(119, 73, 168)'
 level: hs
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: fres
 name: 'Forest Ridge'
+full_name: 'Forest Ridge Elementary School'
 primary_color: 'rgb(0, 102, 204)'
 level: es
 contact:

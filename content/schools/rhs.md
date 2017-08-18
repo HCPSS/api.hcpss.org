@@ -1,6 +1,7 @@
 ---
 acronym: rhs
 name: Reservoir
+full_name: 'Reservoir High School'
 primary_color: 'rgb(58, 76, 148)'
 level: hs
 contact:

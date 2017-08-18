@@ -1,6 +1,7 @@
 ---
 acronym: ees
 name: Elkridge
+full_name: 'Elkridge Elementary School'
 primary_color: 'rgb(0, 102, 204)'
 level: es
 contact:

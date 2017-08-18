@@ -1,6 +1,7 @@
 ---
 acronym: hc
 name: 'Homewood Center'
+full_name: 'Homewood Center'
 primary_color: 'rgb(134, 0, 7)'
 level: ec
 contact:

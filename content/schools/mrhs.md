@@ -1,6 +1,7 @@
 ---
 acronym: mrhs
 name: 'Marriotts Ridge'
+full_name: 'Marriotts Ridge High School'
 primary_color: 'rgb(19, 44, 97)'
 level: hs
 contact:

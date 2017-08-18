@@ -1,6 +1,7 @@
 ---
 acronym: cces
 name: 'Clemens Crossing'
+full_name: 'Clemens Crossing Elementary School'
 primary_color: 'rgb(9, 52, 92)'
 level: es
 contact:

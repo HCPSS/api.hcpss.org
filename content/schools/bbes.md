@@ -1,6 +1,7 @@
 ---
 acronym: bbes
 name: 'Bollman Bridge'
+full_name: 'Bollman Bridge Elementary School'
 primary_color: 'rgb(0,51,102)'
 level: es
 contact:

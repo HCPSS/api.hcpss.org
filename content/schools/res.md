@@ -1,6 +1,7 @@
 ---
 acronym: res
 name: Rockburn
+full_name: 'Rockburn Elementary School'
 primary_color: 'rgb(51, 153, 0)'
 level: es
 contact:

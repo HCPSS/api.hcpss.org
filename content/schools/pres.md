@@ -1,6 +1,7 @@
 ---
 acronym: pres
 name: 'Pointers Run'
+full_name: 'Pointers Run Elementary School'
 primary_color: 'rgb(0, 102, 51)'
 level: es
 contact:

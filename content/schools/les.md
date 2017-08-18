@@ -1,6 +1,7 @@
 ---
 acronym: les
 name: Lisbon
+full_name: 'Lisbon Elementary School'
 primary_color: 'rgb(0, 51, 153)'
 level: es
 contact:

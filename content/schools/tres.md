@@ -1,6 +1,7 @@
 ---
 acronym: tres
 name: 'Triadelphia Ridge'
+full_name: 'Triadelphia Ridge Elementary School'
 primary_color: 'rgb(0, 102, 51)'
 level: es
 contact:

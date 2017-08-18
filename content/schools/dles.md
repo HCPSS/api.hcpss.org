@@ -1,6 +1,7 @@
 ---
 acronym: dles
 name: 'Ducketts Lane'
+full_name: 'Ducketts Lane Elementary School'
 primary_color: 'rgb(0, 102, 153)'
 level: es
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: lwes
 name: 'Laurel Woods'
+full_name: 'Laurel Woods Elementary School'
 primary_color: 'rgb(0, 51, 102)'
 level: es
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: ges
 name: Guilford
+full_name: 'Guilford Elementary School'
 primary_color: 'rgb(0, 51, 102)'
 level: es
 contact:

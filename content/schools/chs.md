@@ -1,6 +1,7 @@
 ---
 acronym: chs
 name: Centennial
+full_name: 'Centennial High School'
 primary_color: 'rgb(0, 44, 119)'
 level: hs
 contact:

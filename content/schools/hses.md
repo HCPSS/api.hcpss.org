@@ -1,6 +1,7 @@
 ---
 acronym: hses
 name: 'Hollifield Station'
+full_name: 'Hollifield Station Elementary School'
 primary_color: 'rgb(0, 102, 51)'
 level: es
 contact:

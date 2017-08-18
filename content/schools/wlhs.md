@@ -1,6 +1,7 @@
 ---
 acronym: wlhs
 name: 'Wilde Lake'
+full_name: 'Wilde Lake High School'
 primary_color: 'rgb(30, 105, 7)'
 level: hs
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: bmms
 name: 'Burleigh Manor'
+full_name: 'Burleigh Manor Middle School'
 primary_color: 'rgb(0, 51, 153)'
 level: ms
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: aes
 name: Atholton
+full_name: 'Atholton Elementary School'
 primary_color: 'rgb(0,102,204)'
 level: es
 contact:

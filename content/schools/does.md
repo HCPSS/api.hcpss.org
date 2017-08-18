@@ -1,6 +1,7 @@
 ---
 acronym: does
 name: 'Dayton Oaks'
+full_name: 'Dayton Oaks Elementary School'
 primary_color: 'rgb(102, 153, 204)'
 level: es
 contact:

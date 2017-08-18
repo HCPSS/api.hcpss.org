@@ -1,6 +1,7 @@
 ---
 acronym: loes
 name: Longfellow
+full_name: 'Longfellow Elementary School'
 primary_color: 'rgb(153, 0, 0)'
 level: es
 contact:

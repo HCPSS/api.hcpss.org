@@ -1,6 +1,7 @@
 ---
 acronym: bwes
 name: 'Bryant Woods'
+full_name: 'Bryant Woods Elementary School'
 primary_color: 'rgb(0, 102, 51)'
 level: es
 contact:

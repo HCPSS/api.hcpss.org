@@ -1,6 +1,7 @@
 ---
 acronym: jhes
 name: 'Jeffers Hill'
+full_name: 'Jeffers Hill Elementary School'
 primary_color: 'rgb(204, 0, 0)'
 level: es
 contact:

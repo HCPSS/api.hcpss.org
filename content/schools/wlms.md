@@ -1,6 +1,7 @@
 ---
 acronym: wlms
 name: 'Wilde Lake'
+full_name: 'Wilde Lake Middle School'
 primary_color: 'rgb(0,51,153)'
 level: ms
 contact:

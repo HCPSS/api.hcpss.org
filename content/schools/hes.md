@@ -1,6 +1,7 @@
 ---
 acronym: hes
 name: Hammond
+full_name: 'Hammond Elementary School'
 primary_color: 'rgb(0, 102, 102)'
 level: es
 contact:

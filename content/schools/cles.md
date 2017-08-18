@@ -1,6 +1,7 @@
 ---
 acronym: cles
 name: 'Centennial Lane'
+full_name: 'Centennial Lane Elementary School'
 primary_color: 'rgb(0, 102, 153)'
 level: es
 contact:

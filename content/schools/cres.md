@@ -1,6 +1,7 @@
 ---
 acronym: cres
 name: Cradlerock
+full_name: 'Cradlerock Elementary School'
 primary_color: 'rgb(0, 0, 204)'
 level: es
 contact:

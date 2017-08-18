@@ -1,6 +1,7 @@
 ---
 acronym: omms
 name: 'Oakland Mills'
+full_name: 'Oakland Mills Middle School'
 primary_color: 'rgb(153,0,0)'
 level: ms
 contact:

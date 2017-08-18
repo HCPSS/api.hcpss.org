@@ -1,6 +1,7 @@
 ---
 acronym: lems
 name: 'Lake Elkhorn'
+full_name: 'Lake Elkhorn Middle School'
 primary_color: 'rgb(0,0,0)'
 level: ms
 contact:

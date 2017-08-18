@@ -1,6 +1,7 @@
 ---
 acronym: hahs
 name: Hammond
+full_name: 'Hammond High School'
 primary_color: 'rgb(133, 0, 0)'
 level: hs
 contact:

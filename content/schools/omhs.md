@@ -1,6 +1,7 @@
 ---
 acronym: omhs
 name: 'Oakland Mills'
+full_name: 'Oakland Mills High School'
 primary_color: 'rgb(0, 0, 0)'
 level: hs
 contact:

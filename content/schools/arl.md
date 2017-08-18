@@ -1,6 +1,7 @@
 ---
 acronym: arl
 name: 'Applications and Research Lab'
+full_name: 'Applications and Research Lab'
 primary_color: 'rgb(12,103,151)'
 level: ec
 contact:
@@ -14,7 +15,7 @@ address:
   longitude: '-76.894786'
 principal: 'Karl Schindler'
 hours:
-  open: ''
+  open: null
   close: null
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_ec_arl.pdf'
 msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ec_arl.pdf'

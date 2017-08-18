@@ -1,6 +1,7 @@
 ---
 acronym: fqms
 name: 'Folly Quarter'
+full_name: 'Folly Quarter Middle School'
 primary_color: 'rgb(0, 51, 153)'
 level: ms
 contact:

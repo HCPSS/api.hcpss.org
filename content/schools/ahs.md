@@ -1,6 +1,7 @@
 ---
 acronym: ahs
 name: Atholton
+full_name: 'Atholton High School'
 primary_color: 'rgb(114,157,79)'
 level: hs
 contact:

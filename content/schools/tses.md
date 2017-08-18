@@ -1,6 +1,7 @@
 ---
 acronym: tses
 name: 'Talbott Springs'
+full_name: 'Talbott Springs Elementary School'
 primary_color: 'rgb(153, 0, 0)'
 level: es
 contact:

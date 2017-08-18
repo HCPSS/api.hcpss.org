@@ -1,6 +1,7 @@
 ---
 acronym: ies
 name: Ilchester
+full_name: 'Ilchester Elementary School'
 primary_color: 'rgb(0, 102, 102)'
 level: es
 contact:

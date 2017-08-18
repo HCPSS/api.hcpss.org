@@ -1,6 +1,7 @@
 ---
 acronym: bpes
 name: 'Bushy Park'
+full_name: 'Bushy Park Elementary School'
 primary_color: 'rgb(0, 51, 153)'
 level: es
 contact:

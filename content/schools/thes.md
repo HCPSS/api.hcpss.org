@@ -1,6 +1,7 @@
 ---
 acronym: thes
 name: 'Thunder Hill'
+full_name: 'Thunder Hill Elementary School'
 primary_color: 'rgb(0, 102, 153)'
 level: es
 contact:

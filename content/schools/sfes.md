@@ -1,6 +1,7 @@
 ---
 acronym: sfes
 name: 'Stevens Forest'
+full_name: 'Stevens Forest Elementary School'
 primary_color: 'rgb(0, 51, 102)'
 level: es
 contact:

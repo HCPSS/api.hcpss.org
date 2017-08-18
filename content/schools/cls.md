@@ -1,6 +1,7 @@
 ---
 acronym: cls
 name: 'Cedar Lane School'
+full_name: 'Cedar Lane School'
 primary_color: 'rgb(0, 102, 204)'
 level: ec
 contact:

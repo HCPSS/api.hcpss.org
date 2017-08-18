@@ -1,6 +1,7 @@
 ---
 acronym: emms
 name: 'Ellicott Mills'
+full_name: 'Ellicott Mills Middle School'
 primary_color: 'rgb(0, 51, 153)'
 level: ms
 contact:

@@ -1,6 +1,7 @@
 ---
 acronym: wfes
 name: 'West Friendship'
+full_name: 'West Friendship Elementary School'
 primary_color: 'rgb(0, 51, 0)'
 level: es
 contact:

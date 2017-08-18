@@ -1,6 +1,7 @@
 ---
 acronym: waves
 name: Waverly
+full_name: 'Waverly Elementary School'
 primary_color: 'rgb(0, 102, 204)'
 level: es
 contact:

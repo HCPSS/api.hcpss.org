@@ -1,6 +1,7 @@
 ---
 acronym: hcms
 name: 'Harper’s Choice'
+full_name: 'Harper’s Choice Middle School'
 primary_color: 'rgb(0, 51, 153)'
 level: ms
 contact:
