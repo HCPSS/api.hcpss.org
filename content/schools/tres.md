@@ -17,8 +17,8 @@ principal: 'Lisa Smithson'
 hours:
   open: '8:55 a.m.'
   close: '3:25 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_triadelphiaridge.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_triadelphiaridge.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_triadelphiaridge.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_triadelphiaridge.pdf'
 walk_area: null
 title_1: false
 cluster: 1

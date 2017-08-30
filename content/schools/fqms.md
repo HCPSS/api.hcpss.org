@@ -17,8 +17,8 @@ principal: 'Scott Conroy'
 hours:
   open: '7:40 a.m.'
   close: '2:25 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_ms_follyquarter.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_ms_follyquarter.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_follyquarter.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ms_follyquarter.pdf'
 walk_area: null
 title_1: false
 cluster: 1

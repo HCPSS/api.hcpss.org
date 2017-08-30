@@ -17,8 +17,8 @@ principal: 'Gina Cash'
 hours:
   open: '8:00 a.m.'
   close: '2:45 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_ms_elkridgelanding.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_ms_elkridgelanding.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_elkridgelanding.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ms_elkridgelanding.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/elkridge-landing-ms-walk-area.pdf'
 title_1: false
 cluster: 2

@@ -17,8 +17,8 @@ principal: 'Lenore Schiff'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_pointersrun.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_pointersrun.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_pointersrun.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_pointersrun.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/pointers-run-es-walk-area.pdf'
 title_1: false
 cluster: 1

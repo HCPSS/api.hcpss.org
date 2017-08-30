@@ -17,8 +17,8 @@ principal: 'Robert Bruce'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_veterans.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_veterans.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_veterans.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_veterans.pdf'
 walk_area: null
 title_1: false
 cluster: 3
