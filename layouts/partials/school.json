@@ -25,6 +25,7 @@
 	"walk_area": {{ if .school.walk_area }}"{{ .school.walk_area }}"{{ else }}null{{ end }},
 	"title_1": {{ .school.title_1 }},
 	"administrative_cluster": {
+		"cluster": {{ .admin_cluster.cluster }},
 		"community_superintendent": {
 			"name": "{{ .admin_cluster.community_superintendent.name }}",
 			"phone": "{{ .admin_cluster.community_superintendent.phone }}",
@@ -37,6 +38,7 @@
 		}
 	},
 	"boe_cluster": {
+		"cluster": "{{ .boe_cluster.cluster }}",
 		"representative": "{{ .boe_cluster.representative }}"
 	},
 	"achievements": [
