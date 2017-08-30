@@ -17,8 +17,8 @@ principal: 'Amanda Wadsworth'
 hours:
   open: '8:45 a.m.'
   close: '3:15 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_centenniallane.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_centenniallane.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_centenniallane.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_centenniallane.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/centennial-lane-es-walk-area.pdf'
 title_1: false
 cluster: 3

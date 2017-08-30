@@ -17,8 +17,8 @@ principal: 'Kaye Breon'
 hours:
   open: '9:15 a.m.'
   close: '3:45 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_westfriendship.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_westfriendship.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_westfriendship.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_westfriendship.pdf'
 walk_area: null
 title_1: false
 cluster: 3

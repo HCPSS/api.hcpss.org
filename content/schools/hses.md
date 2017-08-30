@@ -17,8 +17,8 @@ principal: 'Lisa Booth'
 hours:
   open: '8:45 a.m.'
   close: '3:15 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_hollifieldstation.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_hollifieldstation.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_hollifieldstation.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_hollifieldstation.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/hollifield-station-es-walk-area.pdf'
 title_1: false
 cluster: 3

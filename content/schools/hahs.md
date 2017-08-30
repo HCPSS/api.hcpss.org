@@ -17,8 +17,8 @@ principal: 'Marcy Leonard'
 hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_hs_hammond.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_hs_hammond.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_hs_hammond.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_hs_hammond.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/hammond-hs-walk-area.pdf'
 title_1: false
 cluster: 1

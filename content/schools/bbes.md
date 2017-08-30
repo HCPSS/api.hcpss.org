@@ -17,8 +17,8 @@ principal: 'Rhonda Inskeep'
 hours:
   open: '8:35 a.m.'
   close: '3:05 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_bollmanbridge.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_bollmanbridge.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_bollmanbridge.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_bollmanbridge.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/bollman-bridge-es-walk-area.pdf'
 title_1: true
 cluster: 1

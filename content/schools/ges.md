@@ -17,8 +17,8 @@ principal: 'Jonathan Davis'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_guilford.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_guilford.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_guilford.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_guilford.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/guilford-es-walk-area.pdf'
 title_1: true
 cluster: 1

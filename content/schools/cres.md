@@ -17,8 +17,8 @@ principal: 'Jason McCoy'
 hours:
   open: '8:15 a.m.'
   close: '2:45 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_cradlerock.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_cradlerock.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_cradlerock.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_cradlerock.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/cradlerock-es-walk-area.pdf'
 title_1: true
 cluster: 2

@@ -17,8 +17,8 @@ principal: 'Kelley Hough'
 hours:
   open: '8:45 a.m.'
   close: '3:15 p.m.'
-profile: 'http://www.hcpss.org/schools/profiles/prof_es_bryantwoods.pdf'
-msde_report: 'http://www.hcpss.org/schools/performance/ispr_en_es_bryantwoods.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_bryantwoods.pdf'
+msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_bryantwoods.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/bryant-woods-es-walk-area.pdf'
 title_1: true
 cluster: 3
