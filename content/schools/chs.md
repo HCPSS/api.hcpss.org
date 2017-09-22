@@ -9,7 +9,7 @@ contact:
   fax: 410-313-2861
 address:
   street: '4300 Centennial Lane'
-  city: null
+  city: 'Ellicott City'
   postal_code: 21042
   latitude: '39.2529102'
   longitude: '-76.8708201'
