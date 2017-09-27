@@ -9,7 +9,7 @@ contact:
   fax: 410-313-5045
 address:
   street: '7085 Montgomery Road'
-  city: 'Ellicott City'
+  city: 'Elkridge'
   postal_code: 21075
   latitude: '39.2123186'
   longitude: '-76.7314836'
