@@ -8,7 +8,7 @@ contact:
   phone: 410-880-5830
   fax: 410-880-5837
 address:
-  street: '8110 Aladdin Drive'
+  street: '8100 Aladdin Drive'
   city: Laurel
   postal_code: 20723
   latitude: '39.1483545'
