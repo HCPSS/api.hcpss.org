@@ -23,7 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/hammond-ms-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: A
-mascots: Vikings
+mascot: Vikings
 achievements:
   -
     machine_name: green
