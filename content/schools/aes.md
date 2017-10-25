@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/atholton-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: A
+mascot: Panthers
 achievements:
   -
     machine_name: green

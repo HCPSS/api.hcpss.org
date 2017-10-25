@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/bellows-spring-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B
+mascot: Cheetahs
 achievements:
   -
     machine_name: pbis

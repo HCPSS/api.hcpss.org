@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/clarksville-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: F
+mascot: Cougars
 achievements:
   -
     machine_name: green

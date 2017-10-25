@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/guilford-es-walk-area.pdf'
 title_1: true
 cluster: 1
 boe_cluster: D
+mascot: Tigers
 achievements:
   -
     machine_name: green

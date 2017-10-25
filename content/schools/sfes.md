@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/stevens-forest-es-walk-area.pdf'
 title_1: true
 cluster: 2
 boe_cluster: A
+mascot: Bobcats
 achievements:
   -
     machine_name: green

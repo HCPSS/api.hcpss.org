@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/reservoir-hs-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: D
+mascot: Gators
 achievements:
   -
     machine_name: green

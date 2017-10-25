@@ -23,5 +23,6 @@ walk_area: null
 title_1: false
 cluster: 1
 boe_cluster: E
+mascot: null
 achievements: []
 ---

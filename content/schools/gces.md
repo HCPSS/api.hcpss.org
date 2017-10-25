@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/gorman-crossing-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: D
+mascots: 'Gordy Gators'
 achievements:
   -
     machine_name: green

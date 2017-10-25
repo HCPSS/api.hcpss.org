@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/oakland-mills-hs-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: A
+mascot: Scorpions
 achievements:
   -
     machine_name: healthy_howard

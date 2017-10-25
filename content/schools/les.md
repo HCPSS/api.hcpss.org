@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/lisbon-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: C
+mascot: Lions
 achievements:
   -
     machine_name: healthy_howard

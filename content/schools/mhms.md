@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/murray-hill-ms-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: D
+mascot: 'Mountain Lions'
 achievements:
   -
     machine_name: healthy_howard

@@ -23,6 +23,7 @@ walk_area: null
 title_1: false
 cluster: 2
 boe_cluster: E
+mascot: Raccoons
 achievements:
   -
     machine_name: green

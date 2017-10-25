@@ -23,5 +23,6 @@ walk_area: 'http://www.hcpss.org/f/schools/glenelg-hs-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: C
+mascot: Gladiators
 achievements: []
 ---

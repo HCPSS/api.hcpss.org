@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/hammond-hs-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: D
+mascot: 'Golden Bears'
 achievements:
   -
     machine_name: green

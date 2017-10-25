@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/mount-hebron-hs-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F
+mascot: Vikings
 achievements:
   -
     machine_name: healthy_howard

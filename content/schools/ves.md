@@ -23,6 +23,7 @@ walk_area: null
 title_1: false
 cluster: 3
 boe_cluster: B
+mascot: Eagles
 achievements:
   -
     machine_name: green

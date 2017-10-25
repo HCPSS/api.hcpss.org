@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/hollifield-station-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F
+mascot: 'Steam Engines'
 achievements:
   -
     machine_name: green

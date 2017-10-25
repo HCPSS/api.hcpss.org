@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/st-johns-lane-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F
+mascot: Jaguars
 achievements:
   -
     machine_name: green

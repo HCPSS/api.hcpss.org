@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/longfellow-es-walk-area.pdf'
 title_1: true
 cluster: 3
 boe_cluster: C
+mascot: 'Soaring Eagles'
 achievements:
   -
     machine_name: green

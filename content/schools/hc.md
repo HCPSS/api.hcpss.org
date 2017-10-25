@@ -23,6 +23,7 @@ walk_area: null
 title_1: false
 cluster: 1
 boe_cluster: E
+mascot: Phoenixes
 achievements:
   -
     machine_name: pbis

@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/clarksville-ms-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: F
+mascot: Comets
 achievements:
   -
     machine_name: blue

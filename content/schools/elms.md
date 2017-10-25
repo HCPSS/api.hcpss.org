@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/elkridge-landing-ms-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: E
+mascot: 'Rolling Thunder'
 achievements:
   -
     machine_name: pbis

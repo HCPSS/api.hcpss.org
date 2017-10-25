@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/howard-hs-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: E
+mascot: Lions
 achievements:
   -
     machine_name: green

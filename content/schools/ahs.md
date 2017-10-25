@@ -23,6 +23,7 @@ walk_area: 'http://www.hcpss.org/f/schools/atholton-hs-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: A
+mascot: Raiders
 achievements:
   -
     machine_name: healthy_howard
