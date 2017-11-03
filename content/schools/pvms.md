@@ -9,8 +9,8 @@ contact:
   fax: 410-880-5843
 address:
   street: '9151 Vollmerhausen Road'
-  city: Jessup
-  postal_code: 20794
+  city: Savage
+  postal_code: 20763
   latitude: '39.1465566'
   longitude: '-76.8265491'
 principal: 'Rick Robb'

@@ -9,8 +9,8 @@ contact:
   fax: 410-880-5923
 address:
   street: '8200 Savage-Guilford Road'
-  city: Jessup
-  postal_code: 20794
+  city: Savage
+  postal_code: 20763
   latitude: '39.1459103'
   longitude: '-76.8297667'
 principal: 'Rhonda Inskeep'
