@@ -6,7 +6,7 @@ primary_color: 'rgb(0, 102, 204)'
 level: es
 contact:
   phone: 410-313-2819
-  fax: 410-313-2834
+  fax: 410-313-2824
 address:
   street: '10220 Wetherburn Road'
   city: 'Ellicott City'
