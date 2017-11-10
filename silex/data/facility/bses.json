@@ -1,0 +1,47 @@
+{
+    "identifier": "bses",
+    "acronym": "bses",
+    "name": "Bellows Spring",
+    "full_name": "Bellows Spring Elementary School",
+    "primary_color": "rgb(153,0,0)",
+    "level": "es",
+    "contact": {
+        "phone": "410-313-5057",
+        "fax": "410-313-5060"
+    },
+    "address": {
+        "street": "8125 Old Stockbridge Road",
+        "city": "Ellicott City",
+        "postal_code": "21043",
+        "latitude": "39.2042888",
+        "longitude": "-76.7891695"
+    },
+    "principal": "Carol Hahn",
+    "hours": {
+        "open": "9:25 a.m.",
+        "close": "3:55 p.m."
+    },
+    "mascot": "Cheetahs",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_bellowsspring.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_bellowsspring.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/bellows-spring-es-walk-area.pdf",
+    "title_1": false,
+    "administrative_cluster": 2,
+    "boe_cluster": "B",
+    "achievements": {
+        "pbis": {
+            "id": "pbis",
+            "level": "Gold",
+            "color": "FECC6A"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "level": "Platinum",
+            "color": "FECC6A"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

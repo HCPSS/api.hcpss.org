@@ -1,0 +1,59 @@
+{
+    "identifier": "pvms",
+    "acronym": "pvms",
+    "name": "Patuxent Valley",
+    "full_name": "Patuxent Valley Middle School",
+    "primary_color": "rgb(0,51,102)",
+    "level": "ms",
+    "contact": {
+        "phone": "410-880-5840",
+        "fax": "410-880-5843"
+    },
+    "address": {
+        "street": "9151 Vollmerhausen Road",
+        "city": "Savage",
+        "postal_code": "20763",
+        "latitude": "39.1465566",
+        "longitude": "-76.8265491"
+    },
+    "principal": "Rick Robb",
+    "hours": {
+        "open": "7:40 a.m.",
+        "close": "2:25 p.m."
+    },
+    "mascot": "Bulldogs",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_ms_patuxentvalley.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_ms_patuxentvalley.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/patuxent-valley-ms-walk-area.pdf",
+    "title_1": false,
+    "administrative_cluster": 1,
+    "boe_cluster": "D",
+    "achievements": {
+        "green": {
+            "id": "green",
+            "years": [
+                "2014"
+            ]
+        },
+        "pbis": {
+            "id": "pbis",
+            "years": [
+                "2014"
+            ],
+            "level": "Gold",
+            "color": "FECC6A"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "years": [
+                "2014"
+            ],
+            "level": "Gold",
+            "color": "FECC6A"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

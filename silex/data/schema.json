@@ -1,0 +1,42 @@
+{
+    "relationships": {
+        "achievement": {
+            "facilities": {
+                "model": "facility",
+                "type": "manyMany",
+                "map": "facility.achievements"
+            }
+        },
+        "administrative_cluster": {
+             "facilities": {
+                "model": "facility",
+                "type": "hasMany",
+                "map": "facility.administrative_cluster"
+            }
+        },
+        "boe_cluster": {
+             "facilities": {
+                "model": "facility",
+                "type": "hasMany",
+                "map": "facility.boe_cluster"
+            }
+        },
+        "facility": {
+            "achievements": {
+                "model": "achievement",
+                "type": "manyMany",
+                "map": "facility.achievements"
+            },
+            "boe_cluster": {
+                "model": "boe_cluster",
+                "type": "hasOne",
+                "map": "facility.boe_cluster"
+            },
+            "administrative_cluster": {
+                "model": "administrative_cluster",
+                "type": "hasOne",
+                "map": "facility.administrative_cluster"
+            }
+        }
+    }
+}

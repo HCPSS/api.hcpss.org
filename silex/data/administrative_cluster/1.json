@@ -1,0 +1,14 @@
+{
+    "identifier": 1,
+    "cluster": 1,
+    "community_superintendent": {
+        "name": "Marcy Leonard",
+        "phone": "410-313-6760",
+        "email": "marcy_leonard@hcpss.org"
+    },
+    "pec_officer": {
+        "name": "Jason McCoy",
+        "phone": "410-313-6892",
+        "email": "jason_mccoy@hcpss.org"
+    }
+}

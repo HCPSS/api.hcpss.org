@@ -1,0 +1,69 @@
+{
+    "identifier": "lkms",
+    "acronym": "lkms",
+    "name": "Lime Kiln",
+    "full_name": "Lime Kiln Middle School",
+    "primary_color": "rgb(102, 153, 102)",
+    "level": "ms",
+    "contact": {
+        "phone": "410-880-5988",
+        "fax": "410-880-5996"
+    },
+    "address": {
+        "street": "11650 Scaggsville Road",
+        "city": "Fulton",
+        "postal_code": "20759",
+        "latitude": "39.154542",
+        "longitude": "-76.9178859"
+    },
+    "principal": "Lucy Lublin",
+    "hours": {
+        "open": "8:25 a.m.",
+        "close": "3:10 p.m."
+    },
+    "mascot": "Leopards",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_ms_limekiln.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_ms_limekiln.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/lime-kiln-ms-walk-area.pdf",
+    "title_1": false,
+    "administrative_cluster": 1,
+    "boe_cluster": "D",
+    "achievements": {
+        "green": {
+            "id": "green",
+            "years": [
+                "2008",
+                "2012"
+            ]
+        },
+        "pbis": {
+            "id": "pbis",
+            "years": [
+                "2008",
+                "2012"
+            ],
+            "level": "Gold",
+            "color": "FECC6A"
+        },
+        "blue": {
+            "id": "blue",
+            "years": [
+                "2010"
+            ],
+            "level": "Gold",
+            "color": "FECC6A"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "years": [
+                "2010"
+            ],
+            "level": "Silver",
+            "color": "FECC6A"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

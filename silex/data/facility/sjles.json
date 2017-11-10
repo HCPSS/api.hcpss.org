@@ -1,0 +1,62 @@
+{
+    "identifier": "sjles",
+    "acronym": "sjles",
+    "name": "St. John's Lane",
+    "full_name": "St. John's Lane Elementary School",
+    "primary_color": "rgb(0, 51, 102)",
+    "level": "es",
+    "contact": {
+        "phone": "410-313-2813",
+        "fax": "410-313-2817"
+    },
+    "address": {
+        "street": "2960 St. John\u2019s Lane",
+        "city": "Ellicott City",
+        "postal_code": "21042",
+        "latitude": "39.2904753",
+        "longitude": "-76.8356276"
+    },
+    "principal": "Vicky Sarro",
+    "hours": {
+        "open": "8:45 a.m.",
+        "close": "3:15 p.m."
+    },
+    "mascot": "Jaguars",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_stjohnslane.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_stjohnslane.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/st-johns-lane-es-walk-area.pdf",
+    "title_1": false,
+    "administrative_cluster": 3,
+    "boe_cluster": "F",
+    "achievements": {
+        "green": {
+            "id": "green",
+            "years": [
+                "2011",
+                "2015"
+            ]
+        },
+        "pbis": {
+            "id": "pbis",
+            "years": [
+                "2011",
+                "2015"
+            ],
+            "level": "Gold",
+            "color": "FECC6A"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "years": [
+                "2011",
+                "2015"
+            ],
+            "level": "Silver",
+            "color": "FECC6A"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

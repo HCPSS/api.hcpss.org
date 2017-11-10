@@ -1,0 +1,52 @@
+{
+    "identifier": "bpes",
+    "acronym": "bpes",
+    "name": "Bushy Park",
+    "full_name": "Bushy Park Elementary School",
+    "primary_color": "rgb(0, 51, 153)",
+    "level": "es",
+    "contact": {
+        "phone": "410-313-5500",
+        "fax": "410-313-5505"
+    },
+    "address": {
+        "street": "14601 Carrs Mill Road",
+        "city": "Glenwood",
+        "postal_code": "21738",
+        "latitude": "39.3025517",
+        "longitude": "-77.0206572"
+    },
+    "principal": "Molly Ketterer",
+    "hours": {
+        "open": "9:20 a.m.",
+        "close": "3:50 p.m."
+    },
+    "mascot": "Bears",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_bushypark.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_bushypark.pdf",
+    "walk_area": null,
+    "title_1": false,
+    "administrative_cluster": 2,
+    "boe_cluster": "C",
+    "achievements": {
+        "green": {
+            "id": "green",
+            "years": [
+                "2010",
+                "2014"
+            ]
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "years": [
+                "2010",
+                "2014"
+            ],
+            "level": "Gold"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

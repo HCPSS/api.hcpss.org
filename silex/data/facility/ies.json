@@ -1,0 +1,62 @@
+{
+    "identifier": "ies",
+    "acronym": "ies",
+    "name": "Ilchester",
+    "full_name": "Ilchester Elementary School",
+    "primary_color": "rgb(0, 102, 102)",
+    "level": "es",
+    "contact": {
+        "phone": "410-313-2524",
+        "fax": "410-313-2527"
+    },
+    "address": {
+        "street": "4981 Ilchester Road",
+        "city": "Ellicott City",
+        "postal_code": "21043",
+        "latitude": "39.2311388",
+        "longitude": "-76.7760581"
+    },
+    "principal": "Joy Byrd-Butler",
+    "hours": {
+        "open": "9:25 a.m.",
+        "close": "3:55 p.m."
+    },
+    "mascot": "Cheetahs",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_ilchester.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_ilchester.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/ilchester-es-walk-area.pdf",
+    "title_1": false,
+    "administrative_cluster": 2,
+    "boe_cluster": "E",
+    "achievements": {
+        "green": {
+            "id": "green",
+            "years": [
+                "2010",
+                "2014"
+            ]
+        },
+        "pbis": {
+            "id": "pbis",
+            "years": [
+                "2010",
+                "2014"
+            ],
+            "level": "Gold",
+            "color": "FECC6A"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "years": [
+                "2010",
+                "2014"
+            ],
+            "level": "Silver",
+            "color": "FECC6A"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

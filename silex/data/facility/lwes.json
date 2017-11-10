@@ -1,0 +1,47 @@
+{
+    "identifier": "lwes",
+    "acronym": "lwes",
+    "name": "Laurel Woods",
+    "full_name": "Laurel Woods Elementary School",
+    "primary_color": "rgb(0, 51, 102)",
+    "level": "es",
+    "contact": {
+        "phone": "410-880-5960",
+        "fax": "410-880-5964"
+    },
+    "address": {
+        "street": "9250 North Laurel Road",
+        "city": "Laurel",
+        "postal_code": "20723",
+        "latitude": "39.1177367",
+        "longitude": "-76.8448679"
+    },
+    "principal": "Susan Brown",
+    "hours": {
+        "open": "9:00 a.m.",
+        "close": "3:30 p.m."
+    },
+    "mascot": "Dolphins",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_laurelwoods.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_laurelwoods.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/laurel-woods-es-walk-area.pdf",
+    "title_1": true,
+    "administrative_cluster": 1,
+    "boe_cluster": "D",
+    "achievements": {
+        "pbis": {
+            "id": "pbis",
+            "level": "Gold",
+            "color": "FECC6A"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "level": "Gold",
+            "color": "FECC6A"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

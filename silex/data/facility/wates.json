@@ -1,0 +1,47 @@
+{
+    "identifier": "wates",
+    "acronym": "wates",
+    "name": "Waterloo",
+    "full_name": "Waterloo Elementary School",
+    "primary_color": "rgb(153, 0, 0)",
+    "level": "es",
+    "contact": {
+        "phone": "410-313-5014",
+        "fax": "410-313-5017"
+    },
+    "address": {
+        "street": "5940 Waterloo Road",
+        "city": "Columbia",
+        "postal_code": "21045",
+        "latitude": "39.2073805",
+        "longitude": "-76.7998611"
+    },
+    "principal": "Sean Martin",
+    "hours": {
+        "open": "9:25 a.m.",
+        "close": "3:55 p.m."
+    },
+    "mascot": "Wildcats",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_waterloo.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_waterloo.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/waterloo-es-walk-area.pdf",
+    "title_1": false,
+    "administrative_cluster": 3,
+    "boe_cluster": "B",
+    "achievements": {
+        "pbis": {
+            "id": "pbis",
+            "level": "Gold",
+            "color": "D7A03B"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "level": "Platinum",
+            "color": "D7A03B"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

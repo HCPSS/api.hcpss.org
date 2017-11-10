@@ -1,0 +1,41 @@
+{
+    "identifier": "les",
+    "acronym": "les",
+    "name": "Lisbon",
+    "full_name": "Lisbon Elementary School",
+    "primary_color": "rgb(0, 51, 153)",
+    "level": "es",
+    "contact": {
+        "phone": "410-313-5506",
+        "fax": "410-313-5508"
+    },
+    "address": {
+        "street": "15901 Frederick Road",
+        "city": "Woodbine",
+        "postal_code": "21797",
+        "latitude": "39.334269",
+        "longitude": "-77.0676604"
+    },
+    "principal": "Debra Anoff",
+    "hours": {
+        "open": "8:40 a.m.",
+        "close": "3:10 p.m."
+    },
+    "mascot": "Lions",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_lisbon.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_lisbon.pdf",
+    "walk_area": "http:\/\/www.hcpss.org\/f\/schools\/lisbon-es-walk-area.pdf",
+    "title_1": false,
+    "administrative_cluster": 2,
+    "boe_cluster": "C",
+    "achievements": {
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "level": "Gold"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

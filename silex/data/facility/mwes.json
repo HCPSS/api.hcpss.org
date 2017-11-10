@@ -1,0 +1,69 @@
+{
+    "identifier": "mwes",
+    "acronym": "mwes",
+    "name": "Manor Woods",
+    "full_name": "Manor Woods Elementary School",
+    "primary_color": "rgb(153, 0, 0)",
+    "level": "es",
+    "contact": {
+        "phone": "410-313-7165",
+        "fax": "410-313-7170"
+    },
+    "address": {
+        "street": "11575 Frederick Road",
+        "city": "Ellicott City",
+        "postal_code": "21042",
+        "latitude": "39.290175",
+        "longitude": "-76.9155706"
+    },
+    "principal": "James Weisner",
+    "hours": {
+        "open": "8:45 a.m.",
+        "close": "3:15 p.m."
+    },
+    "mascot": "Mighty Ducks",
+    "profile": "http:\/\/www.hcpss.org\/f\/schools\/profiles\/prof_es_manorwoods.pdf",
+    "msde_report": "http:\/\/www.hcpss.org\/f\/schools\/performance\/ispr_en_es_manorwoods.pdf",
+    "walk_area": null,
+    "title_1": false,
+    "administrative_cluster": 3,
+    "boe_cluster": "E",
+    "achievements": {
+        "green": {
+            "id": "green",
+            "years": [
+                "2010",
+                "2014"
+            ]
+        },
+        "pbis": {
+            "id": "pbis",
+            "years": [
+                "2010",
+                "2014"
+            ],
+            "level": "Bronze",
+            "color": "BA8748"
+        },
+        "blue": {
+            "id": "blue",
+            "years": [
+                "2016"
+            ],
+            "level": "Bronze",
+            "color": "BA8748"
+        },
+        "healthy_howard": {
+            "id": "healthy_howard",
+            "years": [
+                "2016"
+            ],
+            "level": "Silver",
+            "color": "BA8748"
+        }
+    },
+    "common": {
+        "school_bus_locator": "https:\/\/www.infofinderi.com\/ifi\/?cid=HCP2IOASIJVW",
+        "online_payments": "https:\/\/osp.osmsinc.com\/HowardMD\/BVModules\/CategoryTemplates\/Detailed%20List%20with%20Properties\/Category.aspx?categoryid=DA011"
+    }
+}

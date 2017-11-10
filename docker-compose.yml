@@ -1,0 +1,8 @@
+version: '2'
+services:
+  silex:
+    image: banderson/symfony
+    volumes:
+      - ./silex:/var/www/symfony
+    ports:
+      - 8099:80
