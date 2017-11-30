@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/burleigh-manor-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: B
-mascot: Bobcats
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Bobcats
 achievements:
   -
     machine_name: green

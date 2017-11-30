@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/wilde-lake-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: C
-mascot: Sharks
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Sharks
 achievements:
   -
     machine_name: healthy_howard

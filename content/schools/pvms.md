@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/patuxent-valley-ms-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: D
-mascot: Bulldogs
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Bulldogs
 achievements:
   -
     machine_name: green

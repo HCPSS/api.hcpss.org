@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/centennial-hs-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: B
-mascot: Eagles
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Eagles
 achievements:
   -
     machine_name: green

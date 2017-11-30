@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/dunloggin-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F
-mascot: Dragons
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Dragons
 achievements:
   -
     machine_name: green

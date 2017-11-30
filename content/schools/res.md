@@ -23,7 +23,11 @@ walk_area: null
 title_1: false
 cluster: 2
 boe_cluster: E
-mascot: Raccoons
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Raccoons
 achievements:
   -
     machine_name: green

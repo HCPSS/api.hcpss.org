@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/hammond-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: A
-mascot: 'Tuffy the Tiger'
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: 'Tuffy the Tiger'
 achievements:
   -
     machine_name: green

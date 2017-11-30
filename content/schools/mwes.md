@@ -23,7 +23,11 @@ walk_area: null
 title_1: false
 cluster: 3
 boe_cluster: E
-mascot: 'Mighty Ducks'
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: 'Mighty Ducks'
 achievements:
   -
     machine_name: green

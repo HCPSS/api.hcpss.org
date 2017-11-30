@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/phelps-luck-es-walk-area.pdf'
 title_1: true
 cluster: 2
 boe_cluster: E
-mascot: Falcons
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Falcons
 achievements:
   -
     machine_name: leed

@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/ducketts-lane-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B
-mascot: Dolphins
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Dolphins
 achievements:
   -
     machine_name: pbis

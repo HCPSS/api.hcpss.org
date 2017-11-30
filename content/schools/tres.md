@@ -23,7 +23,11 @@ walk_area: null
 title_1: false
 cluster: 1
 boe_cluster: F
-mascot: Retrievers
+environment:
+  water:
+    source: well
+    extended_testing: true
+mascots: Retrievers
 achievements:
   -
     machine_name: green

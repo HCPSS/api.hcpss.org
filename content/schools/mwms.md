@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/mayfield-woods-ms-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B
-mascot: Bulldogs
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Bulldogs
 achievements:
   -
     machine_name: green

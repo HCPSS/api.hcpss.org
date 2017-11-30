@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/laurel-woods-es-walk-area.pdf'
 title_1: true
 cluster: 1
 boe_cluster: D
-mascot: Dolphins
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Dolphins
 achievements:
   -
     machine_name: pbis

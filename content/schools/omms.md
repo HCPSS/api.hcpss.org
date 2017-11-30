@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/oakland-mills-ms-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: A
-mascot: Falcons
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Falcons
 achievements:
   -
     machine_name: pbis

@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/bollman-bridge-es-walk-area.pdf'
 title_1: true
 cluster: 1
 boe_cluster: D
-mascot: Beavers
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Beavers
 achievements:
   -
     machine_name: green

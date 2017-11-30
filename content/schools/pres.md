@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/pointers-run-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: A
-mascot: 'Pointer Dogs'
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: 'Pointer Dogs'
 achievements:
   -
     machine_name: green

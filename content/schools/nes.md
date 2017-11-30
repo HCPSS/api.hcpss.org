@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/northfield-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F
-mascot: Roadrunners
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Roadrunners
 achievements:
   -
     machine_name: green

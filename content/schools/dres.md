@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/deep-run-es-walk-area.pdf'
 title_1: true
 cluster: 2
 boe_cluster: B
-mascot: 'Ranger Bears'
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: 'Ranger Bears'
 achievements:
   -
     machine_name: green

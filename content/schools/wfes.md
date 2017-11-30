@@ -23,7 +23,11 @@ walk_area: null
 title_1: false
 cluster: 3
 boe_cluster: E
-mascot: Tigers
+environment:
+  water:
+    source: well
+    extended_testing: true
+mascots: Tigers
 achievements:
   -
     machine_name: green

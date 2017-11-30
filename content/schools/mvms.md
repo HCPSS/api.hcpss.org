@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/mount-view-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: E
-mascot: Falcons
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Falcons
 achievements:
   -
     machine_name: green

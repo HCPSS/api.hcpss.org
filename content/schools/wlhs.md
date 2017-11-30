@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/wilde-lake-hs-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: C
-mascot: Wildcats
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Wildcats
 achievements:
   -
     machine_name: pbis

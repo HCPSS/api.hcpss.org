@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/river-hill-hs-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: F
-mascot: Hawks
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Hawks
 achievements:
   -
     machine_name: blue

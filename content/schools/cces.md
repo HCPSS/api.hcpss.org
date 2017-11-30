@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/clemens-crossing-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: C
-mascot: Cougars
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Cougars
 achievements:
   -
     machine_name: green

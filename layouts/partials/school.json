@@ -20,7 +20,13 @@
 		"open": {{ if .school.hours.open }}"{{ .school.hours.open }}"{{ else }}null{{ end }},
 		"close": {{ if .school.hours.close }}"{{ .school.hours.close }}"{{ else }}null{{ end }}
 	},
-    "mascot": "{{ .school.mascot }}",
+	"environment": {
+		"water": {
+			"source": "{{ .school.environment.water.source }}",
+			"extended_testing": {{ .school.environment.water.extended_testing }}
+		}
+	},
+	"mascot": "{{ .school.mascot }}",
 	"profile": {{ if .school.profile }}"{{ .school.profile }}"{{ else }}null{{ end }},
 	"msde_report": {{ if .school.msde_report }}"{{ .school.msde_report }}"{{ else }}null{{ end }},
 	"walk_area": {{ if .school.walk_area }}"{{ .school.walk_area }}"{{ else }}null{{ end }},

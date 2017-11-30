@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/talbott-springs-es-walk-area.pdf'
 title_1: true
 cluster: 2
 boe_cluster: A
-mascot: Eagles
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Eagles
 achievements:
   -
     machine_name: green

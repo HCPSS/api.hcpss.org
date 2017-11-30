@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/waverly-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: E
-mascot: Wildcats
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Wildcats
 achievements:
   -
     machine_name: green

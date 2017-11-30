@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/thomas-viaduct-ms-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B
-mascot: Wolves
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Wolves
 achievements:
   -
     machine_name: pbis

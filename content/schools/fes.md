@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/fulton-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: D
-mascot: 'Freddie Falcons'
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: 'Freddie Falcons'
 achievements:
   -
     machine_name: pbis

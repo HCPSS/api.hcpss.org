@@ -23,7 +23,11 @@ walk_area: null
 title_1: false
 cluster: 2
 boe_cluster: C
-mascot: Cobras
+environment:
+  water:
+    source: well
+    extended_testing: true
+mascots: Cobras
 achievements:
   -
     machine_name: green

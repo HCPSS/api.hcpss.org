@@ -23,7 +23,11 @@ walk_area: 'http://www.hcpss.org/f/schools/cradlerock-es-walk-area.pdf'
 title_1: true
 cluster: 2
 boe_cluster: A
-mascot: Bulldogs
+environment:
+  water:
+    source: city
+    extended_testing: false
+mascots: Bulldogs
 achievements:
   -
     machine_name: pbis
