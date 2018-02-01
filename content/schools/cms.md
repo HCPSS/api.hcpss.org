@@ -6,7 +6,7 @@ primary_color: 'rgb(0, 0, 0)'
 level: ms
 contact:
   phone: 410-313-7057
-  fax: 410-313-5105
+  fax: 410-531-5105
 address:
   street: '6535 South Trotter Road'
   city: Clarksville
