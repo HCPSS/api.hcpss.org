@@ -13,7 +13,7 @@ address:
   postal_code: 21042
   latitude: '39.235378'
   longitude: '-76.8948001'
-principal: 'Tina Maddox'
+principal: 'Christina Krabitz'
 hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
