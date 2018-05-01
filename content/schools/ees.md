@@ -9,7 +9,7 @@ contact:
   fax: 410-313-5074
 address:
   street: '7075 Montgomery Road'
-  city: null
+  city: 'Elkridge'
   postal_code: 21075
   latitude: '39.2564951'
   longitude: '-76.8343849'
