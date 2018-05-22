@@ -9,7 +9,7 @@ contact:
   fax: 410-313-2530
 address:
   street: '9129 Northfield Road'
-  city: null
+  city: 'Ellicott City'
   postal_code: 21042
   latitude: '39.2564951'
   longitude: '-76.8343849'
