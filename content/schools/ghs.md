@@ -26,7 +26,7 @@ boe_cluster: C
 environment:
   water:
     source: well
-    extended_testing: false
+    extended_testing: true
 mascots: Gladiators
 achievements: []
 ---
