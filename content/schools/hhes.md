@@ -17,8 +17,8 @@ principal: 'Troy Todd'
 hours:
   open: '8:50 a.m.'
   close: '3:20 p.m.'
-profile: 'Information forthcoming.'
-msde_report: 'Information forthcoming.'
+profile: null
+msde_report: null
 walk_area: 'http://www.hcpss.org/f/schools/hanover-hills-es-walk-area.pdf'
 title_1: false
 cluster: 2
