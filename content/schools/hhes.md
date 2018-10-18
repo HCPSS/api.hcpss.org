@@ -6,7 +6,7 @@ primary_color: 'rgb(160, 215, 251)'
 level: es
 contact:
   phone: 410-313-8066
-  fax: null
+  fax: 410-712-0296
 address:
   street: '7030 Banbury Drive'
   city: 'Hanover'
