@@ -1,5 +1,5 @@
 ---
 cluster: E
-representative: 'Kirsten Coombs'
+representative: 'Jennifer Mallo'
 type: boe_cluster
 ---

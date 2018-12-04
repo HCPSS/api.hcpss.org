@@ -1,5 +1,5 @@
 ---
 cluster: C
-representative: 'Christina Delmont-Small'
+representative: 'Vicky Cutroneo'
 type: boe_cluster
 ---
