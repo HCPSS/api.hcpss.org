@@ -17,7 +17,7 @@ principal: 'Heidi Balter'
 hours:
   open: '8:50 a.m.'
   close: '3:20 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_ducketts.pdf'
+profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_duckettslane.pdf'
 msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_duckettslane.pdf'
 walk_area: 'http://www.hcpss.org/f/schools/ducketts-lane-es-walk-area.pdf'
 title_1: false
