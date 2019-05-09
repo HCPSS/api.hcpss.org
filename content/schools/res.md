@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Raccoons
+mascot: Raccoons
 achievements:
   -
     machine_name: green

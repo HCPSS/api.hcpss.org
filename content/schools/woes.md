@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Wildcats
+mascot: Wildcats
 achievements:
   -
     machine_name: pbis

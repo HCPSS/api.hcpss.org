@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Dolphins
+mascot: Dolphins
 achievements:
   -
     machine_name: pbis

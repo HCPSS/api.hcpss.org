@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Steam Engines'
+mascot: 'Steam Engines'
 achievements:
   -
     machine_name: green

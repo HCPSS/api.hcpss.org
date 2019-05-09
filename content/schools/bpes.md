@@ -27,7 +27,7 @@ environment:
   water:
     source: well
     extended_testing: true
-mascots: Bears
+mascot: Bears
 achievements:
   -
     machine_name: green

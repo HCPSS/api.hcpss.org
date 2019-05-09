@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Wolves
+mascot: Wolves
 achievements:
   -
     machine_name: pbis

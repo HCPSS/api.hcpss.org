@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Tuffy the Tiger'
+mascot: 'Tuffy the Tiger'
 achievements:
   -
     machine_name: green

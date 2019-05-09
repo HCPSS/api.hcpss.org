@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Gordy Gators'
+mascot: 'Gordy Gators'
 achievements:
   -
     machine_name: green

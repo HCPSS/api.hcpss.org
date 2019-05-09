@@ -27,7 +27,7 @@ environment:
   water:
     source: well
     extended_testing: true
-mascots: Dolphins
+mascot: Dolphins
 achievements:
   -
     machine_name: green

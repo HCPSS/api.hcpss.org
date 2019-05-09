@@ -27,7 +27,7 @@ environment:
   water:
     source: well
     extended_testing: true
-mascots: Tigers
+mascot: Tigers
 achievements:
   -
     machine_name: green

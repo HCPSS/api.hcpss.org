@@ -27,7 +27,7 @@ environment:
   water:
     source: well
     extended_testing: true
-mascots: Cobras
+mascot: Cobras
 achievements:
   -
     machine_name: green

@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Bobcats
+mascot: Bobcats
 achievements:
   -
     machine_name: green

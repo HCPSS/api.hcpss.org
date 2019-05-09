@@ -27,6 +27,6 @@ environment:
   water:
     source: well
     extended_testing: true
-mascots: Gladiators
+mascot: Gladiators
 achievements: []
 ---

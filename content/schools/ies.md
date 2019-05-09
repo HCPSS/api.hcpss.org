@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Cheetahs
+mascot: Cheetahs
 achievements:
   -
     machine_name: green

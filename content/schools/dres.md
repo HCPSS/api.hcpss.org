@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Ranger Bears'
+mascot: 'Ranger Bears'
 achievements:
   -
     machine_name: green

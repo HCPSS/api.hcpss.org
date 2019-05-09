@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Comets
+mascot: Comets
 achievements:
   -
     machine_name: blue

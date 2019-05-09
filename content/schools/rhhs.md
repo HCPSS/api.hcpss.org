@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Hawks
+mascot: Hawks
 achievements:
   -
     machine_name: blue

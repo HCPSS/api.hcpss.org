@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Leopards
+mascot: Leopards
 achievements:
   -
     machine_name: green

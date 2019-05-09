@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Mustangs
+mascot: Mustangs
 achievements:
   -
     machine_name: green

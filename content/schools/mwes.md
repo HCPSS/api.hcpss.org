@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Mighty Ducks'
+mascot: 'Mighty Ducks'
 achievements:
   -
     machine_name: green

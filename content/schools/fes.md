@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Freddie Falcons'
+mascot: 'Freddie Falcons'
 achievements:
   -
     machine_name: pbis

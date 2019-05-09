@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Swans
+mascot: Swans
 achievements:
   -
     machine_name: green

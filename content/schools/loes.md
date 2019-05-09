@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Soaring Eagles'
+mascot: 'Soaring Eagles'
 achievements:
   -
     machine_name: green

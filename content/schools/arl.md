@@ -27,6 +27,6 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: null
+mascot: null
 achievements: []
 ---

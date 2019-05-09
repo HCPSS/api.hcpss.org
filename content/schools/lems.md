@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Eagles
+mascot: Eagles
 achievements:
   -
     machine_name: healthy_howard

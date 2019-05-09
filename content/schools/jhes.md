@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Jaguars
+mascot: Jaguars
 achievements:
   -
     machine_name: pbis

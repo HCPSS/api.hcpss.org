@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Beavers
+mascot: Beavers
 achievements:
   -
     machine_name: green

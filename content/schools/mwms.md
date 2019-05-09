@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Bulldogs
+mascot: Bulldogs
 achievements:
   -
     machine_name: green

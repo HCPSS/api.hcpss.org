@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Thunderbirds
+mascot: Thunderbirds
 achievements:
   -
     machine_name: green

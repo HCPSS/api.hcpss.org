@@ -27,7 +27,7 @@ environment:
   water:
     source: well
     extended_testing: true
-mascots: Retrievers
+mascot: Retrievers
 achievements:
   -
     machine_name: green

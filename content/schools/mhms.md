@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Mountain Lions'
+mascot: 'Mountain Lions'
 achievements:
   -
     machine_name: healthy_howard

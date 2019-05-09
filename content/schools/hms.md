@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Vikings
+mascot: Vikings
 achievements:
   -
     machine_name: green

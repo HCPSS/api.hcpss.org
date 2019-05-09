@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: Roadrunners
+mascot: Roadrunners
 achievements:
   -
     machine_name: green

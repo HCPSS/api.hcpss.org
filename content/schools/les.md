@@ -27,7 +27,7 @@ environment:
   water:
     source: well
     extended_testing: true
-mascots: Lions
+mascot: Lions
 achievements:
   -
     machine_name: healthy_howard

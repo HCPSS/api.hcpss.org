@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Rolling Thunder'
+mascot: 'Rolling Thunder'
 achievements:
   -
     machine_name: pbis

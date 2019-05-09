@@ -27,7 +27,7 @@ environment:
   water:
     source: well
     extended_testing: false
-mascots: Falcons
+mascot: Falcons
 achievements:
   -
     machine_name: green

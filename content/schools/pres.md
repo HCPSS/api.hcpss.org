@@ -27,7 +27,7 @@ environment:
   water:
     source: city
     extended_testing: false
-mascots: 'Pointer Dogs'
+mascot: 'Pointer Dogs'
 achievements:
   -
     machine_name: green
