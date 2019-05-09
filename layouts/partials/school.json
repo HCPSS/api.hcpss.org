@@ -26,7 +26,7 @@
 			"extended_testing": {{ .school.environment.water.extended_testing }}
 		}
 	},
-	"mascot": "{{ .school.mascot }}",
+	"mascot": {{ if .school.mascot }}"{{ .school.mascot }}"{{ else }}null{{ end }},
 	"profile": {{ if .school.profile }}"{{ .school.profile }}"{{ else }}null{{ end }},
 	"msde_report": {{ if .school.msde_report }}"{{ .school.msde_report }}"{{ else }}null{{ end }},
 	"walk_area": {{ if .school.walk_area }}"{{ .school.walk_area }}"{{ else }}null{{ end }},
