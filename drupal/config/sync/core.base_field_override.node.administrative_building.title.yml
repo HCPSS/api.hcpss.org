@@ -1,0 +1,18 @@
+uuid: 93aeb75d-8358-465c-9c62-ea7128c6beb7
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.administrative_building
+id: node.administrative_building.title
+field_name: title
+entity_type: node
+bundle: administrative_building
+label: Name
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

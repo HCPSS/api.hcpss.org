@@ -1,0 +1,22 @@
+uuid: a4e27c22-b86c-490b-82fe-7548847e2e05
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - parity
+_core:
+  default_config_hash: 2lYnaPfYJSXvHAlDwXgbwu1S2th5oAKjOHLF5m1mk0E
+id: parity_breadcrumbs
+theme: parity
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility: {  }

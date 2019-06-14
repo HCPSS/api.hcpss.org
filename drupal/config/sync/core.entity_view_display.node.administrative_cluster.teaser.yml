@@ -1,0 +1,27 @@
+uuid: fd467887-e4f4-43b6-b96c-d98f39455904
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.administrative_cluster.field_cluster
+    - field.field.node.administrative_cluster.field_community_superintendent
+    - field.field.node.administrative_cluster.field_pec_officer
+    - node.type.administrative_cluster
+  module:
+    - user
+id: node.administrative_cluster.teaser
+targetEntityType: node
+bundle: administrative_cluster
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_cluster: true
+  field_community_superintendent: true
+  field_pec_officer: true
+  langcode: true

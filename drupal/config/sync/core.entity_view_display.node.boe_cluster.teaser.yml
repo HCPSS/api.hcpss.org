@@ -1,0 +1,25 @@
+uuid: 01639649-af5c-40ae-b2cf-87e944d6104f
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.boe_cluster.field_boe_cluster
+    - field.field.node.boe_cluster.field_representative
+    - node.type.boe_cluster
+  module:
+    - user
+id: node.boe_cluster.teaser
+targetEntityType: node
+bundle: boe_cluster
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_boe_cluster: true
+  field_representative: true
+  langcode: true

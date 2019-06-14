@@ -1,0 +1,23 @@
+uuid: e06ccbd7-71ff-42b0-a4a6-72be05b6ab64
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.administrative_building.field_facility
+    - node.type.administrative_building
+  module:
+    - user
+id: node.administrative_building.teaser
+targetEntityType: node
+bundle: administrative_building
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_facility: true
+  langcode: true

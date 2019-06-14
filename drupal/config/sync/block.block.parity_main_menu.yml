@@ -1,0 +1,27 @@
+uuid: 234b5c2f-1ca1-423b-bc01-d1923d5c713b
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - parity
+_core:
+  default_config_hash: D23D0cMzS2o8cHC_5Q996cimYCpXBZenAbmtyq6j02o
+id: parity_main_menu
+theme: parity
+region: sidebar_first
+weight: -7
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

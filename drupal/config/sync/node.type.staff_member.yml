@@ -1,0 +1,17 @@
+uuid: 60e6374b-e742-4ea8-ad03-8fc1b34c4440
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Staff Member'
+type: staff_member
+description: 'HCPSS Staff Member.'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: false

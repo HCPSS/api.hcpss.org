@@ -1,0 +1,27 @@
+uuid: e5b746d0-f339-430d-93b5-9ab279f2a9dd
+langcode: en
+status: false
+dependencies:
+  config:
+    - system.menu.tools
+  module:
+    - system
+  theme:
+    - parity
+_core:
+  default_config_hash: dfBq-Zx49n8ehZ-WrTRF2puV4szOhWN6OcW7kSM03Ds
+id: parity_tools
+theme: parity
+region: header
+weight: -4
+provider: null
+plugin: 'system_menu_block:tools'
+settings:
+  id: 'system_menu_block:tools'
+  label: Tools
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,19 @@
+uuid: a9d937d4-2418-40ad-974e-4c697ef321ea
+langcode: en
+status: true
+dependencies: {  }
+id: development_split
+label: 'Development Split'
+description: ''
+folder: /var/www/drupal/config/sync-dev
+module:
+  devel: 0
+  webprofiler: 0
+theme: {  }
+blacklist:
+  - system.menu.devel
+graylist:
+  - system.performance
+graylist_dependents: true
+graylist_skip_equal: false
+weight: 0

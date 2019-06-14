@@ -1,0 +1,21 @@
+uuid: 8ef3ef20-4f2e-4660-911e-47c98d63fa3b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_hours
+    - node.type.school
+  module:
+    - time_field
+id: node.school.field_hours
+field_name: field_hours
+entity_type: node
+bundle: school
+label: Hours
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: time_range

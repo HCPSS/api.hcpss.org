@@ -1,0 +1,6 @@
+name: 'HCPSS Careful Raccoon'
+description: 'Functionality for project careful raccoon.'
+type: module
+core: 8.x
+version: 8.x-1.0
+package: HCPSS

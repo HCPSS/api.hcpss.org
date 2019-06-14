@@ -1,0 +1,28 @@
+uuid: 7a0db8f9-c541-44e3-8597-6375b42a0430
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_administrative_cluster
+    - node.type.administrative_cluster
+    - node.type.school
+id: node.school.field_administrative_cluster
+field_name: field_administrative_cluster
+entity_type: node
+bundle: school
+label: 'Administrative Cluster'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      administrative_cluster: administrative_cluster
+    sort:
+      field: _none
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

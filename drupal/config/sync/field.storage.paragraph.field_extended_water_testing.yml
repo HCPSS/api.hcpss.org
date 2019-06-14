@@ -1,0 +1,18 @@
+uuid: 17115925-8d26-4500-bea0-c876af3e1305
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+id: paragraph.field_extended_water_testing
+field_name: field_extended_water_testing
+entity_type: paragraph
+type: boolean
+settings: {  }
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,9 @@
+uuid: deb851b2-1d7a-49b4-86d5-5af3ff1a5ee8
+langcode: en
+status: true
+dependencies: {  }
+id: award
+label: Award
+icon_uuid: null
+description: 'A school achievement.'
+behavior_plugins: {  }

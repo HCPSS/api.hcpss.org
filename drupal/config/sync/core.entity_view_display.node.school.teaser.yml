@@ -1,0 +1,53 @@
+uuid: c4146106-1324-4b8c-a2fa-aa27f6676b8f
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.school.field_achievements
+    - field.field.node.school.field_acronym
+    - field.field.node.school.field_administrative_cluster
+    - field.field.node.school.field_board_cluster
+    - field.field.node.school.field_facility
+    - field.field.node.school.field_fax
+    - field.field.node.school.field_hours
+    - field.field.node.school.field_level
+    - field.field.node.school.field_mascot
+    - field.field.node.school.field_msde_report
+    - field.field.node.school.field_phone
+    - field.field.node.school.field_primary_color
+    - field.field.node.school.field_principal
+    - field.field.node.school.field_school_profile
+    - field.field.node.school.field_title_1
+    - field.field.node.school.field_walk_area_map
+    - node.type.school
+  module:
+    - user
+id: node.school.teaser
+targetEntityType: node
+bundle: school
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_achievements: true
+  field_acronym: true
+  field_administrative_cluster: true
+  field_board_cluster: true
+  field_facility: true
+  field_fax: true
+  field_hours: true
+  field_level: true
+  field_mascot: true
+  field_msde_report: true
+  field_phone: true
+  field_primary_color: true
+  field_principal: true
+  field_school_profile: true
+  field_title_1: true
+  field_walk_area_map: true
+  langcode: true

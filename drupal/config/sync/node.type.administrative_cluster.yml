@@ -1,0 +1,17 @@
+uuid: 92dd3b63-d0b4-45c3-871a-1c6e1c01d034
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Administrative Cluster'
+type: administrative_cluster
+description: 'A cluster of schools under one community superintendent.'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: false

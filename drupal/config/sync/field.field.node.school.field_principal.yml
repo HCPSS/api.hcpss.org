@@ -1,0 +1,19 @@
+uuid: cc001691-05c8-4e70-bbb7-76efe62bec5c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_principal
+    - node.type.school
+id: node.school.field_principal
+field_name: field_principal
+entity_type: node
+bundle: school
+label: Principal
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,23 @@
+uuid: 1a3411ff-a42d-4974-9e0c-b79abe2f3e5e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_walk_area_map
+    - node.type.school
+  module:
+    - link
+id: node.school.field_walk_area_map
+field_name: field_walk_area_map
+entity_type: node
+bundle: school
+label: 'Walk Area Map'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 16
+  title: 0
+field_type: link

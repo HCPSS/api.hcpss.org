@@ -1,0 +1,25 @@
+uuid: 2ca718a9-fea7-4e64-8d84-33debaf53a99
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - parity
+_core:
+  default_config_hash: jeQ6T1XBsDGaeYfVi56100LkBH0dmYg5APhu3_WnpRI
+id: parity_branding
+theme: parity
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

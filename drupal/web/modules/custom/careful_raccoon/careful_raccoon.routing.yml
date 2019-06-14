@@ -1,0 +1,13 @@
+careful_raccoon.legacy_api.schools:
+  path: '/schools.json'
+  defaults:
+    _controller: '\Drupal\careful_raccoon\Controller\LegacyController::schools'
+  requirements:
+    _permission: 'access content'
+careful_raccoon.legacy_api.school:
+  path: '/schools/{slug}'
+  defaults:
+    _controller: '\Drupal\careful_raccoon\Controller\LegacyController::school'
+  requirements:
+    slug: '^([a-z]{2,5})\.json$'
+    _permission: 'access content'

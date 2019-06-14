@@ -1,7 +1,0 @@
-{{- $clusters := where (where .Site.Pages "Section" "administrative_clusters") "Kind" "page" -}}
-[
-	{{- range $index, $cluster := $clusters -}}
-		{{- if $index -}},{{- end -}}
-		{{- partial "administrative_cluster.json" . -}}
-	{{- end -}}
-]

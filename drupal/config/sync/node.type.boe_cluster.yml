@@ -1,0 +1,17 @@
+uuid: 26657bd3-8f00-4373-9f60-7b15a09f6621
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'BOE Cluster'
+type: boe_cluster
+description: 'Board of Education Cluster.'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: false

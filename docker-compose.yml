@@ -1,0 +1,35 @@
+---
+version: '3'
+services:
+
+  db:
+    container_name: careful_raccoon_db
+    image: mariadb
+    volumes:
+      - ./.data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    command: --max-allowed-packet=128M
+
+  drupal:
+    container_name: careful_raccoon_web
+    depends_on:
+      - db
+    image: reg.hcpss.org/careful_raccoon/web
+    build:
+      context: .
+      dockerfile: ./docker/web/Dockerfile
+    ports:
+      - 8100:80
+    volumes:
+      - ./drupal:/var/www/drupal
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_PORT: ${MYSQL_PORT}
+      MYSQL_HOSTNAME: ${MYSQL_HOSTNAME}
+      DRUPAL_ENV: dev

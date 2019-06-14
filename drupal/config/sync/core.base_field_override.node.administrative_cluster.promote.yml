@@ -1,0 +1,22 @@
+uuid: d39fe53d-8d85-44f7-88e5-1fcba63217c5
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.administrative_cluster
+id: node.administrative_cluster.promote
+field_name: promote
+entity_type: node
+bundle: administrative_cluster
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

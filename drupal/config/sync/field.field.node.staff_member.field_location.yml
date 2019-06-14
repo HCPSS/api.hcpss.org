@@ -1,0 +1,30 @@
+uuid: 330765b8-99fb-4bf9-9794-23406d0bd9aa
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_location
+    - node.type.administrative_building
+    - node.type.school
+    - node.type.staff_member
+id: node.staff_member.field_location
+field_name: field_location
+entity_type: node
+bundle: staff_member
+label: Location
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      administrative_building: administrative_building
+      school: school
+    sort:
+      field: _none
+    auto_create: false
+    auto_create_bundle: administrative_building
+field_type: entity_reference

@@ -1,0 +1,22 @@
+uuid: 718f3928-153b-44ba-95bf-418684905b5c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_icon_color
+    - taxonomy.vocabulary.achievements
+  module:
+    - color_field
+id: taxonomy_term.achievements.field_icon_color
+field_name: field_icon_color
+entity_type: taxonomy_term
+bundle: achievements
+label: 'Icon Color'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  opacity: 0
+field_type: color_field_type

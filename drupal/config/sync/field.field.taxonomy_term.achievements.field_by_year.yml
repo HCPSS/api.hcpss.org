@@ -1,0 +1,23 @@
+uuid: eaa6fb7d-429b-4171-a3a5-c677f08ce59c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_by_year
+    - taxonomy.vocabulary.achievements
+id: taxonomy_term.achievements.field_by_year
+field_name: field_by_year
+entity_type: taxonomy_term
+bundle: achievements
+label: 'By Year'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

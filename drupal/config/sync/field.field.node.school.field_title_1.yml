@@ -1,0 +1,23 @@
+uuid: 9913915f-d0d4-41b9-89e7-d7fb7dab3457
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_title_1
+    - node.type.school
+id: node.school.field_title_1
+field_name: field_title_1
+entity_type: node
+bundle: school
+label: 'Title 1'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

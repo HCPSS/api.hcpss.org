@@ -1,0 +1,22 @@
+uuid: 6b27365c-8b00-41d2-93ac-a0320cffaf60
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.administrative_building
+id: node.administrative_building.promote
+field_name: promote
+entity_type: node
+bundle: administrative_building
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

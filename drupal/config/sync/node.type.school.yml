@@ -1,0 +1,17 @@
+uuid: d22a8c14-dd74-45b5-ab59-8faf71e726af
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: School
+type: school
+description: 'An educational facility.'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: false

@@ -1,0 +1,19 @@
+uuid: a82cc1fd-e9e3-4929-844b-924362ea2261
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_administrative_cluster
+field_name: field_administrative_cluster
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

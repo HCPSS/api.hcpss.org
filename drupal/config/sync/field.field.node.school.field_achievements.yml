@@ -1,0 +1,37 @@
+uuid: bed01334-0598-4ba2-bd99-8ec1bdec4b35
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_achievements
+    - node.type.school
+    - paragraphs.paragraphs_type.award
+  module:
+    - entity_reference_revisions
+id: node.school.field_achievements
+field_name: field_achievements
+entity_type: node
+bundle: school
+label: Achievements
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      award: award
+    target_bundles_drag_drop:
+      award:
+        enabled: true
+        weight: 4
+      facility:
+        weight: 5
+        enabled: false
+      person:
+        weight: 6
+        enabled: false
+field_type: entity_reference_revisions

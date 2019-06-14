@@ -1,0 +1,27 @@
+uuid: c1fa9a6a-1f69-44ad-be0c-95192cefc517
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - parity
+_core:
+  default_config_hash: XBI8jKlRrIsIdZnglYJsg8Q_km2hjHeRzYRxQfK3nH8
+id: parity_page_title
+theme: parity
+region: content
+weight: -6
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: true
+    context_mapping: {  }

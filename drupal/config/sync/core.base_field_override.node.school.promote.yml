@@ -1,0 +1,22 @@
+uuid: 7ac7d8f3-a4a7-46f2-86a9-d3a7273483a3
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.school
+id: node.school.promote
+field_name: promote
+entity_type: node
+bundle: school
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

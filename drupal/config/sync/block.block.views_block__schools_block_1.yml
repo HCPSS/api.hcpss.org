@@ -1,0 +1,33 @@
+uuid: cf1984d0-ad23-4821-8a8f-cc97145f1347
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.schools
+  module:
+    - node
+    - views
+  theme:
+    - parity
+id: views_block__schools_block_1
+theme: parity
+region: sidebar_second
+weight: -6
+provider: null
+plugin: 'views_block:schools-block_1'
+settings:
+  id: 'views_block:schools-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: '10'
+  context_mapping: {  }
+visibility:
+  node_type:
+    id: node_type
+    bundles:
+      administrative_cluster: administrative_cluster
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

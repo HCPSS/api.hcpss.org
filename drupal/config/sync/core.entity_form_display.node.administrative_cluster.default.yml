@@ -1,0 +1,62 @@
+uuid: 52548b24-03b7-4a78-a237-db96fee89729
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.administrative_cluster.field_cluster
+    - field.field.node.administrative_cluster.field_community_superintendent
+    - field.field.node.administrative_cluster.field_pec_officer
+    - node.type.administrative_cluster
+  module:
+    - paragraphs
+id: node.administrative_cluster.default
+targetEntityType: node
+bundle: administrative_cluster
+mode: default
+content:
+  field_cluster:
+    weight: 0
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: number
+    region: content
+  field_community_superintendent:
+    weight: 1
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+    type: entity_reference_paragraphs
+    region: content
+  field_pec_officer:
+    weight: 2
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+    type: entity_reference_paragraphs
+    region: content
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+hidden:
+  created: true
+  path: true
+  promote: true
+  status: true
+  sticky: true
+  title: true
+  uid: true

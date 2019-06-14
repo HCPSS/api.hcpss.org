@@ -1,0 +1,22 @@
+uuid: 1322a221-a25b-4c39-a3d3-f2a7b53aa346
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - parity
+_core:
+  default_config_hash: s2pH5i35AoaHENW0b2iCJhQn40E5l3wXuinpAPznFDk
+id: parity_messages
+theme: parity
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,12 @@
+features:
+  node_user_picture: 1
+  comment_user_picture: 1
+  comment_user_verification: 1
+  favicon: 1
+logo:
+  use_default: 0
+  path: themes/contrib/parity/logo.png
+favicon:
+  use_default: 1
+_core:
+  default_config_hash: '-4w2QFp0LAsXdPz98TwtALhGw0NCHlTVB1rddrk72Cw'

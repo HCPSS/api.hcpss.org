@@ -1,0 +1,19 @@
+uuid: 25d10dcf-a049-49c5-96b6-f8d8fe25f1a3
+langcode: en
+status: true
+dependencies:
+  module:
+    - link
+    - node
+id: node.field_msde_report
+field_name: field_msde_report
+entity_type: node
+type: link
+settings: {  }
+module: link
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,19 @@
+uuid: a0be0225-6481-4734-a34f-9df41ce87e53
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_machine_name
+    - taxonomy.vocabulary.achievements
+id: taxonomy_term.achievements.field_machine_name
+field_name: field_machine_name
+entity_type: taxonomy_term
+bundle: achievements
+label: 'Machine Name'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

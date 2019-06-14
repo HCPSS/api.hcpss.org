@@ -1,0 +1,21 @@
+uuid: b154e443-63a8-4200-ab49-cf2e24e6fd59
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_level
+    - node.type.school
+  module:
+    - options
+id: node.school.field_level
+field_name: field_level
+entity_type: node
+bundle: school
+label: Level
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

@@ -1,0 +1,24 @@
+uuid: a71e71fd-0da0-42cd-9fa1-caee776c7934
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: btW6TFHajhy7Eo6YUvdFiPh4TcPggo8GBXYctjV6zag
+id: authenticated
+label: 'Authenticated user'
+weight: 1
+is_admin: false
+permissions:
+  - 'access comments'
+  - 'access content'
+  - 'access shortcuts'
+  - 'access site-wide contact form'
+  - 'create field_employee_id_number'
+  - 'edit field_employee_id_number'
+  - 'edit own field_employee_id_number'
+  - 'post comments'
+  - 'search content'
+  - 'skip comment approval'
+  - 'use text format basic_html'
+  - 'view field_employee_id_number'
+  - 'view own field_employee_id_number'

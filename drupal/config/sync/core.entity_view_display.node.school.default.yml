@@ -1,0 +1,184 @@
+uuid: 9345cd9e-440e-41b7-bd0d-075243b33e30
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.school.field_achievements
+    - field.field.node.school.field_acronym
+    - field.field.node.school.field_administrative_cluster
+    - field.field.node.school.field_board_cluster
+    - field.field.node.school.field_facility
+    - field.field.node.school.field_fax
+    - field.field.node.school.field_hours
+    - field.field.node.school.field_level
+    - field.field.node.school.field_mascot
+    - field.field.node.school.field_msde_report
+    - field.field.node.school.field_phone
+    - field.field.node.school.field_primary_color
+    - field.field.node.school.field_principal
+    - field.field.node.school.field_school_profile
+    - field.field.node.school.field_title_1
+    - field.field.node.school.field_walk_area_map
+    - node.type.school
+  module:
+    - color_field
+    - entity_reference_revisions
+    - link
+    - options
+    - time_field
+    - user
+id: node.school.default
+targetEntityType: node
+bundle: school
+mode: default
+content:
+  field_achievements:
+    type: entity_reference_revisions_entity_view
+    weight: 112
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: content
+  field_acronym:
+    weight: 101
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_administrative_cluster:
+    weight: 113
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_board_cluster:
+    weight: 114
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_facility:
+    type: entity_reference_revisions_entity_view
+    weight: 115
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: content
+  field_fax:
+    weight: 110
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+  field_hours:
+    weight: 104
+    label: above
+    settings:
+      time_format: 'h:i a'
+      timerange_format: 'start ~ end'
+    third_party_settings: {  }
+    type: time_range_formatter
+    region: content
+  field_level:
+    weight: 103
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+    region: content
+  field_mascot:
+    weight: 105
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_msde_report:
+    weight: 107
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  field_phone:
+    weight: 109
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+  field_primary_color:
+    weight: 102
+    label: above
+    settings:
+      format: hex
+      opacity: '1'
+    third_party_settings: {  }
+    type: color_field_formatter_text
+    region: content
+  field_principal:
+    weight: 111
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_school_profile:
+    weight: 106
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  field_title_1:
+    weight: 116
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    type: boolean
+    region: content
+  field_walk_area_map:
+    weight: 108
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

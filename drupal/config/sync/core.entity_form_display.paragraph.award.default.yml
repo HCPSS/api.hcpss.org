@@ -1,0 +1,41 @@
+uuid: 3208c6ea-c18b-4bb1-837d-f44a85f42bfe
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.award.field_achievement
+    - field.field.paragraph.award.field_years
+    - paragraphs.paragraphs_type.award
+  module:
+    - inline_entity_form
+id: paragraph.award.default
+targetEntityType: paragraph
+bundle: award
+mode: default
+content:
+  field_achievement:
+    weight: 0
+    settings:
+      form_mode: default
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: true
+      match_operator: CONTAINS
+      override_labels: false
+      collapsible: false
+      collapsed: false
+      allow_duplicate: false
+    third_party_settings: {  }
+    type: inline_entity_form_complex
+    region: content
+  field_years:
+    weight: 1
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: number
+    region: content
+hidden:
+  created: true
+  status: true

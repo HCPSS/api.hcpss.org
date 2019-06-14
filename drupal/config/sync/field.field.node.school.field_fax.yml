@@ -1,0 +1,21 @@
+uuid: 43476b68-61b0-4eb0-a762-210f8ac30732
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_fax
+    - node.type.school
+  module:
+    - telephone
+id: node.school.field_fax
+field_name: field_fax
+entity_type: node
+bundle: school
+label: Fax
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: telephone

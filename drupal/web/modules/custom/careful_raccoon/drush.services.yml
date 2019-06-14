@@ -1,0 +1,5 @@
+services:
+  careful_raccoon.commands:
+    class: \Drupal\careful_raccoon\Commands\CarefulRaccoonCommands
+    tags:
+      - { name: drush.command }

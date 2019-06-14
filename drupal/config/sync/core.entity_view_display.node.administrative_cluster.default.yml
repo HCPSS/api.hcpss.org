@@ -1,0 +1,51 @@
+uuid: 3ca442de-dc0d-4d56-85b1-0ed38006c930
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.administrative_cluster.field_cluster
+    - field.field.node.administrative_cluster.field_community_superintendent
+    - field.field.node.administrative_cluster.field_pec_officer
+    - node.type.administrative_cluster
+  module:
+    - entity_reference_revisions
+    - user
+id: node.administrative_cluster.default
+targetEntityType: node
+bundle: administrative_cluster
+mode: default
+content:
+  field_cluster:
+    weight: 101
+    label: above
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    type: number_integer
+    region: content
+  field_community_superintendent:
+    weight: 102
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    type: entity_reference_revisions_entity_view
+    region: content
+  field_pec_officer:
+    weight: 103
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    type: entity_reference_revisions_entity_view
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,23 @@
+uuid: 8e97ddf5-f751-4d5f-8c74-a04fb9ed2e1b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_msde_report
+    - node.type.school
+  module:
+    - link
+id: node.school.field_msde_report
+field_name: field_msde_report
+entity_type: node
+bundle: school
+label: 'MSDE Report'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 16
+  title: 0
+field_type: link

@@ -1,0 +1,27 @@
+uuid: 96e95699-6fa7-446b-a1a0-0b0f9f92e009
+langcode: en
+status: false
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - parity
+_core:
+  default_config_hash: CVdof-F4eO7FKjpdCyA2yBf-DWE8GbZ9Nj6REiDRfTc
+id: parity_account_menu
+theme: parity
+region: header
+weight: -3
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'User account menu'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

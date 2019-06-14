@@ -1,0 +1,23 @@
+uuid: f7d200d5-a629-42dc-b1a5-7d10ffb411c9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_cluster
+    - node.type.administrative_cluster
+id: node.administrative_cluster.field_cluster
+field_name: field_cluster
+entity_type: node
+bundle: administrative_cluster
+label: Cluster
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 1
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

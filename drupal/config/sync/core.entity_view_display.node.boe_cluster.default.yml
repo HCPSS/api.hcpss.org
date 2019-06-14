@@ -1,0 +1,38 @@
+uuid: 44e8324d-9d2b-404a-9678-54ab532fd719
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.boe_cluster.field_boe_cluster
+    - field.field.node.boe_cluster.field_representative
+    - node.type.boe_cluster
+  module:
+    - user
+id: node.boe_cluster.default
+targetEntityType: node
+bundle: boe_cluster
+mode: default
+content:
+  field_boe_cluster:
+    weight: 101
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_representative:
+    weight: 102
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,29 @@
+uuid: 7164698f-12f2-4934-8b33-1c92093473ac
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_achievement
+    - paragraphs.paragraphs_type.award
+    - taxonomy.vocabulary.achievements
+id: paragraph.award.field_achievement
+field_name: field_achievement
+entity_type: paragraph
+bundle: award
+label: Achievement
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      achievements: achievements
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

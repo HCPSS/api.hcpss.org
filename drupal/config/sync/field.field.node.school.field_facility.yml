@@ -1,0 +1,37 @@
+uuid: 247747df-4812-40dd-ad20-a72e55ba1822
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_facility
+    - node.type.school
+    - paragraphs.paragraphs_type.facility
+  module:
+    - entity_reference_revisions
+id: node.school.field_facility
+field_name: field_facility
+entity_type: node
+bundle: school
+label: Facility
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      facility: facility
+    target_bundles_drag_drop:
+      award:
+        weight: 4
+        enabled: false
+      facility:
+        enabled: true
+        weight: 5
+      person:
+        weight: 6
+        enabled: false
+field_type: entity_reference_revisions

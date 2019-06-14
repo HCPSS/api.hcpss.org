@@ -1,0 +1,9 @@
+uuid: b00724fa-257e-44c0-a473-b581eec36c23
+langcode: en
+status: true
+dependencies: {  }
+id: facility
+label: Facility
+icon_uuid: null
+description: 'Fields related to a physical facility.'
+behavior_plugins: {  }

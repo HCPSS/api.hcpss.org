@@ -1,0 +1,19 @@
+uuid: 7d88442c-e153-413d-b98a-caea2f144f4d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_boe_cluster
+    - node.type.boe_cluster
+id: node.boe_cluster.field_boe_cluster
+field_name: field_boe_cluster
+entity_type: node
+bundle: boe_cluster
+label: Cluster
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,7 @@
+status: '1'
+pattern: 'Administrative Cluster [node:field_cluster]'
+php: 0
+escape: 0
+dependencies:
+  config:
+    - node.type.administrative_custer

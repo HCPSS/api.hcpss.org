@@ -1,2 +1,7 @@
+.data
+.env
 .DS_Store
-public/
+.project
+.buildpath
+.settings
+

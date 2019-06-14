@@ -1,0 +1,5 @@
+services:
+  careful_raccoon.route_subscriber:
+    class: Drupal\careful_raccoon\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

@@ -1,0 +1,23 @@
+uuid: 851e0d07-634e-476e-a2cd-ff4d3ffe4dea
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_school_profile
+    - node.type.school
+  module:
+    - link
+id: node.school.field_school_profile
+field_name: field_school_profile
+entity_type: node
+bundle: school
+label: 'School Profile'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 16
+  title: 0
+field_type: link

@@ -1,0 +1,19 @@
+uuid: 081e4b1b-020c-4556-87c1-6958a7312e3f
+langcode: en
+status: true
+dependencies:
+  module:
+    - link
+    - node
+id: node.field_walk_area_map
+field_name: field_walk_area_map
+entity_type: node
+type: link
+settings: {  }
+module: link
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,33 @@
+uuid: 19a4b5cf-cdac-47e4-8945-8b4c8ef5cd0c
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_level
+field_name: field_level
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: es
+      label: 'Elementary School'
+    -
+      value: ms
+      label: 'Middle School'
+    -
+      value: hs
+      label: 'High School'
+    -
+      value: ec
+      label: 'Education Center'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
