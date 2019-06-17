@@ -1,0 +1,7 @@
+{{- $facilities := where (where .Site.Pages "Section" "facilities") "Kind" "page" -}}
+[
+	{{- range $index, $facility := $facilities -}}
+		{{- if $index -}},{{- end -}}
+		{{- partial "facility.json" . -}}
+	{{- end -}}
+]

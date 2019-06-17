@@ -1,0 +1,17 @@
+{
+    "name": "{{ .Params.name }}",
+    "address": {
+		"street": "{{ .Params.address.street }}",
+		"city": "{{ .Params.address.city }}",
+		"state": "MD",
+		"postal_code": "{{ .Params.address.postal_code }}",
+		"latitude": "{{ .Params.address.latitude }}",
+		"longitude": "{{ .Params.address.longitude }}"
+    },
+    "environment": {
+		"water": {
+			"source": "{{ .Params.environment.water.source }}",
+			"extended_testing": {{ .Params.environment.water.extended_testing }}
+		}
+	}
+}
