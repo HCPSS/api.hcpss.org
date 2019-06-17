@@ -8,6 +8,8 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Drupal\careful_raccoon\Normalizer\LegacySchoolNormalizer;
+use Drupal\Core\Cache\CacheableJsonResponse;
+use Drupal\Core\Cache\CacheableMetadata;
 
 class LegacyController extends ControllerBase {
   
@@ -18,6 +20,8 @@ class LegacyController extends ControllerBase {
    * @return \Symfony\Component\HttpFoundation\JsonResponse
    */
   public function schools(Request $request) {
+    $meta = new CacheableMetadata();
+      
     $data = [
       "school_bus_locator" => "https://www.infofinderi.com/ifi/?cid=HCP2IOASIJVW",
       "online_payments" => "https://osp.osmsinc.com/HowardMD/BVModules/CategoryTemplates/Detailed%20List%20with%20Properties/Category.aspx?categoryid=DA011",
@@ -32,9 +36,15 @@ class LegacyController extends ControllerBase {
     
     foreach ($schools as $school) {
       $data['schools'][$school->field_level->value][] = $school->field_acronym->value;
+      
+      $meta->merge(CacheableMetadata::createFromObject($school));
     }
     
-    return new JsonResponse($data);
+    $response = new CacheableJsonResponse($data);
+    
+    $response->addCacheableDependency($meta);
+    
+    return $response;
   }
   
   /**
@@ -59,7 +69,13 @@ class LegacyController extends ControllerBase {
     
     $node = Node::load(array_shift($nids));
     $normalizer = new LegacySchoolNormalizer();
+    $data = $normalizer->normalize($node);
     
-    return new JsonResponse($normalizer->normalize($node));
+    $response = new CacheableJsonResponse($data);    
+    $meta = CacheableMetadata::createFromObject($node);
+    $meta->setCacheMaxAge(3600 * 24);
+    $response->addCacheableDependency($meta);
+    
+    return $response;
   }
 }
