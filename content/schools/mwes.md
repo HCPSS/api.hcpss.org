@@ -18,7 +18,7 @@ hours:
   open: '8:45 a.m.'
   close: '3:15 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_manorwoods.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_manorwoods.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0305/'
 walk_area: null
 title_1: false
 cluster: 3

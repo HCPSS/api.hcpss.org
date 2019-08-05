@@ -18,7 +18,7 @@ hours:
   open: '9:20 a.m.'
   close: '3:50 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_bushypark.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_bushypark.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0406/'
 walk_area: null
 title_1: false
 cluster: 2

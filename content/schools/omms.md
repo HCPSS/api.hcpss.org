@@ -18,7 +18,7 @@ hours:
   open: '7:55 a.m.'
   close: '2:40 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_oaklandmills.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ms_oaklandmills.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0610/'
 walk_area: 'http://www.hcpss.org/f/schools/oakland-mills-ms-walk-area.pdf'
 title_1: false
 cluster: 2

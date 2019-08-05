@@ -18,7 +18,7 @@ hours:
   open: '9:00 a.m.'
   close: '3:30 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_hammond.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_hammond.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0606/'
 walk_area: 'http://www.hcpss.org/f/schools/hammond-es-walk-area.pdf'
 title_1: false
 cluster: 1

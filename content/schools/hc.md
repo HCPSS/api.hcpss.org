@@ -18,7 +18,7 @@ hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
 profile: null
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ec_homewood.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0080/'
 walk_area: null
 title_1: false
 cluster: 1

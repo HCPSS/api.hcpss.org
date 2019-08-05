@@ -18,7 +18,7 @@ hours:
   open: '7:40 a.m.'
   close: '2:25 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_glenwood.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ms_glenwood.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0405/'
 walk_area: null
 title_1: false
 cluster: 2

@@ -18,7 +18,7 @@ hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_hs_glenelg.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_hs_glenelg.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0404/'
 walk_area: 'http://www.hcpss.org/f/schools/glenelg-hs-walk-area.pdf'
 title_1: false
 cluster: 2

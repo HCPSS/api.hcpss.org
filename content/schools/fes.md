@@ -18,7 +18,7 @@ hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_fulton.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_fulton.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0525/'
 walk_area: 'http://www.hcpss.org/f/schools/fulton-es-walk-area.pdf'
 title_1: false
 cluster: 1

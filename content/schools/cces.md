@@ -18,7 +18,7 @@ hours:
   open: '9:15 a.m.'
   close: '3:45 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_clemenscrossing.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_es_clemenscrossing.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0520/'
 walk_area: 'http://www.hcpss.org/f/schools/clemens-crossing-es-walk-area.pdf'
 title_1: false
 cluster: 3

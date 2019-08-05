@@ -18,7 +18,7 @@ hours:
   open: '8:25 a.m.'
   close: '3:10 p.m.'
 profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_clarksville.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ms_clarksville.pdf'
+msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0521/'
 walk_area: 'http://www.hcpss.org/f/schools/clarksville-ms-walk-area.pdf'
 title_1: false
 cluster: 1
