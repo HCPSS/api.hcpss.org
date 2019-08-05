@@ -17,9 +17,9 @@ principal: 'Lisa Booth'
 hours:
   open: '8:45 a.m.'
   close: '3:15 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_hollifieldstation.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_hollifieldstation.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0217/'
-walk_area: 'http://www.hcpss.org/f/schools/hollifield-station-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/hollifield-station-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F

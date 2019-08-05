@@ -17,7 +17,7 @@ principal: 'Paul Owens'
 hours:
   open: '7:55 a.m.'
   close: '2:25 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ec_cedarlane.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ec_cedarlane.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0522/'
 walk_area: null
 title_1: false

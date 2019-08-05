@@ -17,9 +17,9 @@ principal: 'Martha Bowen'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_thunderhill.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_thunderhill.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0605/'
-walk_area: 'http://www.hcpss.org/f/schools/thunder-hill-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/thunder-hill-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: A

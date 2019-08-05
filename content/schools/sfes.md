@@ -17,9 +17,9 @@ principal: 'Ernesto Diaz'
 hours:
   open: '9:00 a.m.'
   close: '3:30 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_stevensforest.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_stevensforest.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0204/'
-walk_area: 'http://www.hcpss.org/f/schools/stevens-forest-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/stevens-forest-es-walk-area.pdf'
 title_1: true
 cluster: 2
 boe_cluster: A

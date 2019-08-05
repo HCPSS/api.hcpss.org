@@ -17,7 +17,7 @@ principal: 'Robert Motley'
 hours:
   open: '7:40 a.m.'
   close: '2:25 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_glenwood.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_glenwood.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0405/'
 walk_area: null
 title_1: false

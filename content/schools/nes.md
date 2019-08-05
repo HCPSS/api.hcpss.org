@@ -17,9 +17,9 @@ principal: 'Tiffany Tresler'
 hours:
   open: '8:40 a.m.'
   close: '3:10 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_northfield.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_northfield.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0208/'
-walk_area: 'http://www.hcpss.org/f/schools/northfield-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/northfield-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F

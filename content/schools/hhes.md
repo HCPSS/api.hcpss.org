@@ -19,7 +19,7 @@ hours:
   close: '3:20 p.m.'
 profile: null
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0111/'
-walk_area: 'http://www.hcpss.org/f/schools/hanover-hills-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/hanover-hills-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B

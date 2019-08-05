@@ -17,9 +17,9 @@ principal: 'Melissa Shindel'
 hours:
   open: '8:00 a.m.'
   close: '2:45 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_mayfieldwoods.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_mayfieldwoods.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0104/'
-walk_area: 'http://www.hcpss.org/f/schools/mayfield-woods-ms-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/mayfield-woods-ms-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B

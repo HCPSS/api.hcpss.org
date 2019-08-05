@@ -17,7 +17,7 @@ principal: 'Scott Conroy'
 hours:
   open: '7:40 a.m.'
   close: '2:25 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_follyquarter.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_follyquarter.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0307/'
 walk_area: null
 title_1: false

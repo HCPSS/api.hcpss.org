@@ -17,8 +17,8 @@ principal: 'Karl Schindler'
 hours:
   open: null
   close: null
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ec_arl.pdf'
-msde_report: 'http://www.hcpss.org/f/schools/performance/ispr_en_ec_arl.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ec_arl.pdf'
+msde_report: 'https://www.hcpss.org/f/schools/performance/ispr_en_ec_arl.pdf'
 walk_area: null
 title_1: false
 cluster: 1

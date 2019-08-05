@@ -17,9 +17,9 @@ principal: 'Christopher Rattay'
 hours:
   open: '8:25 a.m.'
   close: '3:10 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_ellicottmills.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_ellicottmills.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0202/'
-walk_area: 'http://www.hcpss.org/f/schools/ellicott-mills-ms-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/ellicott-mills-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: B

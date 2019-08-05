@@ -17,9 +17,9 @@ principal: 'Laurel Marsh'
 hours:
   open: '8:55 a.m.'
   close: '3:25 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_longfellow.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_longfellow.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0514/'
-walk_area: 'http://www.hcpss.org/f/schools/longfellow-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/longfellow-es-walk-area.pdf'
 title_1: true
 cluster: 3
 boe_cluster: C

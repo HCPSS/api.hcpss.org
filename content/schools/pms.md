@@ -17,9 +17,9 @@ principal: 'Cynthia Dillon'
 hours:
   open: '8:05 a.m.'
   close: '2:50 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_patapsco.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_patapsco.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0610/'
-walk_area: 'http://www.hcpss.org/f/schools/patapsco-ms-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/patapsco-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: F

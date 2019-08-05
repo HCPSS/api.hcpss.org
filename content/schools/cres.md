@@ -17,9 +17,9 @@ principal: 'Jason McCoy'
 hours:
   open: '8:15 a.m.'
   close: '2:45 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_cradlerock.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_cradlerock.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0616/'
-walk_area: 'http://www.hcpss.org/f/schools/cradlerock-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/cradlerock-es-walk-area.pdf'
 title_1: true
 cluster: 2
 boe_cluster: A

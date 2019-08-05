@@ -17,9 +17,9 @@ principal: 'Cher Jones'
 hours:
   open: '8:10 a.m.'
   close: '2:55 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_bonniebranch.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_bonniebranch.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0108/'
-walk_area: 'http://www.hcpss.org/f/schools/bonnie-branch-ms-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/bonnie-branch-ms-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: E

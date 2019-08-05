@@ -17,9 +17,9 @@ principal: 'Allen Cosentino'
 hours:
   open: '7:40 a.m.'
   close: '2:25 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_ms_mountview.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_mountview.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0304/'
-walk_area: 'http://www.hcpss.org/f/schools/mount-view-ms-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/mount-view-ms-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: E

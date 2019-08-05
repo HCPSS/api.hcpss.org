@@ -17,9 +17,9 @@ principal: 'Joy Byrd-Butler'
 hours:
   open: '9:25 a.m.'
   close: '3:55 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_ilchester.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_ilchester.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0107/'
-walk_area: 'http://www.hcpss.org/f/schools/ilchester-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/ilchester-es-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: E

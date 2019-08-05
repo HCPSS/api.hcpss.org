@@ -17,9 +17,9 @@ principal: 'Shawna Holden'
 hours:
   open: '9:15 a.m.'
   close: '3:45 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_atholton.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_atholton.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0603/'
-walk_area: 'http://www.hcpss.org/f/schools/atholton-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/atholton-es-walk-area.pdf'
 title_1: false
 cluster: 1
 boe_cluster: A

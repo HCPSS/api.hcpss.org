@@ -17,9 +17,9 @@ principal: 'Kathy Jacobs'
 hours:
   open: '9:15 a.m.'
   close: '3:45 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_es_waverly.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_waverly.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0215/'
-walk_area: 'http://www.hcpss.org/f/schools/waverly-es-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/waverly-es-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: E

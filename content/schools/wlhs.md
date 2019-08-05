@@ -17,9 +17,9 @@ principal: 'James LeMon'
 hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_hs_wildelake.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_wildelake.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0516/'
-walk_area: 'http://www.hcpss.org/f/schools/wilde-lake-hs-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/wilde-lake-hs-walk-area.pdf'
 title_1: false
 cluster: 3
 boe_cluster: C

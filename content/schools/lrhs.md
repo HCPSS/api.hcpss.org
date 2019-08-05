@@ -17,9 +17,9 @@ principal: 'Josh Wasilewski'
 hours:
   open: '7:25 a.m.'
   close: '2:10 p.m.'
-profile: 'http://www.hcpss.org/f/schools/profiles/prof_hs_longreach.pdf'
+profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_longreach.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0623/'
-walk_area: 'http://www.hcpss.org/f/schools/long-reach-hs-walk-area.pdf'
+walk_area: 'https://www.hcpss.org/f/schools/long-reach-hs-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: B
