@@ -21,7 +21,7 @@ profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_wildelake.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0516/'
 walk_area: 'https://www.hcpss.org/f/schools/wilde-lake-hs-walk-area.pdf'
 title_1: false
-cluster: 3
+cluster: 1
 boe_cluster: C
 environment:
   water:

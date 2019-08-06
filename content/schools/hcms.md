@@ -21,7 +21,7 @@ profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_harperschoice.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0518/'
 walk_area: 'https://www.hcpss.org/f/schools/harpers-choice-ms-walk-area.pdf'
 title_1: false
-cluster: 3
+cluster: 1
 boe_cluster: C
 environment:
   water:

@@ -21,7 +21,7 @@ profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_clemenscrossing.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0520/'
 walk_area: 'https://www.hcpss.org/f/schools/clemens-crossing-es-walk-area.pdf'
 title_1: false
-cluster: 3
+cluster: 1
 boe_cluster: C
 environment:
   water:

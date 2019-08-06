@@ -21,7 +21,7 @@ profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_laurelwoods.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0618/'
 walk_area: 'https://www.hcpss.org/f/schools/laurel-woods-es-walk-area.pdf'
 title_1: true
-cluster: 1
+cluster: 2
 boe_cluster: D
 environment:
   water:

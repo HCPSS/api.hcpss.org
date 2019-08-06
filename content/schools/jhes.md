@@ -21,7 +21,7 @@ profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_jeffershill.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0613/'
 walk_area: 'https://www.hcpss.org/f/schools/jeffers-hill-es-walk-area.pdf'
 title_1: false
-cluster: 2
+cluster: 3
 boe_cluster: A
 environment:
   water:

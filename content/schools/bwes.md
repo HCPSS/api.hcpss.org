@@ -21,7 +21,7 @@ profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_bryantwoods.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0510/'
 walk_area: 'https://www.hcpss.org/f/schools/bryant-woods-es-walk-area.pdf'
 title_1: true
-cluster: 3
+cluster: 1
 boe_cluster: C
 environment:
   water:
