@@ -19,7 +19,7 @@ hours:
   close: '2:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_howard.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0203/'
-walk_area: null
+walk_area: 'https://www.hcpss.org/f/schools/howard-hs-walk-area.pdf'
 title_1: false
 cluster: 2
 boe_cluster: E
