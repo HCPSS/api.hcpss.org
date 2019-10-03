@@ -21,7 +21,7 @@ profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_thunderhill.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0605/'
 walk_area: 'https://www.hcpss.org/f/schools/thunder-hill-es-walk-area.pdf'
 title_1: false
-cluster: 2
+cluster: 3
 boe_cluster: A
 environment:
   water:
