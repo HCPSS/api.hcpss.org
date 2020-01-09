@@ -16,7 +16,6 @@ description: ''
 tag: ''
 base_table: paragraphs_item_field_data
 base_field: id
-core: 8.x
 display:
   default:
     display_plugin: default
@@ -158,6 +157,8 @@ display:
           id: status
           expose:
             operator: ''
+            operator_limit_selection: false
+            operator_list: {  }
           group: 1
         type:
           id: type
@@ -168,6 +169,9 @@ display:
           entity_type: paragraph
           entity_field: type
           plugin_id: bundle
+          expose:
+            operator_limit_selection: false
+            operator_list: {  }
         title:
           id: title
           table: node_field_data
@@ -194,6 +198,8 @@ display:
               anonymous: '0'
               administrator: '0'
             placeholder: ''
+            operator_limit_selection: false
+            operator_list: {  }
           is_grouped: false
           group_info:
             label: ''
