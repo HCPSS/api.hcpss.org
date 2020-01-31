@@ -18,7 +18,7 @@ services:
     container_name: careful_raccoon_web
     depends_on:
       - db
-    image: reg.hcpss.org/careful_raccoon/web
+    image: reg.hcpss.org/api/web:dev
     build:
       context: .
       dockerfile: ./docker/web/Dockerfile
@@ -32,4 +32,5 @@ services:
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
       MYSQL_PORT: ${MYSQL_PORT}
       MYSQL_HOSTNAME: ${MYSQL_HOSTNAME}
-      DRUPAL_ENV: dev
+      DRUPAL_ENV: ${DRUPAL_ENV}
+      DRUPAL_SALT: ${DRUPAL_SALT} 

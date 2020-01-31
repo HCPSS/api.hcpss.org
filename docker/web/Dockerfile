@@ -12,7 +12,7 @@ COPY drupal/drush                          /var/www/drupal/drush
 COPY drupal/composer.json                  /var/www/drupal/composer.json
 COPY drupal/composer.lock                  /var/www/drupal/composer.lock
 COPY drupal/config                         /var/www/drupal/config
-COPY drupal/web/sites/default/settings.php /var/www/drupal/web/sites/default/settings.php
+#COPY drupal/web/sites/default/settings.php /var/www/drupal/web/sites/default/settings.php
 COPY drupal/web/robots.txt                 /var/www/drupal/web/robots.txt
 COPY drupal/load.environment.php           /var/www/drupal/load.environment.php
 
