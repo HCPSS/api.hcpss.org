@@ -55,14 +55,14 @@ class LegacySchoolNormalizer {
       'administrative_cluster' => [
         'cluster' => (int)$admin_cluster->field_cluster->value,
         'community_superintendent' => [
-          'name'  => $node->field_administrative_cluster->entity->field_community_superintendent->name,
-          'phone' => $node->field_administrative_cluster->entity->field_community_superintendent->phone,
-          'email' => $node->field_administrative_cluster->entity->field_community_superintendent->email,
+          'name'  => $admin_cluster->field_community_superintendent->name,
+          'phone' => $admin_cluster->field_community_superintendent->phone,
+          'email' => $admin_cluster->field_community_superintendent->email,
         ],
         'pec_officer' => [
-          'name'  => $node->field_administrative_cluster->entity->field_pec_officer->name,
-          'phone' => $node->field_administrative_cluster->entity->field_pec_officer->phone,
-          'email' => $node->field_administrative_cluster->entity->field_pec_officer->email,
+          'name'  => $admin_cluster->field_pec_officer->name,
+          'phone' => $admin_cluster->field_pec_officer->phone,
+          'email' => $admin_cluster->field_pec_officer->email,
         ],
       ],
       'boe_cluster' => [
