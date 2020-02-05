@@ -3,6 +3,8 @@
 	"name": "{{ .school.name }}",
 	"full_name": "{{ .school.full_name }}",
 	"primary_color": "{{ .school.primary_color }}",
+	"secondary_color": "{{ .school.secondary_color }}",
+	"highlight_color": "{{ .school.highlight_color }}",
 	"level": "{{ .school.level }}",
 	"contact": {
 		"phone": "{{ .school.contact.phone }}",

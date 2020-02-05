@@ -3,6 +3,8 @@ acronym: emms
 name: 'Ellicott Mills'
 full_name: 'Ellicott Mills Middle School'
 primary_color: 'rgb(0, 51, 153)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(102,153,204)'
 level: ms
 contact:
   phone: 410-313-2839

@@ -3,6 +3,8 @@ acronym: dles
 name: 'Ducketts Lane'
 full_name: 'Ducketts Lane Elementary School'
 primary_color: 'rgb(0, 102, 153)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,102,153)'
 level: es
 contact:
   phone: 410-313-5050

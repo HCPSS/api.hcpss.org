@@ -3,6 +3,8 @@ acronym: woes
 name: Worthington
 full_name: 'Worthington Elementary School'
 primary_color: 'rgb(0, 153, 204)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,153,204)'
 level: es
 contact:
   phone: 410-313-2825

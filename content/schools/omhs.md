@@ -3,6 +3,8 @@ acronym: omhs
 name: 'Oakland Mills'
 full_name: 'Oakland Mills High School'
 primary_color: 'rgb(0, 0, 0)'
+secondary_color: 'rgb(246,97,27)'
+highlight_color: 'rgb(246,97,27)'
 level: hs
 contact:
   phone: 410-313-6945

@@ -3,6 +3,8 @@ acronym: ses
 name: Swansfield
 full_name: 'Swansfield Elementary School'
 primary_color: 'rgb(0, 51, 102)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,51,102)'
 level: es
 contact:
   phone: 410-313-6907

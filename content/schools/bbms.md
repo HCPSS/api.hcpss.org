@@ -3,6 +3,8 @@ acronym: bbms
 name: 'Bonnie Branch'
 full_name: 'Bonnie Branch Middle School'
 primary_color: 'rgb(0,0,153)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,0,153)'
 level: ms
 contact:
   phone: 410-313-2580

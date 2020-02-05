@@ -3,6 +3,8 @@ acronym: mvms
 name: 'Mount View'
 full_name: 'Mount View Middle School'
 primary_color: 'rgb(153, 102, 153)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(153,102,153)'
 level: ms
 contact:
   phone: 410-313-5545

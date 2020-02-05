@@ -3,6 +3,8 @@ acronym: lrhs
 name: 'Long Reach'
 full_name: 'Long Reach High School'
 primary_color: 'rgb(119, 73, 168)'
+secondary_color: 'rgb(119,7,)'
+highlight_color: 'rgb(71,10,104)'
 level: hs
 contact:
   phone: 410-313-7117

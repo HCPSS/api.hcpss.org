@@ -3,6 +3,8 @@ acronym: cls
 name: 'Cedar Lane School'
 full_name: 'Cedar Lane School'
 primary_color: 'rgb(0, 102, 204)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,102,204)'
 level: ec
 contact:
   phone: 410-888-8800
@@ -28,5 +30,5 @@ environment:
     source: city
     extended_testing: false
 mascot: Bulldogs
-achievements: []
+achievements: {  }
 ---

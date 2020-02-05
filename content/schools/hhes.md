@@ -3,13 +3,15 @@ acronym: hhes
 name: 'Hanover Hills'
 full_name: 'Hanover Hills Elementary School'
 primary_color: 'rgb(160, 215, 251)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,44,119)'
 level: es
 contact:
   phone: 410-313-8066
   fax: 410-712-0296
 address:
   street: '7030 Banbury Drive'
-  city: 'Hanover'
+  city: Hanover
   postal_code: 21076
   latitude: '39.1852463'
   longitude: '-76.7398292'
@@ -27,6 +29,6 @@ environment:
   water:
     source: city
     extended_testing: false
-mascot: 'Huskies'
-achievements: []
+mascot: Huskies
+achievements: {  }
 ---

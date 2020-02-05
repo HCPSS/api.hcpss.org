@@ -3,6 +3,8 @@ acronym: ghs
 name: Glenelg
 full_name: 'Glenelg High School'
 primary_color: 'rgb(189, 0, 32)'
+secondary_color: 'rgb(0,0,0)'
+highlight_color: 'rgb(189,0,32)'
 level: hs
 contact:
   phone: 410-313-5528
@@ -28,5 +30,5 @@ environment:
     source: well
     extended_testing: true
 mascot: Gladiators
-achievements: []
+achievements: {  }
 ---

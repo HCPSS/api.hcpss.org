@@ -3,6 +3,8 @@ acronym: mwms
 name: 'Mayfield Woods'
 full_name: 'Mayfield Woods Middle School'
 primary_color: 'rgb(0,0,0)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(214,214,214)'
 level: ms
 contact:
   phone: 410-313-5022

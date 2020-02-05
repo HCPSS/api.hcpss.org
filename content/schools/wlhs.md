@@ -3,6 +3,8 @@ acronym: wlhs
 name: 'Wilde Lake'
 full_name: 'Wilde Lake High School'
 primary_color: 'rgb(30, 105, 7)'
+secondary_color: 'rgb(250,218,32)'
+highlight_color: 'rgb(30,105,7)'
 level: hs
 contact:
   phone: 410-313-6965

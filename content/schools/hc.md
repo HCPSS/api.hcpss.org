@@ -3,6 +3,8 @@ acronym: hc
 name: 'Homewood Center'
 full_name: 'Homewood Center'
 primary_color: 'rgb(134, 0, 7)'
+secondary_color: 'rgb(255,215,95)'
+highlight_color: 'rgb(134,0,7)'
 level: ec
 contact:
   phone: 410-313-7081

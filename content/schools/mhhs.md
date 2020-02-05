@@ -3,6 +3,8 @@ acronym: mhhs
 name: 'Mount Hebron'
 full_name: 'Mount Hebron High School'
 primary_color: 'rgb(0, 0, 0)'
+secondary_color: 'rgb(242,183,0)'
+highlight_color: 'rgb(242,183,0)'
 level: hs
 contact:
   phone: 410-313-2880

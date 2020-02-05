@@ -3,6 +3,8 @@ acronym: mrhs
 name: 'Marriotts Ridge'
 full_name: 'Marriotts Ridge High School'
 primary_color: 'rgb(19, 44, 97)'
+secondary_color: 'rgb(119,7,)'
+highlight_color: 'rgb(19,44,97)'
 level: hs
 contact:
   phone: 410-313-5568

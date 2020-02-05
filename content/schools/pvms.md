@@ -3,6 +3,8 @@ acronym: pvms
 name: 'Patuxent Valley'
 full_name: 'Patuxent Valley Middle School'
 primary_color: 'rgb(0,51,102)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,51,102)'
 level: ms
 contact:
   phone: 410-880-5840

@@ -3,6 +3,8 @@ acronym: omms
 name: 'Oakland Mills'
 full_name: 'Oakland Mills Middle School'
 primary_color: 'rgb(153,0,0)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(153,0,0)'
 level: ms
 contact:
   phone: 410-313-6937

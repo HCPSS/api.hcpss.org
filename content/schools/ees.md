@@ -3,13 +3,15 @@ acronym: ees
 name: Elkridge
 full_name: 'Elkridge Elementary School'
 primary_color: 'rgb(0, 102, 204)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,102,204)'
 level: es
 contact:
   phone: 410-313-5006
   fax: 410-313-5074
 address:
   street: '7075 Montgomery Road'
-  city: 'Elkridge'
+  city: Elkridge
   postal_code: 21075
   latitude: '39.2564951'
   longitude: '-76.8343849'

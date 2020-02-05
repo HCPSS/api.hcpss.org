@@ -3,6 +3,8 @@ acronym: hohs
 name: Howard
 full_name: 'Howard High School'
 primary_color: 'rgb(24, 52, 99)'
+secondary_color: 'rgb(100,100,100)'
+highlight_color: 'rgb(24,52,99)'
 level: hs
 contact:
   phone: 410-313-2867

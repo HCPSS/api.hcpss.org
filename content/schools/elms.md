@@ -3,13 +3,15 @@ acronym: elms
 name: 'Elkridge Landing'
 full_name: 'Elkridge Landing Middle School'
 primary_color: 'rgb(102, 0, 0)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(102,0,0)'
 level: ms
 contact:
   phone: 410-313-5040
   fax: 410-313-5045
 address:
   street: '7085 Montgomery Road'
-  city: 'Elkridge'
+  city: Elkridge
   postal_code: 21075
   latitude: '39.2123186'
   longitude: '-76.7314836'

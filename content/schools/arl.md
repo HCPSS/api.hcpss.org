@@ -3,6 +3,8 @@ acronym: arl
 name: 'Applications and Research Lab'
 full_name: 'Applications and Research Lab'
 primary_color: 'rgb(12,103,151)'
+secondary_color: 'rgb(104,154,202)'
+highlight_color: 'rgb(12,103,151)'
 level: ec
 contact:
   phone: 410-313-6998
@@ -28,5 +30,5 @@ environment:
     source: city
     extended_testing: false
 mascot: null
-achievements: []
+achievements: {  }
 ---

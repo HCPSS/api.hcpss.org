@@ -3,6 +3,8 @@ acronym: chs
 name: Centennial
 full_name: 'Centennial High School'
 primary_color: 'rgb(0, 44, 119)'
+secondary_color: 'rgb(183,3,32)'
+highlight_color: 'rgb(0,44,119)'
 level: hs
 contact:
   phone: 410-313-2856

@@ -3,6 +3,8 @@ acronym: hahs
 name: Hammond
 full_name: 'Hammond High School'
 primary_color: 'rgb(133, 0, 0)'
+secondary_color: 'rgb(255,215,95)'
+highlight_color: 'rgb(133,0,0)'
 level: hs
 contact:
   phone: 410-313-7615

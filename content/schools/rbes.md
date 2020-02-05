@@ -3,6 +3,8 @@ acronym: rbes
 name: 'Running Brook'
 full_name: 'Running Brook Elementary School'
 primary_color: 'rgb(87, 60, 103)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(87,60,103)'
 level: es
 contact:
   phone: 410-313-6893

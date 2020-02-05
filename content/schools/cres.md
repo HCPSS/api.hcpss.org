@@ -3,6 +3,8 @@ acronym: cres
 name: Cradlerock
 full_name: 'Cradlerock Elementary School'
 primary_color: 'rgb(0, 0, 204)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,0,153)'
 level: es
 contact:
   phone: 410-313-7610

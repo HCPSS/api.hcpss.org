@@ -3,6 +3,8 @@ acronym: rhs
 name: Reservoir
 full_name: 'Reservoir High School'
 primary_color: 'rgb(58, 76, 148)'
+secondary_color: 'rgb(235,147,57)'
+highlight_color: 'rgb(235,147,57)'
 level: hs
 contact:
   phone: 410-888-8850

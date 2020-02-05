@@ -3,6 +3,8 @@ acronym: bwes
 name: 'Bryant Woods'
 full_name: 'Bryant Woods Elementary School'
 primary_color: 'rgb(0, 102, 51)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,102,51)'
 level: es
 contact:
   phone: 410-313-6859

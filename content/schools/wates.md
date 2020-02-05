@@ -3,6 +3,8 @@ acronym: wates
 name: Waterloo
 full_name: 'Waterloo Elementary School'
 primary_color: 'rgb(153, 0, 0)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(153,0,0)'
 level: es
 contact:
   phone: 410-313-5014

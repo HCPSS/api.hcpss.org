@@ -3,6 +3,8 @@ acronym: bbes
 name: 'Bollman Bridge'
 full_name: 'Bollman Bridge Elementary School'
 primary_color: 'rgb(0,51,102)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(214,214,214)'
 level: es
 contact:
   phone: 410-880-5920

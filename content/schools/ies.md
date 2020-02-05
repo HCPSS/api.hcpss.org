@@ -3,6 +3,8 @@ acronym: ies
 name: Ilchester
 full_name: 'Ilchester Elementary School'
 primary_color: 'rgb(0, 102, 102)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,102,102)'
 level: es
 contact:
   phone: 410-313-2524

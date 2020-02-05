@@ -3,6 +3,8 @@ acronym: ples
 name: 'Phelps Luck'
 full_name: 'Phelps Luck Elementary School'
 primary_color: 'rgb(153, 0, 0)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(153,0,0)'
 level: es
 contact:
   phone: 410-313-6886

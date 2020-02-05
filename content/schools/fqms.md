@@ -3,6 +3,8 @@ acronym: fqms
 name: 'Folly Quarter'
 full_name: 'Folly Quarter Middle School'
 primary_color: 'rgb(0, 51, 153)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,51,153)'
 level: ms
 contact:
   phone: 410-313-1506

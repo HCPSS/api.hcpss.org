@@ -3,6 +3,8 @@ acronym: hms
 name: Hammond
 full_name: 'Hammond Middle School'
 primary_color: 'rgb(0, 102, 204)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(0,102,204)'
 level: ms
 contact:
   phone: 410-880-5830

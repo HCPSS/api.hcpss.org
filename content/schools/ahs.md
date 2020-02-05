@@ -3,6 +3,8 @@ acronym: ahs
 name: Atholton
 full_name: 'Atholton High School'
 primary_color: 'rgb(114,157,79)'
+secondary_color: 'rgb(91,125,63)'
+highlight_color: 'rgb(114,157,79)'
 level: hs
 contact:
   phone: 410-313-7065

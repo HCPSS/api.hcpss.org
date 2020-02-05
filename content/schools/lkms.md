@@ -3,6 +3,8 @@ acronym: lkms
 name: 'Lime Kiln'
 full_name: 'Lime Kiln Middle School'
 primary_color: 'rgb(102, 153, 102)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(102,153,102)'
 level: ms
 contact:
   phone: 410-880-5988

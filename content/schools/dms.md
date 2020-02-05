@@ -3,6 +3,8 @@ acronym: dms
 name: Dunloggin
 full_name: 'Dunloggin Middle School'
 primary_color: 'rgb(102, 0, 0)'
+secondary_color: 'rgb(214,214,214)'
+highlight_color: 'rgb(102,0,0)'
 level: ms
 contact:
   phone: 410-313-2831

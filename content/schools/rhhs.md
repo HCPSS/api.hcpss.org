@@ -3,6 +3,8 @@ acronym: rhhs
 name: 'River Hill'
 full_name: 'River Hill High School'
 primary_color: 'rgb(80, 171, 221)'
+secondary_color: 'rgb(255,255,135)'
+highlight_color: 'rgb(80,171,221)'
 level: hs
 contact:
   phone: 410-313-7120
