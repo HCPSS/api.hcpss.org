@@ -9,19 +9,16 @@ class LegacySchoolNormalizer {
 
   /**
    * Perform the normalization.
-   * 
+   *
    * @param NodeInterface $node
    * @return array
    */
   public function normalize(NodeInterface $node) : array {
-    $point           = $node->field_facility->entity->field_geo_location->value;
+    $point           = $node->field_geo_location->value;
     list($lon, $lat) = $this->getLonLatFromPoint($point);
-    $facility        = $node->field_facility->entity;
     $admin_cluster   = $node->field_administrative_cluster->entity;
-    $comm_super      = $admin_cluster->field_community_superintendent->entity;
-    $pec_officer     = $admin_cluster->field_pec_officer->entity;
     $board_cluster   = $node->field_board_cluster->entity;
-    
+
     $data = [
       'acronym'       => $node->field_acronym->value,
       'name'          => $this->getShortName($node->getTitle()),
@@ -33,9 +30,9 @@ class LegacySchoolNormalizer {
         'fax'   => $node->field_fax->value,
       ],
       'address' => [
-        'street'      => $facility->field_address->address_line1,
-        'city'        => $facility->field_address->locality,
-        'postal_code' => $facility->field_address->postal_code,
+        'street'      => $node->field_address->address_line1,
+        'city'        => $node->field_address->locality,
+        'postal_code' => $node->field_address->postal_code,
         'latitude'    => $lat,
         'longitude'   => $lon,
       ],
@@ -46,8 +43,8 @@ class LegacySchoolNormalizer {
       ],
       'environment' => [
         'water' => [
-          'source'           => $facility->field_water_source->value,
-          'extended_testing' => (bool)$facility->field_extended_water_testing->value,
+          'source'           => $node->field_well_water->value ? 'well' : 'city',
+          'extended_testing' => (bool)$node->field_well_water->value,
         ],
       ],
       'mascot'      => $node->field_mascot->value,
@@ -58,14 +55,14 @@ class LegacySchoolNormalizer {
       'administrative_cluster' => [
         'cluster' => (int)$admin_cluster->field_cluster->value,
         'community_superintendent' => [
-          'name'  => $comm_super->field_name->value,
-          'phone' => $comm_super->field_phone->value,
-          'email' => $comm_super->field_email->value,
+          'name'  => $node->field_administrative_cluster->entity->field_community_superintendent->name,
+          'phone' => $node->field_administrative_cluster->entity->field_community_superintendent->phone,
+          'email' => $node->field_administrative_cluster->entity->field_community_superintendent->email,
         ],
         'pec_officer' => [
-          'name'  => $pec_officer->field_name->value,
-          'phone' => $pec_officer->field_phone->value,
-          'email' => $pec_officer->field_email->value,
+          'name'  => $node->field_administrative_cluster->entity->field_pec_officer->name,
+          'phone' => $node->field_administrative_cluster->entity->field_pec_officer->phone,
+          'email' => $node->field_administrative_cluster->entity->field_pec_officer->email,
         ],
       ],
       'boe_cluster' => [
@@ -73,11 +70,11 @@ class LegacySchoolNormalizer {
         'representative' => $board_cluster->field_representative->value,
       ],
     ];
-    
-    foreach ($node->field_achievements as $achievement_field) {      
+
+    foreach ($node->field_achievements as $achievement_field) {
       $data['achievements'][] = $this->awardToData($achievement_field->entity);
     }
-    
+
     $data['common'] = [
       "school_bus_locator" => "https://www.infofinderi.com/ifi/?cid=HCP2IOASIJVW",
       "online_payments"    => "https://osp.osmsinc.com/HowardMD/BVModules/CategoryTemplates/Detailed%20List%20with%20Properties/Category.aspx?categoryid=DA011",
@@ -85,76 +82,76 @@ class LegacySchoolNormalizer {
 
     return $data;
   }
-  
+
   /**
    * Normalize award.
-   * 
+   *
    * @param Paragraph $award
    * @return array
    */
   private function awardToData(Paragraph $award) : array {
     /** @var \Drupal\taxonomy\Entity\Term $achievement */
     $achievement = $award->field_achievement->entity;
-    
+
     list($name, $level) = $this->extractAwardLevel($achievement->getName());
-    
+
     $data = [
         'machine_name' => $achievement->field_machine_name->value,
         'name' => $name,
     ];
-    
+
     if ($level) {
       $data['level'] = $level;
     }
-    
+
     if ($uri = $achievement->field_url->uri) {
       $data['url'] = $uri;
     }
-    
+
     if ($color = $achievement->field_icon_color->color) {
       $data['color'] = strtoupper(trim($color, '#'));
     }
-    
+
     foreach ($award->field_years as $year_field) {
       $data['years'][] = $year_field->value;
     }
-    
+
     return $data;
   }
-  
+
   /**
    * Extract the award level from the name of an award.
-   * 
+   *
    * @param string $name
    * @return array
    */
   protected function extractAwardLevel(string $name) : array {
-    $matches = [];    
+    $matches = [];
     preg_match('/(.+) (Bronze|Silver|Gold)/', $name, $matches);
-    
+
     return [
       $matches[1] ?: $name,
       array_key_exists(2, $matches) ? $matches[2] : NULL,
     ];
   }
-  
+
   /**
    * Get the short name from the longname.
-   * 
+   *
    * @param string $full_name
    * @return string
    */
   protected function getShortName(string $full_name) : string {
     return str_replace([
-      ' Elementary School', 
-      ' Middle School', 
+      ' Elementary School',
+      ' Middle School',
       ' High School',
     ], '', $full_name);
   }
-  
+
   /**
    * Format seconds as a time.
-   * 
+   *
    * @param int $seconds
    * @return string|NULL
    */
@@ -164,35 +161,35 @@ class LegacySchoolNormalizer {
       $hours   = floor($minutes / 60);
       $minutes = $minutes - ($hours * 60);
       $ampm    = 'a.m.';
-      
+
       if ($hours > 12) {
         $hours = $hours - 12;
         $ampm  = 'p.m.';
       }
-      
+
       return vsprintf('%d:%02d %s', [$hours, $minutes, $ampm]);
     }
-      
+
     return NULL;
   }
-  
+
   /**
    * Take a point like this "POINT(-76.862600,39.186331)" and return an array
    * like this [-76.862600,39.186331].
-   * 
+   *
    * @param string $point
    * @return array
    */
   protected function getLonLatFromPoint(string $point) : array {
     $matches = [];
     preg_match('/^POINT\((-*\d+\.\d+) (-*\d+\.\d+)\)$/', $point, $matches);
-    
+
     return [$matches[1], $matches[2]];
   }
-  
+
   /**
    * Convert hex color to rgb color.
-   * 
+   *
    * @param string $hex
    * @return string
    */

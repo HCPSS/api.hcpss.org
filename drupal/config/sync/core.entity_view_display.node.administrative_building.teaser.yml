@@ -4,7 +4,9 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
-    - field.field.node.administrative_building.field_facility
+    - field.field.node.administrative_building.field_address
+    - field.field.node.administrative_building.field_geo_location
+    - field.field.node.administrative_building.field_well_water
     - node.type.administrative_building
   module:
     - user
@@ -19,5 +21,7 @@ content:
     third_party_settings: {  }
     region: content
 hidden:
-  field_facility: true
+  field_address: true
+  field_geo_location: true
+  field_well_water: true
   langcode: true

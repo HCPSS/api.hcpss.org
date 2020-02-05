@@ -6,10 +6,10 @@ use Drupal\node\NodeInterface;
 use Drupal\node\Entity\Node;
 
 class AdministrativeBuildingSeeder {
-  
+
   /**
    * Seed the Administrative Building.
-   * 
+   *
    * @param string $name
    * @param string $street
    * @param string $city
@@ -21,21 +21,17 @@ class AdministrativeBuildingSeeder {
       'type' => 'administrative_building',
       'uid' => 1,
       'title' => $name,
-      'field_facility' => FacilitySeeder::seed([
-        'address'       => [
-          'street'      => $street,
-          'city'        => $city,
-          'postal_code' => $postal_code,
-        ],
-        'environment' => ['water' => [
-          'source'           => 'city',
-          'extended_testing' => FALSE,
-        ]],
-      ]),
+      'field_address' => [
+        'address_line1'       => $street,
+        'locality'            => $city,
+        'postal_code'         => $postal_code,
+        'administrative_area' => 'MD',
+        'country_code'        => 'US',
+      ],
     ]);
-            
+
     $node->save();
-    
+
     return $node;
   }
 }

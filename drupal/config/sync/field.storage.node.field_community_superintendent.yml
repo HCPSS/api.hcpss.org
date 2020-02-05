@@ -1,18 +1,20 @@
-uuid: 5fbec15a-14e9-4a3b-886f-7cfc3df886eb
+uuid: 2848de79-4751-4feb-a596-f388e68b65a6
 langcode: en
 status: true
 dependencies:
   module:
-    - entity_reference_revisions
+    - careful_raccoon
+    - field_permissions
     - node
-    - paragraphs
+third_party_settings:
+  field_permissions:
+    permission_type: public
 id: node.field_community_superintendent
 field_name: field_community_superintendent
 entity_type: node
-type: entity_reference_revisions
-settings:
-  target_type: paragraph
-module: entity_reference_revisions
+type: careful_raccoon_person
+settings: {  }
+module: careful_raccoon
 locked: false
 cardinality: 1
 translatable: true

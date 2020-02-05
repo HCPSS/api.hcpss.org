@@ -8,7 +8,7 @@ dependencies:
     - field.field.node.administrative_cluster.field_pec_officer
     - node.type.administrative_cluster
   module:
-    - entity_reference_revisions
+    - careful_raccoon
     - user
 id: node.administrative_cluster.default
 targetEntityType: node
@@ -27,20 +27,16 @@ content:
   field_community_superintendent:
     weight: 102
     label: above
-    settings:
-      view_mode: default
-      link: ''
+    settings: {  }
     third_party_settings: {  }
-    type: entity_reference_revisions_entity_view
+    type: careful_raccoon_person_default
     region: content
   field_pec_officer:
     weight: 103
     label: above
-    settings:
-      view_mode: default
-      link: ''
+    settings: {  }
     third_party_settings: {  }
-    type: entity_reference_revisions_entity_view
+    type: careful_raccoon_person_default
     region: content
   links:
     weight: 100

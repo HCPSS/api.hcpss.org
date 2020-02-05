@@ -8,7 +8,7 @@ dependencies:
     - field.field.node.administrative_cluster.field_pec_officer
     - node.type.administrative_cluster
   module:
-    - paragraphs
+    - careful_raccoon
 id: node.administrative_cluster.default
 targetEntityType: node
 bundle: administrative_cluster
@@ -22,28 +22,16 @@ content:
     type: number
     region: content
   field_community_superintendent:
-    weight: 1
-    settings:
-      title: Paragraph
-      title_plural: Paragraphs
-      edit_mode: open
-      add_mode: dropdown
-      form_display_mode: default
-      default_paragraph_type: ''
+    weight: 26
+    settings: {  }
     third_party_settings: {  }
-    type: entity_reference_paragraphs
+    type: careful_raccoon_person
     region: content
   field_pec_officer:
-    weight: 2
-    settings:
-      title: Paragraph
-      title_plural: Paragraphs
-      edit_mode: open
-      add_mode: dropdown
-      form_display_mode: default
-      default_paragraph_type: ''
+    weight: 27
+    settings: {  }
     third_party_settings: {  }
-    type: entity_reference_paragraphs
+    type: careful_raccoon_person
     region: content
   langcode:
     type: language_select

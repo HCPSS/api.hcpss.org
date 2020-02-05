@@ -1,0 +1,23 @@
+uuid: 8f3e736b-85e3-427d-8ecd-ca62e46188cc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_well_water
+    - node.type.school
+id: node.school.field_well_water
+field_name: field_well_water
+entity_type: node
+bundle: school
+label: 'Well Water'
+description: 'Is the water source for this school well water?'
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

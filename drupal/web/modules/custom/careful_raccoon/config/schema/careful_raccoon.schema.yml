@@ -1,0 +1,22 @@
+field.value.person:
+  type: mapping
+  label: Default value
+  mapping:
+    value:
+      type: label
+      label: Value
+
+# Default value.
+field.value.careful_raccoon_person:
+  type: mapping
+  label: Default value
+  mapping:
+    email:
+      type: email
+      label: Email
+    name:
+      type: string
+      label: Name
+    phone:
+      type: telephone
+      label: Phone

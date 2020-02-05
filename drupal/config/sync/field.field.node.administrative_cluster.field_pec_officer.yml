@@ -1,13 +1,12 @@
-uuid: d5168ab9-429c-4453-ba3b-12a660b6d3e6
+uuid: d56e455d-b701-429a-b874-6ec74b487106
 langcode: en
 status: true
 dependencies:
   config:
     - field.storage.node.field_pec_officer
     - node.type.administrative_cluster
-    - paragraphs.paragraphs_type.person
   module:
-    - entity_reference_revisions
+    - careful_raccoon
 id: node.administrative_cluster.field_pec_officer
 field_name: field_pec_officer
 entity_type: node
@@ -15,23 +14,12 @@ bundle: administrative_cluster
 label: 'PEC Officer'
 description: ''
 required: true
-translatable: true
-default_value: {  }
+translatable: false
+default_value:
+  -
+    email: null
+    name: null
+    phone: null
 default_value_callback: ''
-settings:
-  handler: 'default:paragraph'
-  handler_settings:
-    negate: 0
-    target_bundles:
-      person: person
-    target_bundles_drag_drop:
-      award:
-        weight: 4
-        enabled: false
-      facility:
-        weight: 5
-        enabled: false
-      person:
-        enabled: true
-        weight: 6
-field_type: entity_reference_revisions
+settings: {  }
+field_type: careful_raccoon_person

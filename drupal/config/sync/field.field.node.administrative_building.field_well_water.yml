@@ -1,0 +1,23 @@
+uuid: a5e821a4-016a-4765-8078-00a5101063cc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_well_water
+    - node.type.administrative_building
+id: node.administrative_building.field_well_water
+field_name: field_well_water
+entity_type: node
+bundle: administrative_building
+label: 'Well Water'
+description: 'Is the water source for this facility well water?'
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

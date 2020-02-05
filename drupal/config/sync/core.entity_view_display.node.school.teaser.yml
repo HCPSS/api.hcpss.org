@@ -6,10 +6,11 @@ dependencies:
     - core.entity_view_mode.node.teaser
     - field.field.node.school.field_achievements
     - field.field.node.school.field_acronym
+    - field.field.node.school.field_address
     - field.field.node.school.field_administrative_cluster
     - field.field.node.school.field_board_cluster
-    - field.field.node.school.field_facility
     - field.field.node.school.field_fax
+    - field.field.node.school.field_geo_location
     - field.field.node.school.field_hours
     - field.field.node.school.field_level
     - field.field.node.school.field_mascot
@@ -20,6 +21,7 @@ dependencies:
     - field.field.node.school.field_school_profile
     - field.field.node.school.field_title_1
     - field.field.node.school.field_walk_area_map
+    - field.field.node.school.field_well_water
     - node.type.school
   module:
     - user
@@ -36,10 +38,11 @@ content:
 hidden:
   field_achievements: true
   field_acronym: true
+  field_address: true
   field_administrative_cluster: true
   field_board_cluster: true
-  field_facility: true
   field_fax: true
+  field_geo_location: true
   field_hours: true
   field_level: true
   field_mascot: true
@@ -50,4 +53,5 @@ hidden:
   field_school_profile: true
   field_title_1: true
   field_walk_area_map: true
+  field_well_water: true
   langcode: true

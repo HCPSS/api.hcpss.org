@@ -3,24 +3,44 @@ langcode: en
 status: true
 dependencies:
   config:
-    - field.field.node.administrative_building.field_facility
+    - field.field.node.administrative_building.field_address
+    - field.field.node.administrative_building.field_geo_location
+    - field.field.node.administrative_building.field_well_water
     - node.type.administrative_building
   module:
-    - entity_reference_revisions
+    - address
+    - geofield
     - user
 id: node.administrative_building.default
 targetEntityType: node
 bundle: administrative_building
 mode: default
 content:
-  field_facility:
+  field_address:
     weight: 101
     label: above
-    settings:
-      view_mode: default
-      link: ''
+    settings: {  }
     third_party_settings: {  }
-    type: entity_reference_revisions_entity_view
+    type: address_default
+    region: content
+  field_geo_location:
+    weight: 103
+    label: above
+    settings:
+      output_format: wkt
+      output_escape: true
+    third_party_settings: {  }
+    type: geofield_default
+    region: content
+  field_well_water:
+    weight: 102
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    type: boolean
     region: content
   links:
     weight: 100

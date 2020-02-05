@@ -1,18 +1,20 @@
-uuid: 38bb8da2-8a9b-4023-99f4-7e2c8332215a
+uuid: 9bb87d83-791b-402f-ac37-32d954b43287
 langcode: en
 status: true
 dependencies:
   module:
-    - entity_reference_revisions
+    - careful_raccoon
+    - field_permissions
     - node
-    - paragraphs
+third_party_settings:
+  field_permissions:
+    permission_type: public
 id: node.field_pec_officer
 field_name: field_pec_officer
 entity_type: node
-type: entity_reference_revisions
-settings:
-  target_type: paragraph
-module: entity_reference_revisions
+type: careful_raccoon_person
+settings: {  }
+module: careful_raccoon
 locked: false
 cardinality: 1
 translatable: true

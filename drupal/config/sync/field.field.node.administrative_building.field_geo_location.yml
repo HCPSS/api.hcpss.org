@@ -1,0 +1,41 @@
+uuid: 16b76347-39b6-4bcc-bdfd-2ddb69db9536
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_geo_location
+    - node.type.administrative_building
+  module:
+    - geocoder_field
+    - geofield
+third_party_settings:
+  geocoder_field:
+    method: source
+    weight: 0
+    geocode_field: field_address
+    reverse_geocode_field: ''
+    skip_not_empty_value: 0
+    disabled: false
+    hidden: false
+    plugins:
+      - openstreetmap
+      - yandex
+    dumper: wkt
+    delta_handling: default
+    failure:
+      handling: preserve
+      status_message: true
+      log: true
+id: node.administrative_building.field_geo_location
+field_name: field_geo_location
+entity_type: node
+bundle: administrative_building
+label: 'Geo Location'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  backend: geofield_backend_default
+field_type: geofield
