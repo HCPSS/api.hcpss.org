@@ -54,4 +54,7 @@ achievements:
     color: A6A6A9
     years:
       - '2016'
+calendar:
+  mode: null
+  account: null
 ---

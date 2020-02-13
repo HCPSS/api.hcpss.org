@@ -37,4 +37,7 @@ achievements:
     url: null
     years:
       - '2014'
+calendar:
+  mode: null
+  account: harperschoicecalendar@gmail.com
 ---

@@ -37,4 +37,7 @@ achievements:
     url: null
     years:
       - '2014'
+calendar:
+  mode: null
+  account: hcpss.me_ahilbmcnesdcsobeqepq9g9du0@group.calendar.google.com
 ---

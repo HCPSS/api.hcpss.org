@@ -35,4 +35,7 @@ achievements:
     machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Platinum
+calendar:
+  mode: null
+  account: hcpss.me_0ugo02s335oii8qbeqdprbcra8@group.calendar.google.com
 ---

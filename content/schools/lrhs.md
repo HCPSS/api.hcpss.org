@@ -35,4 +35,7 @@ achievements:
     machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Silver
+calendar:
+  mode: null
+  account: null
 ---

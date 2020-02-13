@@ -43,4 +43,7 @@ achievements:
     color: FECC6A
     years:
       - '2016'
+calendar:
+  mode: AGENDA
+  account: theatrecal4schoolroomusecal@gmail.com
 ---

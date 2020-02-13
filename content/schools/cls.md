@@ -31,4 +31,7 @@ environment:
     extended_testing: false
 mascot: Bulldogs
 achievements: {  }
+calendar:
+  mode: null
+  account: null
 ---

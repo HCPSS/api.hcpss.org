@@ -35,4 +35,7 @@ achievements:
     machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Silver
+calendar:
+  mode: null
+  account: hcpss.me_ebo6l0q4ueh4copfj336gp16pg@group.calendar.google.com
 ---

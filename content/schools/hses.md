@@ -38,4 +38,7 @@ achievements:
     years:
       - '2009'
       - '2013'
+calendar:
+  mode: null
+  account: null
 ---

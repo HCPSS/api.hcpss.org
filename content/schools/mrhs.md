@@ -37,4 +37,7 @@ achievements:
     url: null
     years:
       - '2013'
+calendar:
+  mode: AGENDA
+  account: hcpss.org_0j77dkq2nmg43fq8u300g0hf58@group.calendar.google.com
 ---

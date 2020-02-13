@@ -70,6 +70,10 @@
 		}
 	{{ end }}
 	],
+	"calendar": {
+		"account": {{ if .school.calendar.account }}"{{ .school.calendar.account }}"{{ else }}null{{ end }},
+		"mode": {{ if .school.calendar.mode }}"{{ .school.calendar.mode }}"{{ else }}null{{ end }}
+	},
 	"common": {
 		"school_bus_locator": "{{ .section.school_bus_locator }}",
 		"online_payments": "{{ .section.online_payments }}"

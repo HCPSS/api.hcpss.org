@@ -44,4 +44,7 @@ achievements:
     color: FECC6A
     years:
       - '2015'
+calendar:
+  mode: null
+  account: hcpss.me_gas56kqchqvm5s2d82v0vi4t40@group.calendar.google.com
 ---

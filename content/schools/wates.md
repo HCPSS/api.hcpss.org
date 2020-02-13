@@ -40,4 +40,7 @@ achievements:
     machine_name: healthy_howard
     name: 'Healthy Howard School'
     level: Platinum
+calendar:
+  mode: null
+  account: waterlooes@gmail.com
 ---

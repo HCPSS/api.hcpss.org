@@ -39,4 +39,7 @@ achievements:
       - '2007'
       - '2011'
       - '2015'
+calendar:
+  mode: AGENDA
+  account: 4qv2vod082f8o7j1fc850ctiu4@group.calendar.google.com
 ---

@@ -54,4 +54,7 @@ achievements:
     color: A6A6A9
     years:
       - '2014'
+calendar:
+  mode: null
+  account: hcpss.org_ln2j1oi31baoid2u659eo4njao@group.calendar.google.com
 ---

@@ -43,4 +43,7 @@ achievements:
     name: 'PBIS Maryland'
     level: Gold
     color: FECC6A
+calendar:
+  mode: null
+  account: sqspkjkbr6v6arss44js3n21eg@group.calendar.google.com
 ---

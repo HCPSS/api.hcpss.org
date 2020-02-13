@@ -31,4 +31,7 @@ environment:
     extended_testing: true
 mascot: Gladiators
 achievements: {  }
+calendar:
+  mode: AGENDA
+  account: daniel_sageman@hcpss.me
 ---
