@@ -8,7 +8,7 @@ highlight_color: 'rgb(134,0,7)'
 level: ec
 contact:
   phone: 410-313-7081
-  fax: 410-313-7130
+  fax: ''
 address:
   street: '10914 Clarksville Pike (Route 108)'
   city: 'Ellicott City'
@@ -17,7 +17,7 @@ address:
   longitude: '-76.8948001'
 principal: 'Christina Krabitz'
 hours:
-  open: '7:25 a.m.'
+  open: '7:15 a.m.'
   close: '2:10 p.m.'
 profile: null
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0080/'
