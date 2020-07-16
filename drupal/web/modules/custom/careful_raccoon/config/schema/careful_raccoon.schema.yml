@@ -20,3 +20,18 @@ field.value.careful_raccoon_person:
     phone:
       type: telephone
       label: Phone
+
+# Default value.
+field.value.colors:
+  type: mapping
+  label: Default value
+  mapping:
+    primary:
+      type: string
+      label: Primary
+    secondary:
+      type: string
+      label: Secondary
+    highlight:
+      type: string
+      label: Highlight

@@ -1,0 +1,21 @@
+uuid: b591b3fa-9029-455f-a44b-1f27203029a4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_colors
+    - node.type.school
+  module:
+    - careful_raccoon
+id: node.school.field_colors
+field_name: field_colors
+entity_type: node
+bundle: school
+label: Colors
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: colors

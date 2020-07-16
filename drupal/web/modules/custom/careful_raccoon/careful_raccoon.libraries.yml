@@ -2,3 +2,8 @@ careful_raccoon_person:
   css:
     component:
       css/careful-raccoon-person-widget.css: {}
+
+colors:
+  css:
+    component:
+      css/colors-widget.css: {}

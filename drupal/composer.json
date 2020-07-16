@@ -103,6 +103,11 @@
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "drush/Commands/{$name}": ["type:drupal-drush"]
         },
+        "patches": {
+        	"drupal/core": {
+        		"Issue 2996114": "https://www.drupal.org/files/issues/2019-12-03/2996114-99.patch"
+        	}
+        },
         "drupal-scaffold": {
             "initial": {
                 ".editorconfig": "../.editorconfig",

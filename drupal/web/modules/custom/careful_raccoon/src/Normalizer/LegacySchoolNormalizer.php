@@ -20,11 +20,13 @@ class LegacySchoolNormalizer {
     $board_cluster   = $node->field_board_cluster->entity;
 
     $data = [
-      'acronym'       => $node->field_acronym->value,
-      'name'          => $this->getShortName($node->getTitle()),
-      'full_name'     => $node->getTitle(),
-      'primary_color' => $this->hexToRgb($node->field_primary_color->color),
-      'level'         => $node->field_level->value,
+      'acronym'         => $node->field_acronym->value,
+      'name'            => $this->getShortName($node->getTitle()),
+      'full_name'       => $node->getTitle(),
+      'primary_color'   => $this->hexToRgb($node->field_colors->primary),
+      'secondary_color' => $this->hexToRgb($node->field_colors->secondary),
+      'highlight_color' => $this->hexToRgb($node->field_colors->highlight),
+      'level'           => $node->field_level->value,
       'contact' => [
         'phone' => $node->field_phone->value,
         'fax'   => $node->field_fax->value,

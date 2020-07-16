@@ -1,0 +1,23 @@
+uuid: 14b35182-4de5-4dfd-a180-0138fd42f7b9
+langcode: en
+status: true
+dependencies:
+  module:
+    - careful_raccoon
+    - field_permissions
+    - node
+third_party_settings:
+  field_permissions:
+    permission_type: public
+id: node.field_colors
+field_name: field_colors
+entity_type: node
+type: colors
+settings: {  }
+module: careful_raccoon
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

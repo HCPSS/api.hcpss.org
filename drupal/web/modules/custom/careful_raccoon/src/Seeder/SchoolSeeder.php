@@ -26,9 +26,10 @@ class SchoolSeeder {
       'uid'                 => 1,
       'title'               => $school_data['full_name'],
       'field_acronym'       => $school_data['acronym'],
-      'field_primary_color' => [
-        'color'   => self::convertRgbToHex($school_data['primary_color']),
-        'opacity' => NULL,
+      'field_colors' => [
+        'primary'   => self::convertRgbToHex($school_data['primary_color']),
+        'secondary' => self::convertRgbToHex($school_data['secondary_color']),
+        'highlight' => self::convertRgbToHex($school_data['highlight_color']),
       ],
       'field_hours' => [
         'from' => $school_data['hours']['open']  ? self::convertTimeToSeconds($school_data['hours']['open'])  : NULL,
