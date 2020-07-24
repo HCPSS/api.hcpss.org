@@ -2,23 +2,23 @@
 acronym: elms
 name: 'Elkridge Landing'
 full_name: 'Elkridge Landing Middle School'
-primary_color: 'rgb(102, 0, 0)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(102,0,0)'
+primary_color: '#660000'
+secondary_color: '#D6D6D6'
+highlight_color: '#660000'
 level: ms
 contact:
-  phone: 410-313-5040
-  fax: 410-313-5045
+    phone: 410-313-5040
+    fax: 410-313-5045
 address:
-  street: '7085 Montgomery Road'
-  city: Elkridge
-  postal_code: 21075
-  latitude: '39.2123186'
-  longitude: '-76.7314836'
+    street: '7085 Montgomery Road'
+    city: Elkridge
+    postal_code: 21075
+    latitude: '39.2123186'
+    longitude: '-76.7314836'
 principal: 'Gina Cash'
 hours:
-  open: '8:00 a.m.'
-  close: '2:45 p.m.'
+    open: '8:00 a.m.'
+    close: '2:45 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_elkridgelanding.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0106/'
 walk_area: 'https://www.hcpss.org/f/schools/elkridge-landing-ms-walk-area.pdf'
@@ -26,17 +26,17 @@ title_1: false
 cluster: 2
 boe_cluster: E
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: 'Rolling Thunder'
 achievements:
-  -
-    machine_name: pbis
-    name: 'PBIS Maryland'
-    level: Gold
-    color: FECC6A
+    -
+        machine_name: pbis
+        name: 'PBIS Maryland'
+        level: Gold
+        color: FECC6A
 calendar:
-  mode: null
-  account: null
+    mode: null
+    account: null
 ---

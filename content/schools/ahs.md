@@ -2,23 +2,23 @@
 acronym: ahs
 name: Atholton
 full_name: 'Atholton High School'
-primary_color: 'rgb(114,157,79)'
-secondary_color: 'rgb(91,125,63)'
-highlight_color: 'rgb(114,157,79)'
+primary_color: '#729D4F'
+secondary_color: '#5B7D3F'
+highlight_color: '#729D4F'
 level: hs
 contact:
-  phone: 410-313-7065
-  fax: 410-313-7078
+    phone: 410-313-7065
+    fax: 410-313-7078
 address:
-  street: '6520 Freetown Road'
-  city: Columbia
-  postal_code: 21044
-  latitude: '39.1883603'
-  longitude: '-76.8825817'
+    street: '6520 Freetown Road'
+    city: Columbia
+    postal_code: 21044
+    latitude: '39.1883603'
+    longitude: '-76.8825817'
 principal: 'JoAnn Hutchens'
 hours:
-  open: '7:25 a.m.'
-  close: '2:10 p.m.'
+    open: '7:25 a.m.'
+    close: '2:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_atholton.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0509/'
 walk_area: 'https://www.hcpss.org/f/schools/atholton-hs-walk-area.pdf'
@@ -26,24 +26,24 @@ title_1: false
 cluster: 1
 boe_cluster: A
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: Raiders
 achievements:
-  -
-    machine_name: healthy_howard
-    name: 'Healthy Howard School'
-    level: Silver
-  -
-    machine_name: leed
-    name: 'LEED School'
-    url: null
-    level: Gold
-    color: FECC6A
-    years:
-      - '2016'
+    -
+        machine_name: healthy_howard
+        name: 'Healthy Howard School'
+        level: Silver
+    -
+        machine_name: leed
+        name: 'LEED School'
+        url: null
+        level: Gold
+        color: FECC6A
+        years:
+            - '2016'
 calendar:
-  mode: AGENDA
-  account: theatrecal4schoolroomusecal@gmail.com
+    mode: AGENDA
+    account: theatrecal4schoolroomusecal@gmail.com
 ---

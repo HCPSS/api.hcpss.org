@@ -2,23 +2,23 @@
 acronym: thes
 name: 'Thunder Hill'
 full_name: 'Thunder Hill Elementary School'
-primary_color: 'rgb(0, 102, 153)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(0,102,153)'
+primary_color: '#006699'
+secondary_color: '#D6D6D6'
+highlight_color: '#006699'
 level: es
 contact:
-  phone: 410-313-6922
-  fax: 410-313-6926
+    phone: 410-313-6922
+    fax: 410-313-6926
 address:
-  street: '9357 Mellenbrook Road'
-  city: Columbia
-  postal_code: 21045
-  latitude: '39.229003'
-  longitude: '-76.8366536'
+    street: '9357 Mellenbrook Road'
+    city: Columbia
+    postal_code: 21045
+    latitude: '39.229003'
+    longitude: '-76.8366536'
 principal: 'Martha Bowen'
 hours:
-  open: '9:25 a.m.'
-  close: '3:55 p.m.'
+    open: '9:25 a.m.'
+    close: '3:55 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_thunderhill.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0605/'
 walk_area: 'https://www.hcpss.org/f/schools/thunder-hill-es-walk-area.pdf'
@@ -26,36 +26,36 @@ title_1: false
 cluster: 3
 boe_cluster: A
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: Thunderbirds
 achievements:
-  -
-    machine_name: green
-    name: 'Green School'
-    url: null
-    years:
-      - '2010'
-      - '2014'
-  -
-    machine_name: pbis
-    name: 'PBIS Maryland'
-    level: Gold
-    color: D7A03B
-  -
-    machine_name: healthy_howard
-    name: 'Healthy Howard School'
-    level: Gold
-  -
-    machine_name: leed
-    name: 'LEED School'
-    url: null
-    level: Silver
-    color: A6A6A9
-    years:
-      - '2015'
+    -
+        machine_name: green
+        name: 'Green School'
+        url: null
+        years:
+            - '2010'
+            - '2014'
+    -
+        machine_name: pbis
+        name: 'PBIS Maryland'
+        level: Gold
+        color: D7A03B
+    -
+        machine_name: healthy_howard
+        name: 'Healthy Howard School'
+        level: Gold
+    -
+        machine_name: leed
+        name: 'LEED School'
+        url: null
+        level: Silver
+        color: A6A6A9
+        years:
+            - '2015'
 calendar:
-  mode: null
-  account: hcpss.org_m5lflp7fcvih9f9lcokkq54moo@group.calendar.google.com
+    mode: null
+    account: hcpss.org_m5lflp7fcvih9f9lcokkq54moo@group.calendar.google.com
 ---

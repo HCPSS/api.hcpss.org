@@ -2,23 +2,23 @@
 acronym: wlms
 name: 'Wilde Lake'
 full_name: 'Wilde Lake Middle School'
-primary_color: 'rgb(0,51,153)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(0,51,153)'
+primary_color: '#003399'
+secondary_color: '#D6D6D6'
+highlight_color: '#003399'
 level: ms
 contact:
-  phone: 410-313-6957
-  fax: 410-313-6963
+    phone: 410-313-6957
+    fax: 410-313-6963
 address:
-  street: '10481 Cross Fox Lane'
-  city: Columbia
-  postal_code: 21044
-  latitude: '39.217985'
-  longitude: '-76.8786983'
+    street: '10481 Cross Fox Lane'
+    city: Columbia
+    postal_code: 21044
+    latitude: '39.217985'
+    longitude: '-76.8786983'
 principal: 'Anne Swartz'
 hours:
-  open: '8:00 a.m.'
-  close: '2:45 p.m.'
+    open: '8:00 a.m.'
+    close: '2:45 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_wildelake.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0512/'
 walk_area: 'https://www.hcpss.org/f/schools/wilde-lake-ms-walk-area.pdf'
@@ -26,16 +26,16 @@ title_1: false
 cluster: 1
 boe_cluster: C
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: Sharks
 achievements:
-  -
-    machine_name: healthy_howard
-    name: 'Healthy Howard School'
-    level: Silver
+    -
+        machine_name: healthy_howard
+        name: 'Healthy Howard School'
+        level: Silver
 calendar:
-  mode: null
-  account: wlmswebmaster@gmail.com
+    mode: null
+    account: wlmswebmaster@gmail.com
 ---

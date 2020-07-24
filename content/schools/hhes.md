@@ -2,23 +2,23 @@
 acronym: hhes
 name: 'Hanover Hills'
 full_name: 'Hanover Hills Elementary School'
-primary_color: 'rgb(160, 215, 251)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(0,44,119)'
+primary_color: '#002C77'
+secondary_color: '#D6D6D6'
+highlight_color: '#002C77'
 level: es
 contact:
-  phone: 410-313-8066
-  fax: 410-712-0296
+    phone: 410-313-8066
+    fax: 410-712-0296
 address:
-  street: '7030 Banbury Drive'
-  city: Hanover
-  postal_code: 21076
-  latitude: '39.1852463'
-  longitude: '-76.7398292'
+    street: '7030 Banbury Drive'
+    city: Hanover
+    postal_code: 21076
+    latitude: '39.1852463'
+    longitude: '-76.7398292'
 principal: 'Troy Todd'
 hours:
-  open: '8:50 a.m.'
-  close: '3:20 p.m.'
+    open: '8:50 a.m.'
+    close: '3:20 p.m.'
 profile: null
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0111/'
 walk_area: 'https://www.hcpss.org/f/schools/hanover-hills-es-walk-area.pdf'
@@ -26,12 +26,12 @@ title_1: false
 cluster: 2
 boe_cluster: B
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: Huskies
 achievements: {  }
 calendar:
-  mode: null
-  account: null
+    mode: null
+    account: null
 ---

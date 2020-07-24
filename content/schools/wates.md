@@ -2,23 +2,23 @@
 acronym: wates
 name: Waterloo
 full_name: 'Waterloo Elementary School'
-primary_color: 'rgb(153, 0, 0)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(153,0,0)'
+primary_color: '#990000'
+secondary_color: '#D6D6D6'
+highlight_color: '#990000'
 level: es
 contact:
-  phone: 410-313-5014
-  fax: 410-313-5017
+    phone: 410-313-5014
+    fax: 410-313-5017
 address:
-  street: '5940 Waterloo Road'
-  city: Columbia
-  postal_code: 21045
-  latitude: '39.2073805'
-  longitude: '-76.7998611'
+    street: '5940 Waterloo Road'
+    city: Columbia
+    postal_code: 21045
+    latitude: '39.2073805'
+    longitude: '-76.7998611'
 principal: 'Sean Martin'
 hours:
-  open: '9:25 a.m.'
-  close: '3:55 p.m.'
+    open: '9:25 a.m.'
+    close: '3:55 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_waterloo.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0604/'
 walk_area: 'https://www.hcpss.org/f/schools/waterloo-es-walk-area.pdf'
@@ -26,21 +26,21 @@ title_1: false
 cluster: 3
 boe_cluster: B
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: Wildcats
 achievements:
-  -
-    machine_name: pbis
-    name: 'PBIS Maryland'
-    level: Gold
-    color: D7A03B
-  -
-    machine_name: healthy_howard
-    name: 'Healthy Howard School'
-    level: Platinum
+    -
+        machine_name: pbis
+        name: 'PBIS Maryland'
+        level: Gold
+        color: D7A03B
+    -
+        machine_name: healthy_howard
+        name: 'Healthy Howard School'
+        level: Platinum
 calendar:
-  mode: null
-  account: waterlooes@gmail.com
+    mode: null
+    account: waterlooes@gmail.com
 ---

@@ -2,23 +2,23 @@
 acronym: cms
 name: Clarksville
 full_name: 'Clarksville Middle School'
-primary_color: 'rgb(0, 0, 0)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(214,214,214)'
+primary_color: '#000000'
+secondary_color: '#D6D6D6'
+highlight_color: '#D6D6D6'
 level: ms
 contact:
-  phone: 410-313-7057
-  fax: 410-531-5105
+    phone: 410-313-7057
+    fax: 410-531-5105
 address:
-  street: '6535 South Trotter Road'
-  city: Clarksville
-  postal_code: 21029
-  latitude: '39.1901808'
-  longitude: '-76.9268525'
+    street: '6535 South Trotter Road'
+    city: Clarksville
+    postal_code: 21029
+    latitude: '39.1901808'
+    longitude: '-76.9268525'
 principal: 'Joelle Miller'
 hours:
-  open: '8:25 a.m.'
-  close: '3:10 p.m.'
+    open: '8:25 a.m.'
+    close: '3:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_clarksville.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0521/'
 walk_area: 'https://www.hcpss.org/f/schools/clarksville-ms-walk-area.pdf'
@@ -26,21 +26,21 @@ title_1: false
 cluster: 1
 boe_cluster: F
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: Comets
 achievements:
-  -
-    machine_name: blue
-    name: 'Blue Ribbon School'
-    years:
-      - '2008'
-  -
-    machine_name: healthy_howard
-    name: 'Healthy Howard School'
-    level: Silver
+    -
+        machine_name: blue
+        name: 'Blue Ribbon School'
+        years:
+            - '2008'
+    -
+        machine_name: healthy_howard
+        name: 'Healthy Howard School'
+        level: Silver
 calendar:
-  mode: null
-  account: hcpss.org_tphf5iq8itfagobv1mi17onsn4@group.calendar.google.com
+    mode: null
+    account: hcpss.org_tphf5iq8itfagobv1mi17onsn4@group.calendar.google.com
 ---

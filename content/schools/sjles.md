@@ -2,23 +2,23 @@
 acronym: sjles
 name: 'St. John''s Lane'
 full_name: 'St. John''s Lane Elementary School'
-primary_color: 'rgb(0, 51, 102)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(0,51,102)'
+primary_color: '#003366'
+secondary_color: '#D6D6D6'
+highlight_color: '#003366'
 level: es
 contact:
-  phone: 410-313-2813
-  fax: 410-313-2817
+    phone: 410-313-2813
+    fax: 410-313-2817
 address:
-  street: '2960 St. John’s Lane'
-  city: 'Ellicott City'
-  postal_code: 21042
-  latitude: '39.2904753'
-  longitude: '-76.8356276'
+    street: '2960 St. John’s Lane'
+    city: 'Ellicott City'
+    postal_code: 21042
+    latitude: '39.2904753'
+    longitude: '-76.8356276'
 principal: 'Vicky Sarro'
 hours:
-  open: '8:45 a.m.'
-  close: '3:15 p.m.'
+    open: '8:45 a.m.'
+    close: '3:15 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_stjohnslane.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0204/'
 walk_area: 'https://www.hcpss.org/f/schools/st-johns-lane-es-walk-area.pdf'
@@ -26,28 +26,28 @@ title_1: false
 cluster: 3
 boe_cluster: F
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: Jaguars
 achievements:
-  -
-    machine_name: green
-    name: 'Green School'
-    url: null
-    years:
-      - '2011'
-      - '2015'
-  -
-    machine_name: pbis
-    name: 'PBIS Maryland'
-    level: Gold
-    color: FECC6A
-  -
-    machine_name: healthy_howard
-    name: 'Healthy Howard School'
-    level: Silver
+    -
+        machine_name: green
+        name: 'Green School'
+        url: null
+        years:
+            - '2011'
+            - '2015'
+    -
+        machine_name: pbis
+        name: 'PBIS Maryland'
+        level: Gold
+        color: FECC6A
+    -
+        machine_name: healthy_howard
+        name: 'Healthy Howard School'
+        level: Silver
 calendar:
-  mode: null
-  account: hcpss.org_rnj7udmb6p114vu566sn2fq4ko@group.calendar.google.com
+    mode: null
+    account: hcpss.org_rnj7udmb6p114vu566sn2fq4ko@group.calendar.google.com
 ---

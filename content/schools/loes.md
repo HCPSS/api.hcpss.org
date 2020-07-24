@@ -2,23 +2,23 @@
 acronym: loes
 name: Longfellow
 full_name: 'Longfellow Elementary School'
-primary_color: 'rgb(153, 0, 0)'
-secondary_color: 'rgb(214,214,214)'
-highlight_color: 'rgb(153,0,0)'
+primary_color: '#990000'
+secondary_color: '#D6D6D6'
+highlight_color: '#990000'
 level: es
 contact:
-  phone: 410-313-6879
-  fax: 410-313-7106
+    phone: 410-313-6879
+    fax: 410-313-7106
 address:
-  street: '5470 Hesperus Drive'
-  city: Columbia
-  postal_code: 21044
-  latitude: '39.226514'
-  longitude: '-76.883786'
+    street: '5470 Hesperus Drive'
+    city: Columbia
+    postal_code: 21044
+    latitude: '39.226514'
+    longitude: '-76.883786'
 principal: 'Laurel Marsh'
 hours:
-  open: '8:55 a.m.'
-  close: '3:25 p.m.'
+    open: '8:55 a.m.'
+    close: '3:25 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_longfellow.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0514/'
 walk_area: 'https://www.hcpss.org/f/schools/longfellow-es-walk-area.pdf'
@@ -26,36 +26,36 @@ title_1: true
 cluster: 1
 boe_cluster: C
 environment:
-  water:
-    source: city
-    extended_testing: false
+    water:
+        source: city
+        extended_testing: false
 mascot: 'Soaring Eagles'
 achievements:
-  -
-    machine_name: green
-    name: 'Green School'
-    url: null
-    years:
-      - '2009'
-      - '2014'
-  -
-    machine_name: pbis
-    name: 'PBIS Maryland'
-    level: Gold
-    color: FECC6A
-  -
-    machine_name: healthy_howard
-    name: 'Healthy Howard School'
-    level: Gold
-  -
-    machine_name: leed
-    name: 'LEED School'
-    url: null
-    level: Silver
-    color: A6A6A9
-    years:
-      - '2016'
+    -
+        machine_name: green
+        name: 'Green School'
+        url: null
+        years:
+            - '2009'
+            - '2014'
+    -
+        machine_name: pbis
+        name: 'PBIS Maryland'
+        level: Gold
+        color: FECC6A
+    -
+        machine_name: healthy_howard
+        name: 'Healthy Howard School'
+        level: Gold
+    -
+        machine_name: leed
+        name: 'LEED School'
+        url: null
+        level: Silver
+        color: A6A6A9
+        years:
+            - '2016'
 calendar:
-  mode: null
-  account: hcpss.org_m2lfkti09boi5oeetq2cjtllbs@group.calendar.google.com
+    mode: null
+    account: hcpss.org_m2lfkti09boi5oeetq2cjtllbs@group.calendar.google.com
 ---
