@@ -2,7 +2,7 @@
 acronym: omhs
 name: 'Oakland Mills'
 full_name: 'Oakland Mills High School'
-primary_color: '#black'''
+primary_color: '#000000'
 secondary_color: '#F6611B'
 highlight_color: '#F6611B'
 level: hs

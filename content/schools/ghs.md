@@ -3,7 +3,7 @@ acronym: ghs
 name: Glenelg
 full_name: 'Glenelg High School'
 primary_color: '#BD0020'
-secondary_color: '#black'''
+secondary_color: '#000000'
 highlight_color: '#BD0020'
 level: hs
 contact:

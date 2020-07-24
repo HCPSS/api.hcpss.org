@@ -2,7 +2,7 @@
 acronym: mhhs
 name: 'Mount Hebron'
 full_name: 'Mount Hebron High School'
-primary_color: '#black'''
+primary_color: '#000000'
 secondary_color: '#f2b700'
 highlight_color: '#f2b700'
 level: hs
