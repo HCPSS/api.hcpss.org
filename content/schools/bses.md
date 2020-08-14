@@ -8,7 +8,7 @@ highlight_color: '#990000'
 level: es
 contact:
     phone: 410-313-5057
-    fax: 410-313-5060
+    fax: 443-973-5537
 address:
     street: '8125 Old Stockbridge Road'
     city: 'Ellicott City'
