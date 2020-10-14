@@ -1,5 +1,6 @@
 {
     "name": "{{ .Params.name }}",
+    "code": {{ if .Params.code }}{{ .Params.code }}{{ else }}null{{ end }},
     "address": {
 		"street": "{{ .Params.address.street }}",
 		"city": "{{ .Params.address.city }}",

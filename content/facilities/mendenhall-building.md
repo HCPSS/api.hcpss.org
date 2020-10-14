@@ -1,5 +1,6 @@
 ---
 type: facility
+code: 99
 name: Mendenhall Building
 address:
   street: 9020 Mendenhall Court

@@ -1,5 +1,6 @@
 ---
 type: facility
+code: 45
 name: Old Cedar Lane School
 address:
   street: 5451 Beaverkill Road

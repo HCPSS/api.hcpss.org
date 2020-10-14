@@ -1,5 +1,6 @@
 ---
 type: facility
+code: 80
 name: Ridge Road
 address:
   street: 8800 Ridge Road
