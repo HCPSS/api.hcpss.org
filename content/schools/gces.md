@@ -6,6 +6,10 @@ primary_color: '#006699'
 secondary_color: '#D6D6D6'
 highlight_color: '#006699'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_gces
+  facebook: ~
 contact:
     phone: 410-880-5900
     fax: 410-880-5902

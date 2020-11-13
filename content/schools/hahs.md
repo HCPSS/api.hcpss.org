@@ -6,6 +6,10 @@ primary_color: '#850000'
 secondary_color: '#FFFF00'
 highlight_color: '#850000'
 level: hs
+social_accounts:
+  instagram: hcpss_hahs
+  twitter: hcpss_hahs
+  facebook: ~
 contact:
     phone: 410-313-7615
     fax: 410-313-7632

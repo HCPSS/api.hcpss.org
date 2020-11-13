@@ -6,6 +6,10 @@ primary_color: '#006699'
 secondary_color: '#D6D6D6'
 highlight_color: '#006699'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_cles
+  facebook: ~
 contact:
     phone: 410-313-2800
     fax: 410-313-2804

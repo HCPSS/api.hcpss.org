@@ -6,6 +6,10 @@ primary_color: '#000099'
 secondary_color: '#D6D6D6'
 highlight_color: '#000099'
 level: ms
+social_accounts:
+  instagram: patapscoms
+  twitter: hcpss_PMS
+  facebook: pms.hcpss.org
 contact:
     phone: 410-313-2848
     fax: 410-313-2852

@@ -6,6 +6,10 @@ primary_color: '#002C77'
 secondary_color: '#D6D6D6'
 highlight_color: '#002C77'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: ~
+  facebook: ~
 contact:
     phone: 410-313-8066
     fax: 410-712-0296

@@ -6,6 +6,10 @@ primary_color: '#000000'
 secondary_color: '#D6D6D6'
 highlight_color: '#D6D6D6'
 level: ms
+social_accounts:
+  instagram: ~
+  twitter: hcpss_cms
+  facebook: ~
 contact:
     phone: 410-313-7057
     fax: 410-531-5105

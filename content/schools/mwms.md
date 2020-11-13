@@ -6,6 +6,10 @@ primary_color: '#000000'
 secondary_color: '#D6D6D6'
 highlight_color: '#D6D6D6'
 level: ms
+social_accounts:
+  instagram: principal_mstevens
+  twitter: hcpss_mwms
+  facebook: ~
 contact:
     phone: 410-313-5022
     fax: 410-313-5029

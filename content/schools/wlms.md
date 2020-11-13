@@ -6,6 +6,10 @@ primary_color: '#003399'
 secondary_color: '#D6D6D6'
 highlight_color: '#003399'
 level: ms
+social_accounts:
+  instagram: ~
+  twitter: hcpss_wlms
+  facebook: WildeLakeMiddle
 contact:
     phone: 410-313-6957
     fax: 410-313-6963

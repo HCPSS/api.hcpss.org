@@ -6,6 +6,10 @@ primary_color: '#003366'
 secondary_color: '#D6D6D6'
 highlight_color: '#003366'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_lwes
+  facebook: ~
 contact:
     phone: 410-880-5960
     fax: 410-880-5964

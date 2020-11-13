@@ -6,6 +6,10 @@ primary_color: '#006666'
 secondary_color: '#D6D6D6'
 highlight_color: '#006666'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_ies
+  facebook: ~
 contact:
     phone: 410-313-2524
     fax: 410-313-2527

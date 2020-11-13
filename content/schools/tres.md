@@ -6,6 +6,10 @@ primary_color: '#006633'
 secondary_color: '#D6D6D6'
 highlight_color: '#006633'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_tres
+  facebook: TRESHCPSS
 contact:
     phone: 410-313-2560
     fax: 410-313-2566

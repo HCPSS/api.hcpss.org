@@ -6,6 +6,10 @@ primary_color: '#990000'
 secondary_color: '#D6D6D6'
 highlight_color: '#990000'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_bses
+  facebook: ~
 contact:
     phone: 410-313-5057
     fax: 443-973-5537

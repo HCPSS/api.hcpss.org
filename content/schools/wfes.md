@@ -6,6 +6,10 @@ primary_color: '#003300'
 secondary_color: '#D6D6D6'
 highlight_color: '#003300'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_wfes
+  facebook: https://www.facebook.com/groups/213407053212599/
 contact:
     phone: 410-313-5512
     fax: 410-313-5514

@@ -6,6 +6,10 @@ primary_color: '#660000'
 secondary_color: '#D6D6D6'
 highlight_color: '#660000'
 level: ms
+social_accounts:
+  instagram: ~
+  twitter: hcpss_elms
+  facebook: ELMSHCPSS
 contact:
     phone: 410-313-5040
     fax: 410-313-5045

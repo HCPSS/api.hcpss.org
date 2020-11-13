@@ -6,6 +6,10 @@ primary_color: '#09345C'
 secondary_color: '#D6D6D6'
 highlight_color: '#09345C'
 level: es
+social_accounts:
+  instagram: clemenscrossingelementary
+  twitter: hcpss_cces
+  facebook: ClemensCrossingElementary
 contact:
     phone: 410-313-6866
     fax: 410-313-6869

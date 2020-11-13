@@ -6,6 +6,10 @@ primary_color: '#996699'
 secondary_color: '#D6D6D6'
 highlight_color: '#996699'
 level: ms
+social_accounts:
+  instagram: ~
+  twitter: hcpss_mvms
+  facebook: ~
 contact:
     phone: 410-313-5545
     fax: 410-313-5551

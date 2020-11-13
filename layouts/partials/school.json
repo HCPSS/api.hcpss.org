@@ -5,7 +5,12 @@
 	"primary_color": "{{ .school.primary_color }}",
 	"secondary_color": "{{ .school.secondary_color }}",
 	"highlight_color": "{{ .school.highlight_color }}",
-	"level": "{{ .school.level }}",
+  "level": "{{ .school.level }}",
+  "social": {
+    "twitter": "{{ if .school.social.twitter }}{{ .school.social.twitter }}{{ else }}hcpss_{{ .school.acronym }}{{ end }}",
+    "facebook": {{ if .school.social.facebook }}"{{ .school.social.facebook }}"{{ else }}null{{ end }},
+    "instagram": {{ if .school.social.instagram }}"{{ .school.social.instagram }}"{{ else }}null{{ end }}
+  },
 	"contact": {
 		"phone": "{{ .school.contact.phone }}",
 		"fax": "{{ .school.contact.fax }}"

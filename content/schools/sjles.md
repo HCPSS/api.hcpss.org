@@ -6,6 +6,10 @@ primary_color: '#003366'
 secondary_color: '#D6D6D6'
 highlight_color: '#003366'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_sjles
+  facebook: ~
 contact:
     phone: 410-313-2813
     fax: 410-313-2817

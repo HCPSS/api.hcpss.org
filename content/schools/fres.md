@@ -6,6 +6,10 @@ primary_color: '#0066CC'
 secondary_color: '#D6D6D6'
 highlight_color: '#0066CC'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: ~
+  facebook: ~
 contact:
     phone: 410-880-5950
     fax: 410-880-5956

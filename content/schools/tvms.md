@@ -6,6 +6,10 @@ primary_color: '#006699'
 secondary_color: '#D6D6D6'
 highlight_color: '#006699'
 level: ms
+social_accounts:
+  instagram: ~
+  twitter: hcpss_tvms
+  facebook: ~
 contact:
     phone: 410-313-8711
     fax: 410-313-8091

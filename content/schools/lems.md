@@ -6,6 +6,10 @@ primary_color: '#000000'
 secondary_color: '#D6D6D6'
 highlight_color: '#D6D6D6'
 level: ms
+social_accounts:
+  instagram: ~
+  twitter: hcpss_lems
+  facebook: ~
 contact:
     phone: 410-313-7600
     fax: 410-313-7633

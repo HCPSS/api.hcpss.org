@@ -6,6 +6,10 @@ primary_color: '#990000'
 secondary_color: '#D6D6D6'
 highlight_color: '#990000'
 level: es
+social_accounts:
+  instagram: ~
+  twitter: hcpss_loes
+  facebook: hcpssloes
 contact:
     phone: 410-313-6879
     fax: 410-313-7106

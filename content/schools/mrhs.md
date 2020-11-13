@@ -6,6 +6,10 @@ primary_color: '#132C61'
 secondary_color: '#777'
 highlight_color: '#132C61'
 level: hs
+social_accounts:
+  instagram: ~
+  twitter: hcpss_mrhs
+  facebook: ~
 contact:
     phone: 410-313-5568
     fax: 410-313-5574

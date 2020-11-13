@@ -6,6 +6,10 @@ primary_color: '#50ABDD'
 secondary_color: '#FFFF87'
 highlight_color: '#50ABDD'
 level: hs
+social_accounts:
+  instagram: ~
+  twitter: hcpss_rhhs
+  facebook: rhhshawkpride
 contact:
     phone: 410-313-7120
     fax: 410-313-7406

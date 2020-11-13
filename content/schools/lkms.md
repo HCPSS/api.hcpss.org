@@ -6,6 +6,10 @@ primary_color: '#669966'
 secondary_color: '#D6D6D6'
 highlight_color: '#669966'
 level: ms
+social_accounts:
+  instagram: ~
+  twitter: hcpss_lkms
+  facebook: ~
 contact:
     phone: 410-880-5988
     fax: 410-880-5996

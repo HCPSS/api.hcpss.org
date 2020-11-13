@@ -6,6 +6,10 @@ primary_color: '#6699CC'
 secondary_color: '#D6D6D6'
 highlight_color: '#6699CC'
 level: es
+social_accounts:
+  instagram: fesmaryland
+  twitter: hcpss_fes
+  facebook: ~
 contact:
     phone: 410-880-5957
     fax: 410-880-5969

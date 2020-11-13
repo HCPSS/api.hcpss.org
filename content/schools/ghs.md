@@ -6,6 +6,10 @@ primary_color: '#BD0020'
 secondary_color: '#000000'
 highlight_color: '#BD0020'
 level: hs
+social_accounts:
+  instagram: ~
+  twitter: ~
+  facebook: ~
 contact:
     phone: 410-313-5528
     fax: 410-313-5540

@@ -6,6 +6,10 @@ primary_color: '#3A4C94'
 secondary_color: '#EB9339'
 highlight_color: '#EB9339'
 level: hs
+social_accounts:
+  instagram: ~
+  twitter: hcpss_rhs
+  facebook: ~
 contact:
     phone: 410-888-8850
     fax: 410-888-8849
