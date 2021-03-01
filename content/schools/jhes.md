@@ -21,8 +21,8 @@ address:
     longitude: '-76.8284834'
 principal: 'Patricia Shifflett'
 hours:
-    open: '9:00 a.m.'
-    close: '3:30 p.m.'
+    open: '9:20 a.m.'
+    close: '3:50 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_jeffershill.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0613/'
 walk_area: 'https://www.hcpss.org/f/schools/jeffers-hill-es-walk-area.pdf'

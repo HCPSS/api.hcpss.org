@@ -21,8 +21,8 @@ address:
     longitude: '-76.9857596'
 principal: 'Carol DeBord'
 hours:
-    open: '9:00 a.m.'
-    close: '3:30 p.m.'
+    open: '9:20 a.m.'
+    close: '3:50 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_daytonoaks.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0528/'
 walk_area: null

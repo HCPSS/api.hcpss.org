@@ -21,8 +21,8 @@ address:
     longitude: '-76.8460498'
 principal: 'Megan Chrobak'
 hours:
-    open: '7:55 a.m.'
-    close: '2:40 p.m.'
+    open: '8:15 a.m.'
+    close: '3:00 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_oaklandmills.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0610/'
 walk_area: 'https://www.hcpss.org/f/schools/oakland-mills-ms-walk-area.pdf'

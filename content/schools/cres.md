@@ -21,8 +21,8 @@ address:
     longitude: '-76.8458072'
 principal: 'Jason McCoy'
 hours:
-    open: '8:15 a.m.'
-    close: '2:45 p.m.'
+    open: '8:35 a.m.'
+    close: '3:05 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_cradlerock.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0616/'
 walk_area: 'https://www.hcpss.org/f/schools/cradlerock-es-walk-area.pdf'

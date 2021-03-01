@@ -21,8 +21,8 @@ address:
     longitude: '-76.8417055'
 principal: 'Genee Varlack'
 hours:
-    open: '9:15 a.m.'
-    close: '3:45 p.m.'
+    open: '9:45 a.m.'
+    close: '4:05 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_forestridge.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0622/'
 walk_area: 'https://www.hcpss.org/f/schools/forest-ridge-es-walk-area.pdf'

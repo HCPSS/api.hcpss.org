@@ -21,8 +21,8 @@ address:
     longitude: '-76.9268525'
 principal: 'Joelle Miller'
 hours:
-    open: '8:25 a.m.'
-    close: '3:10 p.m.'
+    open: '8:45 a.m.'
+    close: '3:30 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_clarksville.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0521/'
 walk_area: 'https://www.hcpss.org/f/schools/clarksville-ms-walk-area.pdf'

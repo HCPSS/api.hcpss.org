@@ -21,8 +21,8 @@ address:
     longitude: '-76.9854438'
 principal: 'Scott Conroy'
 hours:
-    open: '7:40 a.m.'
-    close: '2:25 p.m.'
+    open: '8:00 a.m.'
+    close: '2:45 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_follyquarter.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0307/'
 walk_area: null

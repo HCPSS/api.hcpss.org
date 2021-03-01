@@ -21,8 +21,8 @@ address:
     longitude: '-76.9356472'
 principal: 'Allen Cosentino'
 hours:
-    open: '7:40 a.m.'
-    close: '2:25 p.m.'
+    open: '8:00 a.m.'
+    close: '2:45 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_mountview.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0304/'
 walk_area: 'https://www.hcpss.org/f/schools/mount-view-ms-walk-area.pdf'

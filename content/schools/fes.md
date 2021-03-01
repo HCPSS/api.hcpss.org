@@ -21,8 +21,8 @@ address:
     longitude: '-76.9176283'
 principal: 'Sharon Lewandowski'
 hours:
-    open: '9:25 a.m.'
-    close: '3:55 p.m.'
+    open: '9:45 a.m.'
+    close: '4:15 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_fulton.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0525/'
 walk_area: 'https://www.hcpss.org/f/schools/fulton-es-walk-area.pdf'

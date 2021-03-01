@@ -21,8 +21,8 @@ address:
     longitude: '-76.9165707'
 principal: 'Kathryn McKinley'
 hours:
-    open: '7:25 a.m.'
-    close: '2:10 p.m.'
+    open: '7:45 a.m.'
+    close: '2:30 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_riverhill.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0524/'
 walk_area: 'https://www.hcpss.org/f/schools/river-hill-hs-walk-area.pdf'

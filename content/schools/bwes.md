@@ -21,8 +21,8 @@ address:
     longitude: '-76.8694347'
 principal: 'Kelley Hough'
 hours:
-    open: '8:45 a.m.'
-    close: '3:15 p.m.'
+    open: '9:05 a.m.'
+    close: '3:35 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_bryantwoods.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0510/'
 walk_area: 'https://www.hcpss.org/f/schools/bryant-woods-es-walk-area.pdf'

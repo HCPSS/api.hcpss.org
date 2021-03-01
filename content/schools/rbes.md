@@ -21,8 +21,8 @@ address:
     longitude: '-76.8597167'
 principal: 'Troy Todd'
 hours:
-    open: '9:25 a.m.'
-    close: '3:55 p.m.'
+    open: '9:45 a.m.'
+    close: '4:15 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_runningbrook.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0515/'
 walk_area: 'https://www.hcpss.org/f/schools/running-brook-es-walk-area.pdf'

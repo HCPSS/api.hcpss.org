@@ -21,8 +21,8 @@ address:
     longitude: '-76.8356276'
 principal: 'Vicky Sarro'
 hours:
-    open: '8:45 a.m.'
-    close: '3:15 p.m.'
+    open: '9:05 a.m.'
+    close: '3:35 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_stjohnslane.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0204/'
 walk_area: 'https://www.hcpss.org/f/schools/st-johns-lane-es-walk-area.pdf'

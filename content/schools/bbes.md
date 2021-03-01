@@ -21,8 +21,8 @@ address:
     longitude: '-76.8297667'
 principal: 'Rhonda Inskeep'
 hours:
-    open: '8:35 a.m.'
-    close: '3:05 p.m.'
+    open: '8:55 a.m.'
+    close: '3:25 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_bollmanbridge.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0620/'
 walk_area: 'https://www.hcpss.org/f/schools/bollman-bridge-es-walk-area.pdf'

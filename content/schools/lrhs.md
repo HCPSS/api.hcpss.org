@@ -21,8 +21,8 @@ address:
     longitude: '-76.8133072'
 principal: 'Josh Wasilewski'
 hours:
-    open: '7:25 a.m.'
-    close: '2:10 p.m.'
+    open: '7:45 a.m.'
+    close: '2:30 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_longreach.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0623/'
 walk_area: 'https://www.hcpss.org/f/schools/long-reach-hs-walk-area.pdf'

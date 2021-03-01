@@ -21,8 +21,8 @@ address:
     longitude: '-76.9814639'
 principal: 'Lisa Smithson'
 hours:
-    open: '8:55 a.m.'
-    close: '3:25 p.m.'
+    open: '9:15 a.m.'
+    close: '3:45 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_triadelphiaridge.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0306/'
 walk_area: null
