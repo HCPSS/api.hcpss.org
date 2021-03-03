@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2988298'
     longitude: '-76.8426196'
-principal: 'Andrew Cockley'
+principal: 'Joelle Miller'
 hours:
     open: '7:45 a.m.'
     close: '2:30 p.m.'

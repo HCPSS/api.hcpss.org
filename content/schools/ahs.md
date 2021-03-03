@@ -19,7 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.1883603'
     longitude: '-76.8825817'
-principal: 'JoAnn Hutchens'
+principal: 'Robert Motley'
 hours:
     open: '7:45 a.m.'
     close: '2:30 p.m.'

@@ -19,7 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.2288342'
     longitude: '-76.8597167'
-principal: 'Troy Todd'
+principal: 'Tony Esposito'
 hours:
     open: '9:45 a.m.'
     close: '4:15 p.m.'

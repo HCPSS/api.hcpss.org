@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2564951'
     longitude: '-76.8343849'
-principal: 'Jeffery Fink'
+principal: 'Antoinette Roberson'
 hours:
     open: '8:00 a.m.'
     close: '2:45 p.m.'

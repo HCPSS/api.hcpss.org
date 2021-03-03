@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2660437'
     longitude: '-76.9854438'
-principal: 'Scott Conroy'
+principal: 'Megan Chrobak'
 hours:
     open: '8:00 a.m.'
     close: '2:45 p.m.'

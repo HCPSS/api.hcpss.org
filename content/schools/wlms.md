@@ -19,7 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.217985'
     longitude: '-76.8786983'
-principal: 'Anne Swartz'
+principal: 'Christopher Rattay'
 hours:
     open: '8:20 a.m.'
     close: '3:05 p.m.'

@@ -19,7 +19,7 @@ address:
     postal_code: 21029
     latitude: '39.190697'
     longitude: '-76.9280935'
-principal: 'Lenore Schiff'
+principal: 'Julie Schruefer'
 hours:
     open: '9:45 a.m.'
     close: '4:15 p.m.'

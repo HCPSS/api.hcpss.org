@@ -19,7 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1447522'
     longitude: '-76.8603862'
-principal: 'Deborah Caldwell'
+principal: 'Deborah Holmes'
 hours:
     open: '9:45 a.m.'
     close: '4:15 p.m.'

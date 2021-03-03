@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.290175'
     longitude: '-76.9155706'
-principal: 'James Weisner'
+principal: 'Carol DeBord'
 hours:
     open: '9:05 a.m.'
     close: '3:35 p.m.'

@@ -19,7 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1453682'
     longitude: '-76.8607849'
-principal: 'Rick Wilson'
+principal: 'Lisa Smithson'
 hours:
     open: '8:45 a.m.'
     close: '3:30 p.m.'

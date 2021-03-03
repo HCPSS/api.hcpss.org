@@ -19,7 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2500543'
     longitude: '-76.812856'
-principal: 'Christopher Rattay'
+principal: 'Peter Gaylord'
 hours:
     open: '8:45 a.m.'
     close: '3:30 p.m.'

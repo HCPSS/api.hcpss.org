@@ -19,7 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2311388'
     longitude: '-76.7760581'
-principal: 'Joy Byrd-Butler'
+principal: 'Ernesto Diaz'
 hours:
     open: '9:45 a.m.'
     close: '4:15 p.m.'

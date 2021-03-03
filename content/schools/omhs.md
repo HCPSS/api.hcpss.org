@@ -19,7 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2088819'
     longitude: '-76.8413936'
-principal: 'Elaine Reid'
+principal: 'Jeffrey Fin'
 hours:
     open: '7:45 a.m.'
     close: '2:30 p.m.'

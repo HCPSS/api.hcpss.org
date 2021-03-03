@@ -19,7 +19,7 @@ address:
     postal_code: 20759
     latitude: '39.151512'
     longitude: '-76.9165707'
-principal: 'Pat Saunderson'
+principal: 'Karim Shortridge'
 hours:
     open: '7:45 a.m.'
     close: '2:30 p.m.'

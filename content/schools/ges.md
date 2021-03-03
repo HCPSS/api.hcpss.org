@@ -19,7 +19,7 @@ address:
     postal_code: 21046
     latitude: '39.1697818'
     longitude: '-76.8321456'
-principal: 'Jonathan Davis'
+principal: 'Justin FitzGerald'
 hours:
     open: '9:45 a.m.'
     close: '4:15 p.m.'

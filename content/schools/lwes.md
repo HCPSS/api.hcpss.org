@@ -19,7 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1177367'
     longitude: '-76.8448679'
-principal: 'Susan Brown'
+principal: 'Connie Stahler'
 hours:
     open: '9:20 a.m.'
     close: '3:50 p.m.'

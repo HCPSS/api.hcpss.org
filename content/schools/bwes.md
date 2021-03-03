@@ -19,7 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.2210506'
     longitude: '-76.8694347'
-principal: 'Kelley Hough'
+principal: 'Kelley Powell'
 hours:
     open: '9:05 a.m.'
     close: '3:35 p.m.'

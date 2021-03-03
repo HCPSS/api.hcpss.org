@@ -19,7 +19,7 @@ address:
     postal_code: 21738
     latitude: '39.3025517'
     longitude: '-77.0206572'
-principal: 'Molly Ketterer'
+principal: 'Julia Bialeski'
 hours:
     open: '9:40 a.m.'
     close: '4:10 p.m.'

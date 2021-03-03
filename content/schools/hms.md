@@ -19,7 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1483545'
     longitude: '-76.880843'
-principal: 'Kerry Dufresne'
+principal: 'Aaron Dale'
 hours:
     open: '8:25 a.m.'
     close: '3:10 p.m.'

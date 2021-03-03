@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2649562'
     longitude: '-76.8660008'
-principal: 'Amanda Wadsworth'
+principal: 'Tracey Albright'
 hours:
     open: '9:05 a.m.'
     close: '3:35 p.m.'

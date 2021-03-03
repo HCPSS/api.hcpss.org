@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2529102'
     longitude: '-76.8708201'
-principal: 'Claire Hafets'
+principal: 'Cynthia Dillon'
 hours:
     open: '7:45 a.m.'
     close: '2:30 p.m.'

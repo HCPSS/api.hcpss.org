@@ -19,7 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.1915016'
     longitude: '-76.8458072'
-principal: 'Jason McCoy'
+principal: 'Jonathan Davis'
 hours:
     open: '8:35 a.m.'
     close: '3:05 p.m.'

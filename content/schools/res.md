@@ -19,7 +19,7 @@ address:
     postal_code: 21075
     latitude: '39.215107'
     longitude: '-76.770499'
-principal: 'Lauren Bauer'
+principal: 'Elizabeth Yankle'
 hours:
     open: '9:10 a.m.'
     close: '3:40 p.m.'

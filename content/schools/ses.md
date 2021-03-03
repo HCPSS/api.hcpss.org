@@ -19,7 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.2167617'
     longitude: '-76.8908621'
-principal: 'Maisha Strong'
+principal: 'Laurel Porter'
 hours:
     open: '9:05 a.m.'
     close: '3:35 p.m.'

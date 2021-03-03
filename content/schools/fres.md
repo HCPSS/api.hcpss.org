@@ -19,7 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1356831'
     longitude: '-76.8417055'
-principal: 'Genee Varlack'
+principal: 'Scott Conroy'
 hours:
     open: '9:45 a.m.'
     close: '4:05 p.m.'

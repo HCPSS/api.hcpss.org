@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2560906'
     longitude: '-76.832242'
-principal: 'Tiffany Tresler'
+principal: 'Cathleen Lopez'
 hours:
     open: '9:00 a.m.'
     close: '3:30 p.m.'

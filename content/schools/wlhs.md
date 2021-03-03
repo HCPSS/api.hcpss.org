@@ -19,7 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.217406'
     longitude: '-76.8749507'
-principal: 'James LeMon'
+principal: 'Marcy Leonard'
 hours:
     open: '7:45 a.m.'
     close: '2:30 p.m.'

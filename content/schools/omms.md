@@ -19,7 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.207058'
     longitude: '-76.8460498'
-principal: 'Megan Chrobak'
+principal: 'Allen Cosentino'
 hours:
     open: '8:15 a.m.'
     close: '3:00 p.m.'

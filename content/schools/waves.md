@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.3048169'
     longitude: '-76.8709321'
-principal: 'Kathy Jacobs'
+principal: 'Rachel Edoho-Eket'
 hours:
     open: '9:35 a.m.'
     close: '4:05 p.m.'

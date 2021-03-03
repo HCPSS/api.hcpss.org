@@ -19,7 +19,7 @@ address:
     postal_code: 21075
     latitude: '39.2123186'
     longitude: '-76.7314836'
-principal: 'Gina Cash'
+principal: 'David Strothers'
 hours:
     open: '8:20 a.m.'
     close: '3:05 p.m.'

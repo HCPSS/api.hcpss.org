@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2550906'
     longitude: '-76.8692511'
-principal: 'Antoinette Roberson'
+principal: 'Mikaela Lidgard'
 hours:
     open: '8:20 a.m.'
     close: '3:05 p.m.'

@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2904753'
     longitude: '-76.8356276'
-principal: 'Vicky Sarro'
+principal: 'Daniel Notari'
 hours:
     open: '9:05 a.m.'
     close: '3:35 p.m.'

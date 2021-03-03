@@ -19,7 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1482806'
     longitude: '-76.8807615'
-principal: 'Kim Pratesi'
+principal: 'Lisa Ciarapica'
 hours:
     open: '9:20 a.m.'
     close: '3:50 p.m.'

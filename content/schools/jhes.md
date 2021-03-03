@@ -19,7 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2054858'
     longitude: '-76.8284834'
-principal: 'Patricia Shifflett'
+principal: 'Maisha Strong'
 hours:
     open: '9:20 a.m.'
     close: '3:50 p.m.'

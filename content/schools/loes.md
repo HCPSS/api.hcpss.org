@@ -19,7 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.226514'
     longitude: '-76.883786'
-principal: 'Laurel Marsh'
+principal: 'Derek Anderson'
 hours:
     open: '9:15 a.m.'
     close: '3:45 p.m.'

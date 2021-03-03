@@ -19,7 +19,7 @@ address:
     postal_code: 21046
     latitude: '39.1678898'
     longitude: '-76.8628862'
-principal: 'Marcy Leonard'
+principal: 'John DiPaula'
 hours:
     open: '7:45 a.m.'
     close: '2:30 p.m.'

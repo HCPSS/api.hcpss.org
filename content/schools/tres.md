@@ -19,7 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.266243'
     longitude: '-76.9814639'
-principal: 'Lisa Smithson'
+principal: 'Tiffany Tresler'
 hours:
     open: '9:15 a.m.'
     close: '3:45 p.m.'

@@ -19,7 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.229003'
     longitude: '-76.8366536'
-principal: 'Martha Bowen'
+principal: 'Martha Miller'
 hours:
     open: '9:45 a.m.'
     close: '4:15 p.m.'

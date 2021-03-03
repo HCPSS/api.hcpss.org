@@ -19,7 +19,7 @@ address:
     postal_code: 20759
     latitude: '39.1511171'
     longitude: '-76.9176283'
-principal: 'Sharon Lewandowski'
+principal: 'Tanisha Burks'
 hours:
     open: '9:45 a.m.'
     close: '4:15 p.m.'

@@ -19,7 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.1918436'
     longitude: '-76.8451647'
-principal: 'Martin Vandenberge'
+principal: 'Melissa Shindel'
 hours:
     open: '8:20 a.m.'
     close: '3:05 p.m.'

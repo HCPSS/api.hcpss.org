@@ -19,7 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.3024964'
     longitude: '-76.8199441'
-principal: 'Lisa Booth'
+principal: 'Amanda Wadsworth'
 hours:
     open: '9:05 a.m.'
     close: '3:35 p.m.'
