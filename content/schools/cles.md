@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2649562'
     longitude: '-76.8660008'
+    google_maps_place_id: ChIJs9F5lVogyIkRXUKT5hGES_Q
 principal: 'Tracey Albright'
 hours:
     open: '9:05 a.m.'

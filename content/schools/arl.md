@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.234915'
     longitude: '-76.894786'
+    google_maps_place_id: ChIJY-mKImHft4kRcsQssWoFV3U
 principal: 'Karl Schindler'
 hours:
     open: null

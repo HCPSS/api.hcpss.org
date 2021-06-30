@@ -19,6 +19,7 @@ address:
     postal_code: 21029
     latitude: '39.190697'
     longitude: '-76.9280935'
+    google_maps_place_id: ChIJv2y4vzHZt4kR-KtyVdG-DgM
 principal: 'Julie Schruefer'
 hours:
     open: '9:45 a.m.'

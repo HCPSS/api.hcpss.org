@@ -19,6 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1482806'
     longitude: '-76.8807615'
+    google_maps_place_id: ChIJIZ3vqC7ct4kRoni9GZoY6Ic
 principal: 'Lisa Ciarapica'
 hours:
     open: '9:20 a.m.'

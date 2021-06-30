@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2540295'
     longitude: '-76.815074'
+    google_maps_place_id: ChIJURYQvpIfyIkRBeJRkJQmVlU
 principal: 'Robert Bruce'
 hours:
     open: '9:45 a.m.'

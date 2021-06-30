@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2904753'
     longitude: '-76.8356276'
+    google_maps_place_id: ChIJ6VXIs90hyIkRpllISXUMh-s
 principal: 'Daniel Notari'
 hours:
     open: '9:05 a.m.'

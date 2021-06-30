@@ -19,6 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.2167617'
     longitude: '-76.8908621'
+    google_maps_place_id: ChIJbwj2tWzft4kRQLt2TtSsJYM
 principal: 'Laurel Porter'
 hours:
     open: '9:05 a.m.'

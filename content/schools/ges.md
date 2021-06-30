@@ -19,6 +19,7 @@ address:
     postal_code: 21046
     latitude: '39.1697818'
     longitude: '-76.8321456'
+    google_maps_place_id: ChIJA5rK6CHet4kRemSLBwd2RyI
 principal: 'Justin FitzGerald'
 hours:
     open: '9:45 a.m.'

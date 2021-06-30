@@ -19,6 +19,7 @@ address:
     postal_code: 21797
     latitude: '39.334269'
     longitude: '-77.0676604'
+    google_maps_place_id: ChIJzehj8TEpyIkRy20T3s5RqLo
 principal: 'Debra Anoff'
 hours:
     open: '9:00 a.m.'

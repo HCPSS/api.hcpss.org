@@ -19,6 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1356831'
     longitude: '-76.8417055'
+    google_maps_place_id: ChIJu-4GJezdt4kRB5RkyPEmgOQ
 principal: 'Scott Conroy'
 hours:
     open: '9:45 a.m.'

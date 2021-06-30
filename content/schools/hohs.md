@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2261309'
     longitude: '-76.8153953'
+    google_maps_place_id: ChIJf86fuxzgt4kRf3kKNRX8y
 principal: 'Nick Novak'
 hours:
     open: '7:45 a.m.'

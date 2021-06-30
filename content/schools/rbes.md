@@ -19,6 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.2288342'
     longitude: '-76.8597167'
+    google_maps_place_id: ChIJq4HnN4_ft4kRsUOIsPcW1tw
 principal: 'Tony Esposito'
 hours:
     open: '9:45 a.m.'

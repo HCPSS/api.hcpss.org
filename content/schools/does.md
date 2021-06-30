@@ -19,6 +19,7 @@ address:
     postal_code: 21036
     latitude: '39.2408616'
     longitude: '-76.9857596'
+    google_maps_place_id: ChIJtZLRrHPYt4kRGZ7_ZVL4wDA
 principal: 'Nigel La Roche'
 hours:
     open: '9:20 a.m.'

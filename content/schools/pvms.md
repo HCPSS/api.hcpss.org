@@ -19,6 +19,7 @@ address:
     postal_code: 20763
     latitude: '39.1465566'
     longitude: '-76.8265491'
+    google_maps_place_id: ChIJT2n2S_7dt4kR11VMvjrnYHE
 principal: 'Rick Robb'
 hours:
     open: '8:00 a.m.'

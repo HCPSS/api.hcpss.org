@@ -19,6 +19,7 @@ address:
     postal_code: 21794
     latitude: '39.3015734'
     longitude: '-76.9500937'
+    google_maps_place_id: ChIJxXLs6-smyIkReXPNLl1tgcU
 principal: 'Kaye Breon'
 hours:
     open: '9:35 a.m.'

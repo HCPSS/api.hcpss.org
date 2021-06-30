@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2221906'
     longitude: '-76.8204183'
+    google_maps_place_id: ChIJEb-eiwTgt4kRteJBBzVKabo
 principal: 'Michelle Leader'
 hours:
     open: '9:15 a.m.'

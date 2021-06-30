@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2445993'
     longitude: '-76.7973689'
+    google_maps_place_id: ChIJBf8HAMcfyIkRV4TnZI6fvWk
 principal: 'Kelli Jenkins'
 hours:
     open: '9:45 a.m.'

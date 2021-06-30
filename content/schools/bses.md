@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2042888'
     longitude: '-76.7891695'
+    google_maps_place_id: ChIJ-zuHlUngt4kRpVs2tEhMXFw
 principal: 'Carol Hahn'
 hours:
     open: '9:45 a.m.'

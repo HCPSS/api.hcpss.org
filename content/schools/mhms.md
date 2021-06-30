@@ -19,6 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1453682'
     longitude: '-76.8607849'
+    google_maps_place_id: ChIJZ8QiU9rdt4kRZe3ltdrg0A8
 principal: 'Lisa Smithson'
 hours:
     open: '8:45 a.m.'

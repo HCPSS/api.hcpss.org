@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.3024964'
     longitude: '-76.8199441'
+    google_maps_place_id: ChIJd6c5XFAfyIkRi5N_dmUfuRQ
 principal: 'Amanda Wadsworth'
 hours:
     open: '9:05 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2054858'
     longitude: '-76.8284834'
+    google_maps_place_id: ChIJ49Pbr9jft4kR5DhrOtCCwB8
 principal: 'Maisha Strong'
 hours:
     open: '9:20 a.m.'

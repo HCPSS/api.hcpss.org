@@ -19,6 +19,7 @@ address:
     postal_code: 21737
     latitude: '39.2748623'
     longitude: '-77.0054929'
+    google_maps_place_id: ChIJf96uUsMnyIkRO2zkqSrEYAw
 principal: 'David Burton'
 hours:
     open: '7:45 a.m.'

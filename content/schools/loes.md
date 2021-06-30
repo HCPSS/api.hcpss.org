@@ -19,6 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.226514'
     longitude: '-76.883786'
+    google_maps_place_id: ChIJv7a8PnDft4kRgD3Zrn5N3cg
 principal: 'Derek Anderson'
 hours:
     open: '9:15 a.m.'

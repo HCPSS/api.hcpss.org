@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2500543'
     longitude: '-76.812856'
+    google_maps_place_id: ChIJfTIgNJMfyIkRSsi4gFhgIWo
 principal: 'Peter Gaylord'
 hours:
     open: '8:45 a.m.'

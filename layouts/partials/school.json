@@ -20,7 +20,8 @@
 		"city": "{{ .school.address.city }}",
 		"postal_code": "{{ .school.address.postal_code }}",
 		"latitude": "{{ .school.address.latitude }}",
-		"longitude": "{{ .school.address.longitude }}"
+		"longitude": "{{ .school.address.longitude }}",
+		"google_maps_place_id": "{{ .school.address.google_maps_place_id }}"
 	},
 	"principal": "{{ .school.principal }}",
 	"hours": {

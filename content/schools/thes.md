@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.229003'
     longitude: '-76.8366536'
+    google_maps_place_id: ChIJ7TLOSvjft4kRTayXXiOZrC8
 principal: 'Martha Miller'
 hours:
     open: '9:45 a.m.'

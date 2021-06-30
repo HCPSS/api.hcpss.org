@@ -19,6 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1483545'
     longitude: '-76.880843'
+    google_maps_place_id: ChIJIZ3vqC7ct4kRRHJzEyTpJUA
 principal: 'Aaron Dale'
 hours:
     open: '8:25 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 20759
     latitude: '39.1511171'
     longitude: '-76.9176283'
+    google_maps_place_id: ChIJLU-3Nwbct4kRGe5gf91wuuM
 principal: 'Tanisha Burks'
 hours:
     open: '9:45 a.m.'

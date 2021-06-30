@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.266243'
     longitude: '-76.9814639'
+    google_maps_place_id: ChIJg5f0w5UnyIkRrDQM0h9dqe0
 principal: 'Tiffany Tresler'
 hours:
     open: '9:15 a.m.'

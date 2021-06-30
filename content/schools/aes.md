@@ -19,6 +19,7 @@ address:
     postal_code: 21046
     latitude: '39.187015'
     longitude: '-76.8658664'
+    google_maps_place_id: ChIJ78fdslHet4kR22eVEEmJ0Bo
 principal: 'Shawna Holden'
 hours:
     open: '9:35 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1177367'
     longitude: '-76.8448679'
+    google_maps_place_id: ChIJbdD83pvdt4kRfC-gh29bFlc
 principal: 'Connie Stahler'
 hours:
     open: '9:20 a.m.'

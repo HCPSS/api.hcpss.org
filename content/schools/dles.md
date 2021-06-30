@@ -19,6 +19,7 @@ address:
     postal_code: 21075
     latitude: '39.2014313'
     longitude: '-76.7479533'
+    google_maps_place_id: ChIJVxcGrZLht4kRQBzxrT0UXV0
 principal: 'Heidi Balter'
 hours:
     open: '9:10 a.m.'

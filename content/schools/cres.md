@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.1915016'
     longitude: '-76.8458072'
+    google_maps_place_id: ChIJeWmLYTTet4kR08eOfv_sYGI
 principal: 'Jonathan Davis'
 hours:
     open: '8:35 a.m.'

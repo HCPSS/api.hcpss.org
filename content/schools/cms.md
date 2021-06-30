@@ -19,6 +19,7 @@ address:
     postal_code: 21029
     latitude: '39.1901808'
     longitude: '-76.9268525'
+    google_maps_place_id: ChIJfZnvBS7Zt4kRsjxdHxC1LgU
 principal: 'Lisa Smith'
 hours:
     open: '8:45 a.m.'

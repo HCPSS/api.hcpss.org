@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2058966'
     longitude: '-76.8133072'
+    google_maps_place_id: ChIJcaGeF23gt4kRtjNgSubq6XY
 principal: 'Josh Wasilewski'
 hours:
     open: '7:45 a.m.'

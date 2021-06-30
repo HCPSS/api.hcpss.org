@@ -19,6 +19,7 @@ address:
     postal_code: 21075
     latitude: '39.1976236'
     longitude: '-76.7886887'
+    google_maps_place_id: ChIJP5FeOlLht4kRx_8qrVPlUdA
 principal: 'Monica Stevens'
 hours:
     open: '8:20 a.m.'

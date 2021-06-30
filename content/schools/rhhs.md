@@ -19,6 +19,7 @@ address:
     postal_code: 21029
     latitude: '39.151512'
     longitude: '-76.9165707'
+    google_maps_place_id: ChIJATQ9dMbYt4kRLIkKe0laYBc
 principal: 'Kathryn McKinley'
 hours:
     open: '7:45 a.m.'

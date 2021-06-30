@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.290175'
     longitude: '-76.9155706'
+    google_maps_place_id: ChIJHbHv2S0hyIkRxmUKTPNb11c
 principal: 'Carol DeBord'
 hours:
     open: '9:05 a.m.'

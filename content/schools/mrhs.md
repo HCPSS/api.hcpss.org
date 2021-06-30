@@ -19,6 +19,7 @@ address:
     postal_code: 21104
     latitude: '39.3217329'
     longitude: '-76.9362422'
+    google_maps_place_id: ChIJwZmUPKcmyIkRLhBI8eu_VJ4
 principal: 'Tammy Goldeisen'
 hours:
     open: '7:45 a.m.'

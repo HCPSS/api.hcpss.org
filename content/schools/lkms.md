@@ -19,6 +19,7 @@ address:
     postal_code: 20759
     latitude: '39.154542'
     longitude: '-76.9178859'
+    google_maps_place_id: ChIJeXvt1gDct4kRcC1bQnQWiSM
 principal: 'Lucy Lublin'
 hours:
     open: '8:45 a.m.'

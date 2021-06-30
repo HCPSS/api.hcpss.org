@@ -19,6 +19,7 @@ address:
     postal_code: 21076
     latitude: '39.1860358'
     longitude: '-76.7350143'
+    google_maps_place_id: ChIJ1VHlPofht4kR5NUSK50uDbw
 principal: 'Shiney Ann John'
 hours:
     open: '8:30 a.m.'

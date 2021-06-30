@@ -19,6 +19,7 @@ address:
     postal_code: 21029
     latitude: '39.2185856'
     longitude: '-76.9312884'
+    google_maps_place_id: ChIJ_7cYJsbYt4kR1pbBLdqa4Z8
 principal: 'Robin Malcotti'
 hours:
     open: '9:45 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.1883603'
     longitude: '-76.8825817'
+    google_maps_place_id: ChIJB3CgCvvet4kRL9XNuX6yxh4
 principal: 'Robert Motley'
 hours:
     open: '7:45 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 21076
     latitude: '39.1852463'
     longitude: '-76.7398292'
+    google_maps_place_id:
 principal: 'Troy Todd'
 hours:
     open: '9:10 a.m.'

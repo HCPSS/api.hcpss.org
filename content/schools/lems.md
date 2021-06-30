@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.1918436'
     longitude: '-76.8451647'
+    google_maps_place_id: ChIJj0rXTMvft4kRAbUV2-55M0E
 principal: 'Melissa Shindel'
 hours:
     open: '8:20 a.m.'

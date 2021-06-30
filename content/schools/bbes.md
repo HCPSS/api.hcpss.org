@@ -19,6 +19,7 @@ address:
     postal_code: 20763
     latitude: '39.1459103'
     longitude: '-76.8297667'
+    google_maps_place_id: ChIJwzaBEv_dt4kRbGQlZGgqlzE
 principal: 'Rhonda Inskeep'
 hours:
     open: '8:55 a.m.'

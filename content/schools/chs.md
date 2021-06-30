@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2529102'
     longitude: '-76.8708201'
+    google_maps_place_id: ChIJB5IaTmAgyIkR1aZiBsDRsrY
 principal: 'Cynthia Dillon'
 hours:
     open: '7:45 a.m.'

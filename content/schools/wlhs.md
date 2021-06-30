@@ -19,6 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.217406'
     longitude: '-76.8749507'
+    google_maps_place_id: ChIJt6DLe3Xft4kR0XYHaxCwdw0
 principal: 'Marcy Leonard'
 hours:
     open: '7:45 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2560906'
     longitude: '-76.832242'
+    google_maps_place_id: ChIJNfgdKyEgyIkRTcPKFE5jTbQ
 principal: 'Cathleen Lopez'
 hours:
     open: '9:00 a.m.'

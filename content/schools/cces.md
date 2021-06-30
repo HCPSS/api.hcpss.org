@@ -19,6 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.1940978'
     longitude: '-76.8749696'
+    google_maps_place_id: ChIJlf2gjf_et4kRVs86tnDFOo8
 principal: 'Ed Cosentino'
 hours:
     open: '9:35 a.m.'

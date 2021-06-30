@@ -19,6 +19,7 @@ address:
     postal_code: 21738
     latitude: '39.3025517'
     longitude: '-77.0206572'
+    google_maps_place_id: ChIJlR-nfI8oyIkRsU8grT3VriM
 principal: 'Julia Bialeski'
 hours:
     open: '9:40 a.m.'

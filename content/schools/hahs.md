@@ -19,6 +19,7 @@ address:
     postal_code: 21046
     latitude: '39.1678898'
     longitude: '-76.8628862'
+    google_maps_place_id: ChIJj4Q1sWjet4kRrZ3Dx-U4oQ4
 principal: 'John DiPaula'
 hours:
     open: '7:45 a.m.'

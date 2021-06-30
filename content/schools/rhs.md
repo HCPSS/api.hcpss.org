@@ -19,6 +19,7 @@ address:
     postal_code: 20759
     latitude: '39.151512'
     longitude: '-76.9165707'
+    google_maps_place_id: ChIJWQEkHwTct4kRIm99kNTgY3E
 principal: 'Karim Shortridge'
 hours:
     open: '7:45 a.m.'

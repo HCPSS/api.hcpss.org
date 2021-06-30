@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2130344'
     longitude: '-76.8457956'
+    google_maps_place_id: ChIJQThbA-rft4kRct6m8axaKt0
 principal: 'Nancy Thompson'
 hours:
     open: '9:00 a.m.'

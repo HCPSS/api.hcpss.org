@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2315274'
     longitude: '-76.7740725'
+    google_maps_place_id: ChIJwzaBEv_dt4kRbGQlZGgqlzE
 principal: 'Drew Cockley'
 hours:
     open: '8:30 a.m.'

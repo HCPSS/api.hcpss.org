@@ -19,6 +19,7 @@ address:
     postal_code: 21075
     latitude: '39.2564951'
     longitude: '-76.8343849'
+    google_maps_place_id: ChIJt0me8gPit4kRACdFs9P5uxw
 principal: 'Michael Caldwell'
 hours:
     open: '9:45 a.m.'

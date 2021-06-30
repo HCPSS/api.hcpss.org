@@ -19,6 +19,7 @@ address:
     postal_code: 21738
     latitude: '39.2974363'
     longitude: '-77.0264233'
+    google_maps_place_id: ChIJyTeiHYkoyIkRyydoY2N8Nfs
 principal: 'Gina Cash'
 hours:
     open: '8:00 a.m.'

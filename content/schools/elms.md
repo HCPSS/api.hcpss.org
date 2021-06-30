@@ -19,6 +19,7 @@ address:
     postal_code: 21075
     latitude: '39.2123186'
     longitude: '-76.7314836'
+    google_maps_place_id: ChIJz_a2mwPit4kRp3_NCJw0dYI
 principal: 'David Strothers'
 hours:
     open: '8:20 a.m.'

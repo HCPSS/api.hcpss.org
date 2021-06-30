@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2073805'
     longitude: '-76.7998611'
+    google_maps_place_id: ChIJ3W3WUD_gt4kR1Ka0DcVDkpI
 principal: 'Sean Martin'
 hours:
     open: '9:45 a.m.'

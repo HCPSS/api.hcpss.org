@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.207058'
     longitude: '-76.8460498'
+    google_maps_place_id: ChIJb3jJusbft4kRCtK9NSIVQNI
 principal: 'Allen Cosentino'
 hours:
     open: '8:15 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2980849'
     longitude: '-76.8192648'
+    google_maps_place_id: ChIJd5uEjFofyIkRpO9H3zSc-S8
 principal: 'Michael Babe'
 hours:
     open: '8:00 a.m.'

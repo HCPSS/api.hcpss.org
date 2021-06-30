@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2088819'
     longitude: '-76.8413936'
+    google_maps_place_id: ChIJQQv-OMPft4kR30Mmz4aPEig
 principal: 'Jeffrey Fink'
 hours:
     open: '7:45 a.m.'

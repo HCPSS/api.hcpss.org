@@ -19,6 +19,7 @@ address:
     postal_code: 21045
     latitude: '39.2048291'
     longitude: '-76.8471678'
+    google_maps_place_id: ChIJ2z6N9cbft4kRvjUOjkeZwpk
 principal: 'Joy Smith'
 hours:
     open: '9:20 a.m.'

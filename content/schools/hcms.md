@@ -19,6 +19,7 @@ address:
     postal_code: 21044
     latitude: '39.2246118'
     longitude: '-76.8898421'
+    google_maps_place_id: ChIJedhxg27ft4kRzpFzXEB8a8k
 principal: 'Adam Eldridge'
 hours:
     open: '8:25 a.m.'

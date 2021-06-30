@@ -19,6 +19,7 @@ address:
     postal_code: 20723
     latitude: '39.1447522'
     longitude: '-76.8603862'
+    google_maps_place_id: ChIJw5Q1i9rdt4kRcZ3jB6T
 principal: 'Deborah Holmes'
 hours:
     open: '9:45 a.m.'

@@ -19,6 +19,7 @@ address:
     postal_code: 21075
     latitude: '39.1848609'
     longitude: '-76.7889335'
+    google_maps_place_id: ChIJbWXxk_jgt4kRdxPYABefcOE
 principal: 'Denise Lancaster'
 hours:
     open: '9:45 a.m.'

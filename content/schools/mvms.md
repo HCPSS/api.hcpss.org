@@ -19,6 +19,7 @@ address:
     postal_code: 21104
     latitude: '39.3212504'
     longitude: '-76.9356472'
+    google_maps_place_id: ChIJt_k8CG8nyIkRzhsd8WpTUak
 principal: 'Lynnette Moore'
 hours:
     open: '8:00 a.m.'

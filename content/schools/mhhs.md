@@ -19,6 +19,7 @@ address:
     postal_code: 21042
     latitude: '39.2988298'
     longitude: '-76.8426196'
+    google_maps_place_id: ChIJ2W9o1e4hyIkRam6q1FXwgp4
 principal: 'Joelle Miller'
 hours:
     open: '7:45 a.m.'

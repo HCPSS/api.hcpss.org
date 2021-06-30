@@ -19,6 +19,7 @@ address:
     postal_code: 20759
     latitude: '39.1557382'
     longitude: '-76.9174575'
+    google_maps_place_id: ChIJh3WiHQHct4kRlh8sh0tRCt4
 principal: 'Paul Owens'
 hours:
     open: '8:15 a.m.'

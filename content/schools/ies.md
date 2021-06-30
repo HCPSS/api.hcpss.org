@@ -19,6 +19,7 @@ address:
     postal_code: 21043
     latitude: '39.2311388'
     longitude: '-76.7760581'
+    google_maps_place_id: ChIJbZd4ny4eyIkRBpMY6nt442s
 principal: 'Ernesto Diaz'
 hours:
     open: '9:45 a.m.'
