@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJbWXxk_jgt4kRdxPYABefcOE
 principal: 'Denise Lancaster'
 hours:
-    open: '9:45 a.m.'
-    close: '4:15 p.m.'
+    open: '9:25 a.m.'
+    close: '3:55 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_deeprun.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0103/'
 walk_area: 'https://www.hcpss.org/f/schools/deep-run-es-walk-area.pdf'

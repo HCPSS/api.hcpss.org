@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJ3W3WUD_gt4kR1Ka0DcVDkpI
 principal: 'Sean Martin'
 hours:
-    open: '9:45 a.m.'
-    close: '4:15 p.m.'
+    open: '9:25 a.m.'
+    close: '3:55 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_waterloo.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0604/'
 walk_area: 'https://www.hcpss.org/f/schools/waterloo-es-walk-area.pdf'

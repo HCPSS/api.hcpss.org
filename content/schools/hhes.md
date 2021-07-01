@@ -22,8 +22,8 @@ address:
     google_maps_place_id:
 principal: 'Troy Todd'
 hours:
-    open: '9:10 a.m.'
-    close: '3:40 p.m.'
+    open: '8:50 a.m.'
+    close: '3:20 p.m.'
 profile: null
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0111/'
 walk_area: 'https://www.hcpss.org/f/schools/hanover-hills-es-walk-area.pdf'

@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJt6DLe3Xft4kR0XYHaxCwdw0
 principal: 'Marcy Leonard'
 hours:
-    open: '7:45 a.m.'
-    close: '2:30 p.m.'
+    open: '7:25 a.m.'
+    close: '2:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_wildelake.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0516/'
 walk_area: 'https://www.hcpss.org/f/schools/wilde-lake-hs-walk-area.pdf'

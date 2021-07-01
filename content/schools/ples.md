@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJEb-eiwTgt4kRteJBBzVKabo
 principal: 'Michelle Leader'
 hours:
-    open: '9:15 a.m.'
-    close: '3:45 p.m.'
+    open: '8:55 a.m.'
+    close: '3:25 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_phelpsluck.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0612/'
 walk_area: 'https://www.hcpss.org/f/schools/phelps-luck-es-walk-area.pdf'

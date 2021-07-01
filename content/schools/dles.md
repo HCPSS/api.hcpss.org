@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJVxcGrZLht4kRQBzxrT0UXV0
 principal: 'Heidi Balter'
 hours:
-    open: '9:10 a.m.'
-    close: '3:40 p.m.'
+    open: '8:50 a.m.'
+    close: '3:20 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_duckettslane.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0109/'
 walk_area: 'https://www.hcpss.org/f/schools/ducketts-lane-es-walk-area.pdf'

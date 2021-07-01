@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJQQv-OMPft4kR30Mmz4aPEig
 principal: 'Jeffrey Fink'
 hours:
-    open: '7:45 a.m.'
-    close: '2:30 p.m.'
+    open: '7:25 a.m.'
+    close: '2:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_oaklandmills.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0611/'
 walk_area: 'https://www.hcpss.org/f/schools/oakland-mills-hs-walk-area.pdf'

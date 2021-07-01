@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJ2z6N9cbft4kRvjUOjkeZwpk
 principal: 'Joy Smith'
 hours:
-    open: '9:20 a.m.'
-    close: '3:50 p.m.'
+    open: '9:00 a.m.'
+    close: '3:30 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_stevensforest.pdf'
 msde_report: 'https://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0608/'
 walk_area: 'https://www.hcpss.org/f/schools/stevens-forest-es-walk-area.pdf'

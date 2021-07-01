@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJj0rXTMvft4kRAbUV2-55M0E
 principal: 'Melissa Shindel'
 hours:
-    open: '8:20 a.m.'
-    close: '3:05 p.m.'
+    open: '8:00 a.m.'
+    close: '2:45 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_lakeelkhorn.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0617/'
 walk_area: 'https://www.hcpss.org/f/schools/lake-elkhorn-ms-walk-area.pdf'

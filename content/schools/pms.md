@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJd5uEjFofyIkRpO9H3zSc-S8
 principal: 'Michael Babe'
 hours:
-    open: '8:00 a.m.'
-    close: '2:45 p.m.'
+    open: '8:05 a.m.'
+    close: '2:50 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_patapsco.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0610/'
 walk_area: 'https://www.hcpss.org/f/schools/patapsco-ms-walk-area.pdf'

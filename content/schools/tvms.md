@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJ1VHlPofht4kR5NUSK50uDbw
 principal: 'Shiney Ann John'
 hours:
-    open: '8:30 a.m.'
-    close: '3:15 p.m.'
+    open: '8:10 a.m.'
+    close: '2:55 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_thomasviaduct.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0110/'
 walk_area: 'https://www.hcpss.org/f/schools/thomas-viaduct-ms-walk-area.pdf'

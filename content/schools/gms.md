@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJyTeiHYkoyIkRyydoY2N8Nfs
 principal: 'Gina Cash'
 hours:
-    open: '8:00 a.m.'
-    close: '2:45 p.m.'
+    open: '7:40 a.m.'
+    close: '2:25 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_glenwood.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0405/'
 walk_area: null

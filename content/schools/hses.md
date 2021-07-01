@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJd6c5XFAfyIkRi5N_dmUfuRQ
 principal: 'Amanda Wadsworth'
 hours:
-    open: '9:05 a.m.'
-    close: '3:35 p.m.'
+    open: '8:45 a.m.'
+    close: '3:15 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_hollifieldstation.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0217/'
 walk_area: 'https://www.hcpss.org/f/schools/hollifield-station-es-walk-area.pdf'

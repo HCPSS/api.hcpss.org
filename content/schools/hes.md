@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJIZ3vqC7ct4kRoni9GZoY6Ic
 principal: 'Lisa Ciarapica'
 hours:
-    open: '9:20 a.m.'
-    close: '3:50 p.m.'
+    open: '9:00 a.m.'
+    close: '3:30 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_hammond.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0606/'
 walk_area: 'https://www.hcpss.org/f/schools/hammond-es-walk-area.pdf'

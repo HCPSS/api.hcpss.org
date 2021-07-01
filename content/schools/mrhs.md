@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJwZmUPKcmyIkRLhBI8eu_VJ4
 principal: 'Tammy Goldeisen'
 hours:
-    open: '7:45 a.m.'
-    close: '2:30 p.m.'
+    open: '7:25 a.m.'
+    close: '2:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_hs_marriottsridge.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0308/'
 walk_area: 'https://www.hcpss.org/f/schools/marriotts-ridge-hs-walk-area.pdf'

@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJq8c9_2Dft4kR32NWm1Z4Jcc
 principal: 'Christina Krabitz'
 hours:
-    open: '7:45 a.m.'
-    close: '2:30 p.m.'
+    open: '7:15 a.m.'
+    close: '2:10 p.m.'
 profile: null
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0080/'
 walk_area: null

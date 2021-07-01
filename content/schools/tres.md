@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJg5f0w5UnyIkRrDQM0h9dqe0
 principal: 'Tiffany Tresler'
 hours:
-    open: '9:15 a.m.'
-    close: '3:45 p.m.'
+    open: '8:55 a.m.'
+    close: '3:25 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_triadelphiaridge.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0306/'
 walk_area: null

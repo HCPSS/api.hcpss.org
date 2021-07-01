@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJwzaBEv_dt4kRbGQlZGgqlzE
 principal: 'Drew Cockley'
 hours:
-    open: '8:30 a.m.'
-    close: '3:15 p.m.'
+    open: '8:10 a.m.'
+    close: '2:55 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_bonniebranch.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0108/'
 walk_area: 'https://www.hcpss.org/f/schools/bonnie-branch-ms-walk-area.pdf'

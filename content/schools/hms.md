@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJIZ3vqC7ct4kRRHJzEyTpJUA
 principal: 'Aaron Dale'
 hours:
-    open: '8:25 a.m.'
-    close: '3:10 p.m.'
+    open: '8:05 a.m.'
+    close: '2:50 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_hammond.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0607/'
 walk_area: 'https://www.hcpss.org/f/schools/hammond-ms-walk-area.pdf'

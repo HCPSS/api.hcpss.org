@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJlR-nfI8oyIkRsU8grT3VriM
 principal: 'Julia Bialeski'
 hours:
-    open: '9:40 a.m.'
-    close: '4:10 p.m.'
+    open: '9:20 a.m.'
+    close: '3:50 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_bushypark.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0406/'
 walk_area: null

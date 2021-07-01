@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJfTIgNJMfyIkRSsi4gFhgIWo
 principal: 'Peter Gaylord'
 hours:
-    open: '8:45 a.m.'
-    close: '3:30 p.m.'
+    open: '8:25 a.m.'
+    close: '3:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_ms_ellicottmills.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0202/'
 walk_area: 'https://www.hcpss.org/f/schools/ellicott-mills-ms-walk-area.pdf'

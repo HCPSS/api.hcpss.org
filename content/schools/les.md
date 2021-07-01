@@ -22,8 +22,8 @@ address:
     google_maps_place_id: ChIJzehj8TEpyIkRy20T3s5RqLo
 principal: 'Debra Anoff'
 hours:
-    open: '9:00 a.m.'
-    close: '3:30 p.m.'
+    open: '8:40 a.m.'
+    close: '3:10 p.m.'
 profile: 'https://www.hcpss.org/f/schools/profiles/prof_es_lisbon.pdf'
 msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCardSchool/1//1/13/0407/'
 walk_area: 'https://www.hcpss.org/f/schools/lisbon-es-walk-area.pdf'
