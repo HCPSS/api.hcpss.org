@@ -20,7 +20,7 @@ address:
     latitude: '39.2167617'
     longitude: '-76.8908621'
     google_maps_place_id: ChIJbwj2tWzft4kRQLt2TtSsJYM
-principal: 'Laurel Porter'
+principal: 'Lauren Beaman'
 hours:
     open: '8:45 a.m.'
     close: '3:15 p.m.'

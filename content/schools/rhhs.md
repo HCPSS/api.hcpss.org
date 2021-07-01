@@ -20,7 +20,7 @@ address:
     latitude: '39.151512'
     longitude: '-76.9165707'
     google_maps_place_id: ChIJATQ9dMbYt4kRLIkKe0laYBc
-principal: 'Kathryn McKinley'
+principal: 'Mikaela Lidgard'
 hours:
     open: '7:25 a.m.'
     close: '2:10 p.m.'

@@ -20,7 +20,7 @@ address:
     latitude: '39.207058'
     longitude: '-76.8460498'
     google_maps_place_id: ChIJb3jJusbft4kRCtK9NSIVQNI
-principal: 'Allen Cosentino'
+principal: 'Regina Coleman'
 hours:
     open: '7:55 a.m.'
     close: '2:40 p.m.'

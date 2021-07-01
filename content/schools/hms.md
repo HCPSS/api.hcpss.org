@@ -20,7 +20,7 @@ address:
     latitude: '39.1483545'
     longitude: '-76.880843'
     google_maps_place_id: ChIJIZ3vqC7ct4kRRHJzEyTpJUA
-principal: 'Aaron Dale'
+principal: 'Adam Eldridge'
 hours:
     open: '8:05 a.m.'
     close: '2:50 p.m.'

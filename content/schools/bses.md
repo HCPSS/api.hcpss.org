@@ -20,7 +20,7 @@ address:
     latitude: '39.2042888'
     longitude: '-76.7891695'
     google_maps_place_id: ChIJ-zuHlUngt4kRpVs2tEhMXFw
-principal: 'Carol Hahn'
+principal: 'Aricka Porter'
 hours:
     open: '9:25 a.m.'
     close: '3:55 p.m.'

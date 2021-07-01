@@ -20,7 +20,7 @@ address:
     latitude: '39.2550906'
     longitude: '-76.8692511'
     google_maps_place_id: ChIJle9wymAgyIkRoyNq2uMOP2k
-principal: 'Mikaela Lidgard'
+principal: 'Allen Cosentino'
 hours:
     open: '8:00 a.m.'
     close: '2:45 p.m.'
