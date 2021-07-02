@@ -1,0 +1,10 @@
+{
+    "machine_name": "{{ .Params.machine_name }}",
+    "name": "{{ .Params.name }}",
+    "link": {{ if .Params.link }}"{{ .Params.link }}"{{ else }}null{{ end }},
+    "scope": "{{ .Params.scope }}",
+    "icon": {
+        "fa": "{{ .Params.icon.fa }}",
+        "color": "{{ .Params.icon.color }}"
+    }
+}

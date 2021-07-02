@@ -1,0 +1,7 @@
+{{- $awards := where (where .Site.Pages "Section" "awards") "Kind" "page" -}}
+[
+	{{- range $index, $award := $awards -}}
+		{{- if $index -}},{{- end -}}
+		{{- partial "award.json" . -}}
+	{{- end -}}
+]
