@@ -1,5 +1,5 @@
 ---
-acronym: woes
+acronym: wes
 name: Worthington
 full_name: 'Worthington Elementary School'
 primary_color: '#0099CC'
