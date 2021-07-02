@@ -20,7 +20,7 @@ address:
     latitude: '39.2311388'
     longitude: '-76.7760581'
     google_maps_place_id: ChIJbZd4ny4eyIkRBpMY6nt442s
-principal: 'Ernesto Diaz'
+principal: 'Lauren Beaman'
 hours:
     open: '9:25 a.m.'
     close: '3:55 p.m.'
