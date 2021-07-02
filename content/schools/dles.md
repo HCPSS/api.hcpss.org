@@ -38,15 +38,10 @@ mascot: Dolphins
 achievements:
     -
         machine_name: pbis
-        name: 'PBIS Maryland'
         level: Silver
-        color: A8A9AD
     -
         machine_name: leed
-        name: 'LEED School'
-        url: null
         level: Gold
-        color: FECC6A
         years:
             - '2015'
 calendar:

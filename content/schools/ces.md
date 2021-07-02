@@ -37,21 +37,17 @@ environment:
 mascot: Cougars
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '1999'
             - '2010'
             - '2014'
     -
-        machine_name: blue
-        name: 'Blue Ribbon School'
+        achievement: blue
         years:
             - '2005'
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Silver
 calendar:
     mode: null

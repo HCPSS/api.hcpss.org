@@ -37,21 +37,16 @@ environment:
 mascot: Dragons
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2007'
             - '2011'
             - '2015'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Silver
 calendar:
     mode: null

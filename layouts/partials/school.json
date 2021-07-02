@@ -5,12 +5,12 @@
 	"primary_color": "{{ .school.primary_color }}",
 	"secondary_color": "{{ .school.secondary_color }}",
 	"highlight_color": "{{ .school.highlight_color }}",
-  "level": "{{ .school.level }}",
-  "social": {
-    "twitter": "{{ if .school.social.twitter }}{{ .school.social.twitter }}{{ else }}hcpss_{{ .school.acronym }}{{ end }}",
-    "facebook": {{ if .school.social.facebook }}"{{ .school.social.facebook }}"{{ else }}null{{ end }},
-    "instagram": {{ if .school.social.instagram }}"{{ .school.social.instagram }}"{{ else }}null{{ end }}
-  },
+	"level": "{{ .school.level }}",
+	"social": {
+		"twitter": "{{ if .school.social.twitter }}{{ .school.social.twitter }}{{ else }}hcpss_{{ .school.acronym }}{{ end }}",
+		"facebook": {{ if .school.social.facebook }}"{{ .school.social.facebook }}"{{ else }}null{{ end }},
+		"instagram": {{ if .school.social.instagram }}"{{ .school.social.instagram }}"{{ else }}null{{ end }}
+	},
 	"contact": {
 		"phone": "{{ .school.contact.phone }}",
 		"fax": "{{ .school.contact.fax }}"
@@ -57,24 +57,34 @@
 		"representative": "{{ .boe_cluster.representative }}"
 	},
 	"achievements": [
-	{{- range $index, $award := .school.achievements }}
-		{{ if $index }},{{ end }}{
-			"machine_name": "{{ $award.machine_name }}",
-			"name": "{{ $award.name }}"
-			{{- if $award.level -}},
-			"level": "{{ $award.level }}"
+	{{- range $index, $achievement := .school.achievements -}}
+		{{- if $index }},{{ end -}}
+		{{- range $award := $.awards -}}
+			{{- if eq $award.Params.machine_name $achievement.achievement }}
+		{
+			"machine_name": "{{ $award.Params.machine_name }}",
+			"name": "{{ $award.Params.name }}",
+			"scope": "{{ $award.Params.scope }}",
+			"icon": {
+				"fa": "{{ $award.Params.icon.fa }}",
+				"color": "{{ $award.Params.icon.color }}"
+			}
+			{{- if $achievement.level -}},
+			"level": "{{ $achievement.level }}"
 			{{- end -}}
-			{{- if $award.url -}},
-			"url": "{{ $award.url }}"
+			{{- if $award.Params.url -}},
+			"url": "{{ $award.Params.url }}"
 			{{- end -}}
-			{{- if $award.color -}},
-			"color": "{{ $award.color }}"
+			{{- if $award.Params.color -}},
+			"color": "{{ $award.Params.color }}"
 			{{- end -}}
-			{{- if $award.years -}},
-			"years": [{{ "\"" }}{{ delimit $award.years "\", \"" }}{{ "\"" }}]
+			{{- if $achievement.years -}},
+			"years": [{{ "\"" }}{{ delimit $achievement.years "\", \"" }}{{ "\"" }}]
 			{{- end }}
 		}
-	{{ end }}
+			{{- end }}
+		{{- end -}}
+	{{- end }}
 	],
 	"calendar": {
 		"account": {{ if .school.calendar.account }}"{{ .school.calendar.account }}"{{ else }}null{{ end }},

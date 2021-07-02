@@ -37,18 +37,14 @@ environment:
 mascot: Tigers
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2007'
             - '2010'
             - '2014'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
 calendar:
     mode: null
     account: null

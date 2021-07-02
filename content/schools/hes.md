@@ -37,18 +37,14 @@ environment:
 mascot: 'Tuffy the Tiger'
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2005'
             - '2009'
             - '2013'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Silver
-        color: A8A9AD
 calendar:
     mode: null
     account: null

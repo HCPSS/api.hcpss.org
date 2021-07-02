@@ -37,9 +37,7 @@ environment:
 mascot: Mustangs
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2013'
 calendar:

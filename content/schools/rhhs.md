@@ -37,19 +37,16 @@ environment:
 mascot: Hawks
 achievements:
     -
-        machine_name: blue
-        name: 'Blue Ribbon School'
+        achievement: blue
         years:
             - '2008'
     -
-        machine_name: nce
-        name: 'National Council of Excellence'
+        achievement: nce
         years:
             - '2012'
             - '2015'
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Silver
 calendar:
     mode: AGENDA

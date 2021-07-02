@@ -37,13 +37,11 @@ environment:
 mascot: Eagles
 achievements:
     -
-        machine_name: blue
-        name: 'Blue Ribbon School'
+        achievement: blue
         years:
             - '2010'
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Gold
 calendar:
     mode: null

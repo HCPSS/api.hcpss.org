@@ -37,20 +37,15 @@ environment:
 mascot: Panthers
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: 'http://aesisgreen.weebly.com/index.html'
+        achievement: green
         years:
             - '2009'
             - '2013'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Gold
 calendar:
     mode: null

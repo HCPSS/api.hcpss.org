@@ -37,19 +37,15 @@ environment:
 mascot: Eagles
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2015'
     -
-        machine_name: nce
-        name: 'National Council of Excellence'
+        achievement: nce
         years:
             - '2015'
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Gold
 calendar:
     mode: AGENDA

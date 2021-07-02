@@ -37,22 +37,16 @@ environment:
 mascot: Roadrunners
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2010'
             - '2014'
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Platinum
     -
-        machine_name: leed
-        name: 'LEED School'
-        url: null
+        achievement: leed
         level: Silver
-        color: A6A6A9
         years:
             - '2012'
 calendar:

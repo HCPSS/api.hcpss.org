@@ -37,27 +37,19 @@ environment:
 mascot: Thunderbirds
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2010'
             - '2014'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
-        level: Gold
-        color: D7A03B
-    -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: pbis
         level: Gold
     -
-        machine_name: leed
-        name: 'LEED School'
-        url: null
+        achievement: healthy_howard
+        level: Gold
+    -
+        achievement: leed
         level: Silver
-        color: A6A6A9
         years:
             - '2015'
 calendar:

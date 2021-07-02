@@ -37,20 +37,14 @@ environment:
 mascot: Wolves
 achievements:
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Bronze
-        color: 9f6e14
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Gold
     -
-        machine_name: leed
-        name: 'LEED School'
-        url: null
+        achievement: leed
         level: Silver
-        color: A6A6A9
         years:
             - '2015'
 calendar:

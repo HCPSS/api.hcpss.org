@@ -37,13 +37,10 @@ environment:
 mascot: 'Freddie Falcons'
 achievements:
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Bronze
-        color: BA8748
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Platinum
 calendar:
     mode: null

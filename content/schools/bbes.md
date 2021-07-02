@@ -37,26 +37,19 @@ environment:
 mascot: Beavers
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2014'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
     -
-        machine_name: healthy_howard
+        achievement: healthy_howard
         name: 'Healthy Howard School'
         level: Platinum
     -
-        machine_name: leed
-        name: 'LEED School'
-        url: null
+        achievement: leed
         level: Silver
-        color: A6A6A9
         years:
             - '2016'
 calendar:

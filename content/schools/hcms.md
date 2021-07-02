@@ -37,9 +37,7 @@ environment:
 mascot: Cougars
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2014'
 calendar:

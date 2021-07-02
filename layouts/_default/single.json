@@ -1,4 +1,5 @@
 {{- $admin_cluster := index (where (where .Site.Pages "Section" "administrative_clusters") ".Params.cluster" .Params.cluster) 0 -}}
 {{- $boe_cluster := index (where (where .Site.Pages "Section" "boe_clusters") ".Params.cluster" .Params.boe_cluster) 0 -}}
 {{- $section := .Site.GetPage "section" "schools" -}}
-{{- partial "school.json" (dict "school" .Params "admin_cluster" $admin_cluster.Params "boe_cluster" $boe_cluster.Params "section" $section.Params) -}}
+{{- $awards := where .Site.Pages "Section" "awards" -}}
+{{- partial "school.json" (dict "school" .Params "admin_cluster" $admin_cluster.Params "boe_cluster" $boe_cluster.Params "section" $section.Params "awards" $awards) -}}

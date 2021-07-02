@@ -37,15 +37,11 @@ environment:
 mascot: Raiders
 achievements:
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Silver
     -
-        machine_name: leed
-        name: 'LEED School'
-        url: null
+        achievement: leed
         level: Gold
-        color: FECC6A
         years:
             - '2016'
 calendar:

@@ -37,25 +37,19 @@ environment:
 mascot: Leopards
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2008'
             - '2012'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
     -
-        machine_name: blue
-        name: 'Blue Ribbon School'
+        achievement: blue
         years:
             - '2010'
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Silver
 calendar:
     mode: null

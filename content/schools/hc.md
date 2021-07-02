@@ -37,13 +37,10 @@ environment:
 mascot: Phoenixes
 achievements:
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: 'Gold, Platinum'
 calendar:
     mode: null

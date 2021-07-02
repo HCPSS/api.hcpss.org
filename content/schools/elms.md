@@ -37,10 +37,8 @@ environment:
 mascot: 'Rolling Thunder'
 achievements:
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
 calendar:
     mode: null
     account: null

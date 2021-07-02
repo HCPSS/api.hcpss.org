@@ -38,12 +38,9 @@ mascot: Bulldogs
 achievements:
     -
         machine_name: pbis
-        name: 'PBIS Maryland'
         level: Gold
-        color: FECC6A
     -
         machine_name: healthy_howard
-        name: 'Healthy Howard School'
         level: Gold
 calendar:
     mode: null

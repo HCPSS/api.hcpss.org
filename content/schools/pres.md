@@ -37,15 +37,12 @@ environment:
 mascot: 'Pointer Dogs'
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2011'
             - '2015'
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Gold
 calendar:
     mode: null

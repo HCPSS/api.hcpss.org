@@ -37,13 +37,10 @@ environment:
 mascot: Wildcats
 achievements:
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: D7A03B
     -
-        machine_name: healthy_howard
-        name: 'Healthy Howard School'
+        achievement: healthy_howard
         level: Platinum
 calendar:
     mode: null

@@ -37,17 +37,13 @@ environment:
 mascot: Cougars
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2011'
             - '2015'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
 calendar:
     mode: null
     account: sqspkjkbr6v6arss44js3n21eg@group.calendar.google.com

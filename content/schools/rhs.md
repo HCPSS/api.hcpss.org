@@ -37,9 +37,7 @@ environment:
 mascot: Gators
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2007'
             - '2011'

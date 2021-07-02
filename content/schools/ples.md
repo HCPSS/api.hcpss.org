@@ -37,11 +37,8 @@ environment:
 mascot: Falcons
 achievements:
     -
-        machine_name: leed
-        name: 'LEED School'
-        url: null
+        achievement: leed
         level: Silver
-        color: A6A6A9
         years:
             - '2015'
 calendar:

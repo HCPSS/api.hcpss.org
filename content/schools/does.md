@@ -37,9 +37,7 @@ environment:
 mascot: Dolphins
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2009'
             - '2014'

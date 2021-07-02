@@ -37,17 +37,13 @@ environment:
 mascot: Swans
 achievements:
     -
-        machine_name: green
-        name: 'Green School'
-        url: null
+        achievement: green
         years:
             - '2010'
             - '2014'
     -
-        machine_name: pbis
-        name: 'PBIS Maryland'
+        achievement: pbis
         level: Gold
-        color: FECC6A
 calendar:
     mode: null
     account: hcpss.org_q9g0pqnem8osin8btt2u1t391o@group.calendar.google.com
