@@ -20,7 +20,7 @@ address:
     latitude: '39.2564951'
     longitude: '-76.8343849'
     google_maps_place_id: ChIJt0me8gPit4kRACdFs9P5uxw
-principal: 'Michael Caldwell'
+principal: 'Kelley Powell'
 hours:
     open: '9:25 a.m.'
     close: '3:55 p.m.'

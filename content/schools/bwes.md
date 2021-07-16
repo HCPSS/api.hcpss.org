@@ -20,7 +20,7 @@ address:
     latitude: '39.2210506'
     longitude: '-76.8694347'
     google_maps_place_id: ChIJC4ftd5zft4kRzFV1FP2Z4gU
-principal: 'Kelley Powell'
+principal: 'Danielle Shanks-Forney'
 hours:
     open: '8:45 a.m.'
     close: '3:15 p.m.'
