@@ -29,7 +29,7 @@ msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCar
 walk_area: 'https://www.hcpss.org/f/schools/oakland-mills-hs-walk-area.pdf'
 title_1: false
 cluster: 3
-boe_cluster: A
+boe_cluster: 2
 environment:
     water:
         source: city

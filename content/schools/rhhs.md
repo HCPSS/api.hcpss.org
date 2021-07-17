@@ -29,7 +29,7 @@ msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCar
 walk_area: 'https://www.hcpss.org/f/schools/river-hill-hs-walk-area.pdf'
 title_1: false
 cluster: 1
-boe_cluster: F
+boe_cluster: 4
 environment:
     water:
         source: city

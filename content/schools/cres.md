@@ -29,7 +29,7 @@ msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCar
 walk_area: 'https://www.hcpss.org/f/schools/cradlerock-es-walk-area.pdf'
 title_1: true
 cluster: 3
-boe_cluster: A
+boe_cluster: 2
 environment:
     water:
         source: city

@@ -29,7 +29,7 @@ msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCar
 walk_area: 'https://www.hcpss.org/f/schools/lisbon-es-walk-area.pdf'
 title_1: false
 cluster: 2
-boe_cluster: C
+boe_cluster: 5
 environment:
     water:
         source: well

@@ -29,7 +29,7 @@ msde_report: 'http://reportcard.msde.maryland.gov/Graphs/#/ReportCards/ReportCar
 walk_area: null
 title_1: false
 cluster: 2
-boe_cluster: D
+boe_cluster: 3
 environment:
     water:
         source: city

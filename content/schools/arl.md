@@ -29,7 +29,7 @@ msde_report: 'https://www.hcpss.org/f/schools/performance/ispr_en_ec_arl.pdf'
 walk_area: null
 title_1: false
 cluster: 1
-boe_cluster: E
+boe_cluster: 5
 environment:
     water:
         source: city
