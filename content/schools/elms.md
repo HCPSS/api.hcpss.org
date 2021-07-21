@@ -2,9 +2,9 @@
 acronym: elms
 name: 'Elkridge Landing'
 full_name: 'Elkridge Landing Middle School'
-primary_color: '#660000'
+primary_color: '#4a6cae'
 secondary_color: '#D6D6D6'
-highlight_color: '#660000'
+highlight_color: '#4a6cae'
 level: ms
 social_accounts:
   instagram: ~
